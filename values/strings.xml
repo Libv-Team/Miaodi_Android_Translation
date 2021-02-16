@@ -1,42 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">喵滴</string>
-    <string name="drawer_item_settings">设置</string>
-    <!-- cancel and ok -->
     <string name="cancel">取消</string>
     <string name="ok">确定</string>
     <string name="no">算了</string>
-    <!-- show options -->
-    <string name="menu_item_display_option">查看选项</string>
-    <string name="choice_item_file_ext">文件后缀</string>
-    <string name="choice_item_file_size">文件大小</string>
-
-    <!-- sort options -->
     <string name="menu_item_sort">排序</string>
     <string name="choice_item_create_time_sort">按创建时间</string>
     <string name="choice_item_modify_time_sort">按修改时间</string>
     <string name="choice_item_title_sort">按标题</string>
-
-
-    <!-- file list fragment -->
-    <string name="toast_message_sdcard_unavailable">SD card不可用</string>
     <string name="list_empty">没有找到任何文件\n点击右下角按钮新建文件</string>
-
-    <!-- menu -->
     <string name="menu_item_search">搜索</string>
-
-    <!-- search hint -->
     <string name="search_hint">搜索文件</string>
-
-    <!-- action mode menu -->
     <string name="action_mode_menu_item_select_all">全选</string>
     <string name="action_mode_menu_item_delete">删除</string>
     <string name="dialog_message_delete_files_confirm">要删除选中的文件吗？</string>
-    <!-- file list fragment -->
-
-
-    <!-- edit fragment -->
-    <!-- menu text -->
     <string name="menu_item_undo">撤销</string>
     <string name="menu_item_redo">恢复</string>
     <string name="menu_item_preview">预览</string>
@@ -47,66 +24,34 @@
     <string name="menu_item_docs">Markdown 语法</string>
     <string name="menu_item_statistics">字符数量统计</string>
     <string name="menu_item_edit">编辑</string>
-
     <string name="toast_message_deleted">已删除</string>
     <string name="toast_message_delete_error">文件删除失败</string>
     <string name="toast_message_cleared">内容已清除</string>
-
-    <!-- edit fragment toolbar menu item dialog -->
-    <!-- save file -->
     <string name="dialog_title_save_file">保存文件</string>
     <string name="dialog_et_hint_file_name">文件名</string>
     <string name="dialog_tv_file_extension">.md</string>
     <string name="dialog_btn_save">保存</string>
-
-    <!-- rename file -->
     <string name="dialog_title_rename_file">重命名</string>
-    <string name="dialog_et_hint_new_file_name">新的文件名</string>
     <string name="dialog_btn_rename">重命名</string>
-
-    <!-- clear all -->
     <string name="toast_content_empty">内容为空</string>
     <string name="dialog_message_clear_all">确定要清除所有内容吗？</string>
-
-    <!-- markdown docs fragment toolbar title -->
-    <string name="docs_fragment_tb_title">Markdown 语法手册</string>
-
-    <!-- statistics -->
     <string name="dialog_title_statistics">统计信息</string>
     <string name="dialog_tv_bold_text">全文共</string>
     <string name="dialog_tv_char_count">10</string>
     <string name="dialog_tv_char_unit">字</string>
-
-    <!-- editor toolbar dialog -->
     <string name="dialog_btn_insert">插入</string>
-
-    <!-- insert link -->
     <string name="dialog_title_insert_link">插入链接</string>
     <string name="dialog_et_hint_link_display_text">显示文本（默认：Link）</string>
     <string name="dialog_et_hint_link_content">链接</string>
-
-    <!-- insert image -->
     <string name="dialog_item_text_local_image">本地图片</string>
     <string name="dialog_item_text_internet_image">网络图片</string>
     <string name="dialog_title_insert_image">插入图片</string>
     <string name="dialog_et_hint_image_display_text">显示文本（默认：Image）</string>
     <string name="dialog_et_hint_image_uri">图片链接</string>
-
-    <!-- insert block code -->
-    <string name="editor_dialog_title_insert_block_code">插入代码块</string>
-    <string name="dialog_et_hint_language_name">编程语言名称</string>
-
-    <!-- dialog toast -->
     <string name="toast_saved">已保存</string>
     <string name="toast_does_not_select">没有选择图片</string>
     <string name="toast_file_name_can_not_empty">文件名不能为空</string>
     <string name="toast_file_name_exists">文件名已存在，请重新输入</string>
-    <!-- edit fragment -->
-
-
-    <!-- preference -->
-
-    <!-- preference key -->
     <string name="pref_key_language">language</string>
     <string name="pref_key_custom_editor">custom_editor</string>
     <string name="pref_key_sync">sync</string>
@@ -133,7 +78,6 @@
     <string name="pref_key_privacy">privacy</string>
     <string name="pref_key_agreement">agreement</string>
     <string name="pref_key_firstPage">firstPage</string>
-    <!--preference title and summary-->
     <string name="pref_title_firstPage">首页选择</string>
     <string name="pref_title_privacy">隐私政策</string>
     <string name="category_title_display">显示</string>
@@ -166,7 +110,6 @@
     <string name="pref_title_pic">图片上传</string>
     <string name="category_title_yun">高级服务</string>
     <string name="pref_title_yun">云服务</string>
-    <!-- list preference item text -->
     <string name="pref_array_item_auto">跟随系统</string>
     <string name="pref_array_item_english">英文</string>
     <string name="pref_array_item_chinese_s">简体中文</string>
@@ -179,38 +122,27 @@
     <string name="pref_array_item_red">烈焰红</string>
     <string name="pref_array_item_blue">深蓝</string>
     <string name="pref_array_item_origin">叶晟橙</string>
-    <!--about fragment-->
     <string name="app_describe">做不一样的自己</string>
     <string name="app_version_text">当前版本</string>
     <string name="app_version_number">1.0</string>
     <string name="contact_me">关注我们</string>
     <string name="bottom_text">©2014–2021 Libv All rights reserved</string>
-    <!-- about fragment bottom sheet menu -->
     <string name="menu_item_title_email">Email</string>
     <string name="menu_item_title_github">GitHub</string>
     <string name="menu_item_title_weibo">微博</string>
-    <!-- preference -->
-
-    <!-- MainPage -->
     <string name="tab_1">记录</string>
     <string name="tab_2">笔记星球</string>
     <string name="tab_3">云服务</string>
     <string name="tab_4">设置</string>
-
-    <!-- Login -->
     <string name="User">账号</string>
     <string name="LoginOrOut">登录</string>
     <string name="Login">登录</string>
     <string name="qqLogin">QQ登录(推荐使用)</string>
     <string name="change_user_data">修改账号资料</string>
     <string name="user_exit">退出当前账号</string>
-
-    <!--Preference-->
     <string name="menu_item_setting">关于MarkDownL</string>
     <string name="Theme">主题</string>
     <string name="DarkMode">夜间模式</string>
-
-    <!--menu-->
     <string name="menu_item_upload">上传云端</string>
     <string name="menu_item_download">下载</string>
     <string name="menu_item_update">编辑</string>
@@ -221,8 +153,6 @@
     <string name="mark_ground_cancel">取消分享</string>
     <string name="mark_ground_title">共享的笔记</string>
     <string name="md">另存为.md</string>
-
-    <!--test content-->
     <string name="test_long_title">这是喵滴的标题，没错，只是用来测试哒，不要紧张</string>
     <string name="test_long_content">这是喵滴App,你好，欢迎使用。很高兴能认识你，希望你会喜欢我哦！爱你哟么么哒！我是一只小喵滴，有颜值，有实力。不怕苦，不怕累，吃苦耐劳第一位。我有什么缺点都可以改进，就怕主人不要我！</string>
     <string name="send">发送</string>
@@ -410,7 +340,7 @@
     <string name="Character">章节</string>
     <string name="current_book">当前书本为:</string>
     <string name="choose_chara">请选择要移动至的章节</string>
-    <string name="your_current_Chara">当前章节</string>
+    <string name="your_current_Chara">你当前章节为:</string>
     <string name="set_char">移动文章至新章节</string>
     <string name="new_char">新章节</string>
     <string name="setChar_tips">请填写你的章节名称:)</string>
@@ -647,4 +577,46 @@
     <string name="unknown_exception">未知错误</string>
     <string name="try_restart_app">尝试重启应用</string>
     <string name="close_app">关闭应用</string>
+    <string name="click_right_bottom_to_create">点击右下角添加记录本</string>
+    <string name="choose_book_and_chara">选择书本以及章节</string>
+    <string name="add_book_or_chara">添加书本或章节</string>
+    <string name="please_choose_adding_book_or_chara">请选择添加书本或章节</string>
+    <string name="book">书本</string>
+    <string name="chara">章节</string>
+    <string name="replaced_text">被替换的文本</string>
+    <string name="the_text_after_replace">替换后文本</string>
+    <string name="add_or_edit_flag">Add/Edit Flag</string>
+    <string name="page_settings">文章设置</string>
+    <string name="current_chara">当前章节:</string>
+    <string name="current_page_name">当前文章名称:</string>
+    <string name="current_state_non_sync">当前状态:未同步</string>
+    <string name="current_state_ban_sync">当前状态:禁止同步</string>
+    <string name="current_state_had_sync">当前状态:已同步</string>
+    <string name="add_or_edit_todo">Add/Edit Todo</string>
+    <string name="load_successfully">拉取成功</string>
+    <string name="load_abortively">拉取失败</string>
+    <string name="activate_abortively">激活失败</string>
+    <string name="activate_successfully">激活成功</string>
+    <string name="writing_finish">WritingFinish</string>
+    <string name="choose_book">选择书本</string>
+    <string name="choose_showing_chara">选择章节</string>
+    <string name="sure_to_replace">确定替换</string>
+    <string name="search_the_replace_text">查找被替换文本</string>
+    <string name="sure_to_change">确认修改</string>
+    <string name="choose_pic">选择图片</string>
+    <string name="delete_pic">删除背景</string>
+    <string name="load_page">拉取文章备份</string>
+    <string name="tips_load_page_from_extra_webdav">从云端设定的云端拉取数据</string>
+    <string name="load_todo">拉取Todo备份</string>
+    <string name="lab_tips">请不要过度依赖</string>
+    <string name="apply_to_all_place">自定义到全局</string>
+    <string name="tips_apply_to_all_place">需设置了自定义字体才可开启</string>
+    <string name="remind_every_day">每日提醒</string>
+    <string name="tips_remind_every_day">每天晚上九点会提醒完成每日目标</string>
+    <string name="rebackup">重新进行备份</string>
+    <string name="tips_rebackup">把本地的数据全部重新进行备份</string>
+    <string name="icon_choose">图标选择</string>
+    <string name="logo_q">卖萌图</string>
+    <string name="drawer_item_settings">设置</string>
+    <string name="editor_dialog_title_insert_block_code">代码插入</string>
 </resources>

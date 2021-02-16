@@ -1,43 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Miaodi</string>
-    <!-- navigation drawer -->
-    <string name="drawer_item_settings">Settings</string>
-    <!-- cancel and ok -->
     <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
-    <!-- show options -->
-    <string name="menu_item_display_option">Display options</string>
-    <string name="choice_item_file_ext">File extension</string>
-    <string name="choice_item_file_size">File size</string>
-
-
-    <!-- sort options -->
     <string name="menu_item_sort">Sort by</string>
     <string name="choice_item_create_time_sort">Creation time</string>
     <string name="choice_item_modify_time_sort">Last modify</string>
     <string name="choice_item_title_sort">Title</string>
-    <!-- file list fragment -->
-    <string name="toast_message_sdcard_unavailable">SD card unavailable</string>
     <string name="list_empty">Did not find any file, click the button to create a new file.</string>
-
-    <!-- menu -->
     <string name="menu_item_search">Search</string>
-
-
-
-    <!-- search hint -->
     <string name="search_hint">Search files</string>
-
-    <!-- action mode menu -->
     <string name="action_mode_menu_item_select_all">Select all</string>
     <string name="action_mode_menu_item_delete">Delete</string>
     <string name="dialog_message_delete_files_confirm">Do you want to delete the selected file?</string>
-    <!-- file list fragment -->
-
-
-    <!-- edit fragment -->
-    <!-- menu text -->
     <string name="menu_item_undo">Undo</string>
     <string name="menu_item_redo">Redo</string>
     <string name="menu_item_preview">Preview</string>
@@ -48,65 +23,34 @@
     <string name="menu_item_docs">Markdown cheat sheet</string>
     <string name="menu_item_statistics">Statistics</string>
     <string name="menu_item_edit">Edit</string>
-
     <string name="toast_message_deleted">Deleted</string>
     <string name="toast_message_delete_error">File deletion failed</string>
     <string name="toast_message_cleared">The content has been cleared</string>
-
-    <!-- edit fragment toolbar menu item dialog -->
-    <!-- save file -->
     <string name="dialog_title_save_file">Save file</string>
     <string name="dialog_et_hint_file_name">File name</string>
     <string name="dialog_tv_file_extension">.md</string>
     <string name="dialog_btn_save">Save</string>
-
-    <!-- rename file -->
     <string name="dialog_title_rename_file">Rename</string>
-    <string name="dialog_et_hint_new_file_name">New file name</string>
     <string name="dialog_btn_rename">Rename</string>
-
-    <!-- clear all -->
     <string name="toast_content_empty">Content is empty</string>
     <string name="dialog_message_clear_all">Are you sure to clear all?</string>
-
-    <!-- markdown docs fragment toolbar title -->
-    <string name="docs_fragment_tb_title">Markdown Cheat Sheet</string>
-
-    <!-- statistics -->
     <string name="dialog_title_statistics">Statistics</string>
     <string name="dialog_tv_bold_text">Characters count</string>
     <string name="dialog_tv_char_count">10</string>
     <string name="dialog_tv_char_unit">word</string>
-
-    <!-- editor toolbar dialog -->
     <string name="dialog_btn_insert">Insert</string>
-
-    <!-- insert link -->
     <string name="dialog_title_insert_link">Insert link</string>
     <string name="dialog_et_hint_link_display_text">Display text (Default: Link)</string>
     <string name="dialog_et_hint_link_content">Link</string>
-
-    <!-- insert image -->
     <string name="dialog_item_text_local_image">Local</string>
     <string name="dialog_item_text_internet_image">Internet</string>
     <string name="dialog_title_insert_image">Insert image</string>
     <string name="dialog_et_hint_image_display_text">Display text (Default: Image)</string>
     <string name="dialog_et_hint_image_uri">Image link</string>
-
-    <!-- insert block code -->
-    <string name="editor_dialog_title_insert_block_code">Insert block code</string>
-    <string name="dialog_et_hint_language_name">Language</string>
-
-    <!-- dialog toast -->
     <string name="toast_saved">Saved</string>
     <string name="toast_does_not_select">No image selected</string>
     <string name="toast_file_name_can_not_empty">File name can not be empty</string>
     <string name="toast_file_name_exists">The file name already exists. Please enter new name.</string>
-    <!-- edit fragment -->
-
-
-    <!-- preference -->
-    <!-- preference key -->
     <string name="pref_key_language">language</string>
     <string name="pref_key_custom_editor">custom_editor</string>
     <string name="pref_key_sync">sync</string>
@@ -127,14 +71,12 @@
     <string name="pref_key_skip">skip</string>
     <string name="pref_key_fingerprint">fingerprint</string>
     <string name="pref_key_pic">pic</string>
-    <!--preference title and summary-->
     <string name="category_title_display">Display</string>
     <string name="category_title_editor">Editor</string>
     <string name="category_title_storage_sync">Sync</string>
     <string name="category_title_feedback">Feedback</string>
     <string name="category_title_others">Others</string>
     <string name="category_title_safe">Safe</string>
-
     <string name="pref_summary_default">Default</string>
     <string name="pref_title_language">Language</string>
     <string name="pref_summary_language">Auto</string>
@@ -151,14 +93,10 @@
     <string name="pref_summary_current_version">Current version v1.0</string>
     <string name="pref_title_about">About</string>
     <string name="issue_page">no</string>
-
-
-    <!-- language list preference item text -->
     <string name="pref_array_item_auto">Auto</string>
     <string name="pref_array_item_english">English</string>
     <string name="pref_array_item_chinese_s">Simplified Chinese</string>
     <string name="pref_array_item_chinese_t">Traditional Chinese</string>
-
     <string name="pref_array_item_default">Default</string>
     <string name="pref_array_item_black">Black</string>
     <string name="pref_array_item_green">Green</string>
@@ -166,18 +104,14 @@
     <string name="pref_array_item_pink">Pink</string>
     <string name="pref_array_item_red">Red</string>
     <string name="pref_array_item_blue">Blue</string>
-
-    <!--about fragment-->
     <string name="app_describe">Do yourself</string>
     <string name="app_version_text">Current version</string>
     <string name="app_version_number">1.0</string>
     <string name="contact_me">Follow us</string>
     <string name="bottom_text">©2014–2021 Libv All rights reserved</string>
-    <!-- about fragment bottom sheet menu -->
     <string name="menu_item_title_email">Email</string>
     <string name="menu_item_title_github">GitHub</string>
     <string name="menu_item_title_weibo">WeiBo</string>
-
     <string name="test_long_title">这是一个标题，一个非常长的标题，长到看不到尽头，真的特别长，后面的根本看不到，后面还有很多内容你根本就看不到的，不信再看</string>
     <string name="test_long_content">这是一段文章摘要，一段非常长的文章摘要，一样是长到没有尽头，到底是有多长呢，你继续往后看就知道有多长了，我不知道写什么了，就这样看看可不可以吧，要是不可以那就再长一点</string>
     <string name="send">Send</string>
@@ -294,8 +228,6 @@
 </string>
     <string name="pref_key_privacy">privacy</string>
     <string name="pref_title_privacy">Privacy</string>
-
-    <!--webdav-->
     <string name="input_fingerprint">Use fingerprint to access Miaodi</string>
     <string name="Fail_to_sync">Fail to auto sync ：</string>
     <string name="login_null_info">Account or Password can\'t be null</string>
@@ -728,4 +660,46 @@ With love, everything becomes beautiful.\n</string>
     <string name="unknown_exception">Unknown exception</string>
     <string name="try_restart_app">Restart app</string>
     <string name="close_app">Close app</string>
+    <string name="click_right_bottom_to_create">点击右下角添加记录本</string>
+    <string name="choose_book_and_chara">选择书本以及章节</string>
+    <string name="add_book_or_chara">添加书本或章节</string>
+    <string name="please_choose_adding_book_or_chara">请选择添加书本或章节</string>
+    <string name="book">书本</string>
+    <string name="chara">章节</string>
+    <string name="replaced_text">被替换的文本</string>
+    <string name="the_text_after_replace">替换后文本</string>
+    <string name="add_or_edit_flag">Add/Edit Flag</string>
+    <string name="page_settings">文章设置</string>
+    <string name="current_chara">当前章节:</string>
+    <string name="current_page_name">当前文章名称:</string>
+    <string name="current_state_non_sync">当前状态:未同步</string>
+    <string name="current_state_ban_sync">当前状态:禁止同步</string>
+    <string name="current_state_had_sync">当前状态:已同步</string>
+    <string name="add_or_edit_todo">Add/Edit Todo</string>
+    <string name="load_successfully">拉取成功</string>
+    <string name="load_abortively">拉取失败</string>
+    <string name="activate_successfully">激活成功</string>
+    <string name="writing_finish">WritingFinish</string>
+    <string name="choose_book">选择书本</string>
+    <string name="choose_showing_chara">选择章节</string>
+    <string name="sure_to_replace">确定替换</string>
+    <string name="search_the_replace_text">查找被替换文本</string>
+    <string name="sure_to_change">确认修改</string>
+    <string name="choose_pic">选择图片</string>
+    <string name="delete_pic">删除背景</string>
+    <string name="load_page">拉取文章备份</string>
+    <string name="tips_load_page_from_extra_webdav">从云端设定的云端拉取数据</string>
+    <string name="load_todo">拉取Todo备份</string>
+    <string name="lab_tips">请不要过度依赖</string>
+    <string name="apply_to_all_place">自定义到全局</string>
+    <string name="tips_apply_to_all_place">需设置了自定义字体才可开启</string>
+    <string name="remind_every_day">每日提醒</string>
+    <string name="tips_remind_every_day">每天晚上九点会提醒完成每日目标</string>
+    <string name="rebackup">重新进行备份</string>
+    <string name="tips_rebackup">把本地的数据全部重新进行备份</string>
+    <string name="icon_choose">图标选择</string>
+    <string name="logo_q">卖萌图</string>
+    <string name="activate_abortively">激活失败</string>
+    <string name="drawer_item_settings">设置</string>
+    <string name="editor_dialog_title_insert_block_code">代码插入</string>
 </resources>
