@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miaodi</string>
+    <!-- navigation drawer -->
+    <string name="drawer_item_settings">Settings</string>
+    <!-- cancel and ok -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <!-- show options -->
+    <string name="menu_item_display_option">Display options</string>
+    <string name="choice_item_file_ext">File extension</string>
+    <string name="choice_item_file_size">File size</string>
+
+
+    <!-- sort options -->
+    <string name="menu_item_sort">Sort by</string>
+    <string name="choice_item_create_time_sort">Creation time</string>
+    <string name="choice_item_modify_time_sort">Last modify</string>
+    <string name="choice_item_title_sort">Title</string>
+    <!-- file list fragment -->
+    <string name="toast_message_sdcard_unavailable">SD card unavailable</string>
+    <string name="list_empty">Did not find any file, click the button to create a new file.</string>
+
+    <!-- menu -->
+    <string name="menu_item_search">Search</string>
+
+
+
+    <!-- search hint -->
+    <string name="search_hint">Search files</string>
+
+    <!-- action mode menu -->
+    <string name="action_mode_menu_item_select_all">Select all</string>
+    <string name="action_mode_menu_item_delete">Delete</string>
+    <string name="dialog_message_delete_files_confirm">Do you want to delete the selected file?</string>
+    <!-- file list fragment -->
+
+
+    <!-- edit fragment -->
+    <!-- menu text -->
+    <string name="menu_item_undo">Undo</string>
+    <string name="menu_item_redo">Redo</string>
+    <string name="menu_item_preview">Preview</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_rename">Rename</string>
+    <string name="menu_item_delete">Delete</string>
+    <string name="menu_item_clear_all">Clear all</string>
+    <string name="menu_item_docs">Markdown cheat sheet</string>
+    <string name="menu_item_statistics">Statistics</string>
+    <string name="menu_item_edit">Edit</string>
+
+    <string name="toast_message_deleted">Deleted</string>
+    <string name="toast_message_delete_error">File deletion failed</string>
+    <string name="toast_message_cleared">The content has been cleared</string>
+
+    <!-- edit fragment toolbar menu item dialog -->
+    <!-- save file -->
+    <string name="dialog_title_save_file">Save file</string>
+    <string name="dialog_et_hint_file_name">File name</string>
+    <string name="dialog_tv_file_extension">.md</string>
+    <string name="dialog_btn_save">Save</string>
+
+    <!-- rename file -->
+    <string name="dialog_title_rename_file">Rename</string>
+    <string name="dialog_et_hint_new_file_name">New file name</string>
+    <string name="dialog_btn_rename">Rename</string>
+
+    <!-- clear all -->
+    <string name="toast_content_empty">Content is empty</string>
+    <string name="dialog_message_clear_all">Are you sure to clear all?</string>
+
+    <!-- markdown docs fragment toolbar title -->
+    <string name="docs_fragment_tb_title">Markdown Cheat Sheet</string>
+
+    <!-- statistics -->
+    <string name="dialog_title_statistics">Statistics</string>
+    <string name="dialog_tv_bold_text">Characters count</string>
+    <string name="dialog_tv_char_count">10</string>
+    <string name="dialog_tv_char_unit">word</string>
+
+    <!-- editor toolbar dialog -->
+    <string name="dialog_btn_insert">Insert</string>
+
+    <!-- insert link -->
+    <string name="dialog_title_insert_link">Insert link</string>
+    <string name="dialog_et_hint_link_display_text">Display text (Default: Link)</string>
+    <string name="dialog_et_hint_link_content">Link</string>
+
+    <!-- insert image -->
+    <string name="dialog_item_text_local_image">Local</string>
+    <string name="dialog_item_text_internet_image">Internet</string>
+    <string name="dialog_title_insert_image">Insert image</string>
+    <string name="dialog_et_hint_image_display_text">Display text (Default: Image)</string>
+    <string name="dialog_et_hint_image_uri">Image link</string>
+
+    <!-- insert block code -->
+    <string name="editor_dialog_title_insert_block_code">Insert block code</string>
+    <string name="dialog_et_hint_language_name">Language</string>
+
+    <!-- dialog toast -->
+    <string name="toast_saved">Saved</string>
+    <string name="toast_does_not_select">No image selected</string>
+    <string name="toast_file_name_can_not_empty">File name can not be empty</string>
+    <string name="toast_file_name_exists">The file name already exists. Please enter new name.</string>
+    <!-- edit fragment -->
+
+
+    <!-- preference -->
+    <!-- preference key -->
+    <string name="pref_key_language">language</string>
+    <string name="pref_key_custom_editor">custom_editor</string>
+    <string name="pref_key_sync">sync</string>
+    <string name="pref_key_network">network</string>
+    <string name="pref_key_feedback">feedback</string>
+    <string name="pref_key_bug_report">bug_report</string>
+    <string name="pref_key_rating">rating</string>
+    <string name="pref_key_check_update">check_update</string>
+    <string name="pref_key_about">about</string>
+    <string name="pref_key_theme">theme</string>
+    <string name="pref_key_Darktheme">DrakOrNot</string>
+    <string name="perf_key_user_out">out_my_Account</string>
+    <string name="pref_key_yun">yun</string>
+    <string name="pref_key_safe">safe</string>
+    <string name="pref_key_help">help</string>
+    <string name="pref_key_safe_custom">safe_custom</string>
+    <string name="pref_key_safe_auto">safe_auto</string>
+    <string name="pref_key_skip">skip</string>
+    <string name="pref_key_fingerprint">fingerprint</string>
+    <string name="pref_key_pic">pic</string>
+    <!--preference title and summary-->
+    <string name="category_title_display">Display</string>
+    <string name="category_title_editor">Editor</string>
+    <string name="category_title_storage_sync">Sync</string>
+    <string name="category_title_feedback">Feedback</string>
+    <string name="category_title_others">Others</string>
+    <string name="category_title_safe">Safe</string>
+
+    <string name="pref_summary_default">Default</string>
+    <string name="pref_title_language">Language</string>
+    <string name="pref_summary_language">Auto</string>
+    <string name="pref_title_custom_editor">Custom toolbar</string>
+    <string name="pref_title_sync">Sync</string>
+    <string name="pref_summary_sync">Auto</string>
+    <string name="pref_title_wifi_sync">Only WIFI</string>
+    <string name="pref_summary_wifi_sync">Using WIFI</string>
+    <string name="pref_summary_4g_sync">Using 4G/3G/2G</string>
+    <string name="pref_title_feedback">Feedback</string>
+    <string name="pref_title_bug_report">Bug report</string>
+    <string name="pref_title_rate">Rating</string>
+    <string name="pref_title_check_update">Check for update</string>
+    <string name="pref_summary_current_version">Current version v1.0</string>
+    <string name="pref_title_about">About</string>
+    <string name="issue_page">no</string>
+
+
+    <!-- language list preference item text -->
+    <string name="pref_array_item_auto">Auto</string>
+    <string name="pref_array_item_english">English</string>
+    <string name="pref_array_item_chinese_s">Simplified Chinese</string>
+    <string name="pref_array_item_chinese_t">Traditional Chinese</string>
+
+    <string name="pref_array_item_default">Default</string>
+    <string name="pref_array_item_black">Black</string>
+    <string name="pref_array_item_green">Green</string>
+    <string name="pref_array_item_yellow">Yellow</string>
+    <string name="pref_array_item_pink">Pink</string>
+    <string name="pref_array_item_red">Red</string>
+    <string name="pref_array_item_blue">Blue</string>
+
+    <!--about fragment-->
+    <string name="app_describe">Do yourself</string>
+    <string name="app_version_text">Current version</string>
+    <string name="app_version_number">1.0</string>
+    <string name="contact_me">Follow us</string>
+    <string name="bottom_text">©2014–2021 Libv All rights reserved</string>
+    <!-- about fragment bottom sheet menu -->
+    <string name="menu_item_title_email">Email</string>
+    <string name="menu_item_title_github">GitHub</string>
+    <string name="menu_item_title_weibo">WeiBo</string>
+
+    <string name="test_long_title">这是一个标题，一个非常长的标题，长到看不到尽头，真的特别长，后面的根本看不到，后面还有很多内容你根本就看不到的，不信再看</string>
+    <string name="test_long_content">这是一段文章摘要，一段非常长的文章摘要，一样是长到没有尽头，到底是有多长呢，你继续往后看就知道有多长了，我不知道写什么了，就这样看看可不可以吧，要是不可以那就再长一点</string>
+    <string name="send">Send</string>
+    <string name="menu_item_setting">About Miaodi</string>
+    <string name="Login">Login</string>
+    <string name="qqLogin">Login by QQ（Recommend）</string>
+    <string name="tab_1">Writing</string>
+    <string name="tab_2">Note Star</string>
+    <string name="tab_3">Cloud Service</string>
+    <string name="tab_4">Settings</string>
+    <string name="menu_item_upload">Upload to Cloud</string>
+    <string name="menu_item_download">Download</string>
+    <string name="User">Account</string>
+    <string name="LoginOrOut">Click here to Login</string>
+    <string name="menu_item_update">Edit</string>
+    <string name="category_title_yun">Senior Service</string>
+    <string name="pref_title_yun">Cloud Service</string>
+    <string name="menu_item_share">Save to picture</string>
+    <string name="menu_item_save_int">Save to my phone</string>
+    <string name="menu_item_upload_int">Cover this file</string>
+    <string name="public_note">Share to Note Star</string>
+    <string name="Theme">Theme</string>
+    <string name="pref_title_change_theme">Change Theme</string>
+    <string name="DarkMode">Dark mode</string>
+    <string name="safe_text">Encrypt text</string>
+    <string name="category_title_help">Application Help</string>
+    <string name="help">Know more about「Miaodi」</string>
+    <string name="auto_decode">Auto decode</string>
+    <string name="html">Save to Html</string>
+    <string name="static_shortcut_long_label_1">Quick edit my text</string>
+    <string name="static_shortcut_disabled_message">Wrong</string>
+    <string name="static_shortcut_short_label_1">Edit text</string>
+    <string name="pref_key_update">update</string>
+    <string name="pref_key_webdav">webdav</string>
+    <string name="pref_title_webdav">Set my Webdav</string>
+    <string name="mark_ground_cancel">Cancel my share</string>
+    <string name="mark_ground_title">The Share Note</string>
+    <string name="settings_activate_service">Cloud Service had been activated</string>
+    <string name="haved_logined">User info</string>
+    <string name="text_encrypt_description">The md Flie that strange on your device will be encrypted</string>
+    <string name="text_encrypt_use_method">The encrypted text can use the button [Translate] to decode</string>
+    <string name="Update_App">DownLoad the Beta version</string>
+    <string name="decode_description">Auto to decode the encrypted text</string>
+    <string name="decode_used_method">While enter the editing UI ,the encrypted text can auto to decode </string>
+    <string name="pref_title_encryption">Custom secret</string>
+    <string name="Click_write">Click here to write</string>
+    <string name="process">Loading</string>
+    <string name="warn">Warn！</string>
+    <string name="cant_recover">Once delete you can\'t recover this file！Do you continue？</string>
+    <string name="sure">Sure！</string>
+    <string name="no">No</string>
+    <string name="change_user_data">Change my data</string>
+    <string name="user_exit">Exit my account</string>
+    <string name="ClicktoTitle">Click here to write your title</string>
+    <string name="LabFunctions">Lab Funsctions</string>
+    <string name="advance_tips">Please attach your L-code when you pay, if you haven\'t get the senior after 24hours, please communicate with us by e-mail</string>
+    <string name="Email_please">Please install E-mail</string>
+    <string name="paying_tips">Thanks for your support！Attention，when you are paying for us please write down your Lcode：</string>
+    <string name="Yun_tips">You haven\'t active this Advance service</string>
+    <string name="Upload_success">Upload success!</string>
+    <string name="Check_net">Please check your network</string>
+    <string name="decode_error">Can\'t decode your content Or the content is null！</string>
+    <string name="Upload_tips">The content is null</string>
+    <string name="word_deadline">The words id over 5W!</string>
+    <string name="Login_please">Login please!</string>
+    <string name="Working">Working,please wait a minute!</string>
+    <string name="Unlock_advance">Unlock the advance service</string>
+    <string name="AliPay">AliPay</string>
+    <string name="WechatPay">WechatPay</string>
+    <string name="hold_on">Wait a minute</string>
+    <string name="WechatPay_tips">You need to open the Wecht,\n
+        and open to scan the QrCode(select from the gallery)</string>
+    <string name="try_again">Please restart MarkDownL</string>
+    <string name="None_message">Message is null</string>
+    <string name="Click_to_refresh">Click here to refresh</string>
+    <string name="Login_success">Login successed</string>
+    <string name="Login_failed">Login failed</string>
+    <string name="Email">User-name</string>
+    <string name="Passwords">Passport</string>
+    <string name="Changing">Changing, please wait a minute</string>
+    <string name="user_name">Set or change your username</string>
+    <string name="user_email">Set or change your email</string>
+    <string name="password">Set or change your password</string>
+    <string name="tips_unite_id">Ps:Your user name must be a unite ID</string>
+    <string name="Change_data">Change my data</string>
+    <string name="check_fingerprint">Fingerprint</string>
+    <string name="need_fingerprint">While visiting the MarkdownL, fingerprint is needed</string>
+    <string name="no_need_fingerprint">Every one can visit the Application</string>
+    <string name="tips_the_rest_times">Only </string>
+    <string name="pref_key_bg">edit_bg_img</string>
+    <string name="pref_title_bg">Title background settings</string>
+    <string name="fail">Fail，please try again later！</string>
+    <string name="setTag">Set Book</string>
+    <string name="dialog_tag">Book</string>
+    <string name="tag_tips">The Book name can\'t be empty</string>
+    <string name="pref_title_skip">Fast run</string>
+    <string name="tips_off_lighting">When you open this, can reduce the time which need to open the Application </string>
+    <string name="tips_on_lighting">You have turn on</string>
+    <string name="old_password">Input your old password</string>
+    <string name="Change_password">Change your password</string>
+    <string name="md">Generate the「.md」</string>
+    <string name="pref_title_pic">Upload the picture</string>
+    <string name="Your_data">Your Data</string>
+    <string name="toggle_drawer_open">Open</string>
+    <string name="toggle_drawer_close">Close</string>
+    <string name="User_info">User information</string>
+    <string name="pic">Picture</string>
+    <string name="privacy">Privacy</string>
+    <string name="privacyContent">* "Miaodi" (hereinafter referred to as "I") is a small fresh application. But I also pay great attention to privacy and security.
+        To this end, I have added the "encryption" function as early as version 1.0, and added the "fingerprint access" function in version 2.0.19.
+        \n* All these motives are for your privacy.
+        I hereby promise that I will not use your privacy (including "cloud services" and not limited to "cloud services") without notifying you.
+        And the encryption function I provided has no backdoor, and the only way to decrypt is to use a key.
+</string>
+    <string name="pref_key_privacy">privacy</string>
+    <string name="pref_title_privacy">Privacy</string>
+
+    <!--webdav-->
+    <string name="input_fingerprint">Use fingerprint to access Miaodi</string>
+    <string name="Fail_to_sync">Fail to auto sync ：</string>
+    <string name="login_null_info">Account or Password can\'t be null</string>
+    <string name="beginning_password">Your beginning password is 123456！You can use the password and email to login MarkdownL</string>
+    <string name="refrsh_finish">Refresh finish!</string>
+    <string name="loading_finish">Loading finish</string>
+    <string name="fail_to_load">Fail to load, Try to reload</string>
+    <string name="fail_exist">The pic doesn\'t exist!</string>
+    <string name="delete_success">Delete success!</string>
+    <string name="download_success">Download Success</string>
+    <string name="undefined_the_key">undefined the key</string>
+    <string name="defined_the_key">defined the key!</string>
+    <string name="fail_to_market">Please install the App market!</string>
+    <string name="install_the_aliPay">Please install the AliPay</string>
+    <string name="total">Total</string>
+    <string name="note_is_exist">Note is exist</string>
+    <string name="toDo">Todo</string>
+    <string name="input_your_todo">input your Todo</string>
+    <string name="time_set">Set time</string>
+    <string name="havent_active">Haven\'t activate, Click to know more about Miaodi VIP</string>
+    <string name="pref_key_agreement">agreement</string>
+    <string name="pref_title_agreement">User Agreement</string>
+    <string name="pref_key_firstPage">firstPage</string>
+    <string name="pref_title_firstPage">First Page</string>
+    <string name="userAgreement">Users should read this User Agreement (hereinafter referred to as the "Agreement") carefully before using the services provided by "Miaodi"
+        (hereinafter collectively referred to as "Miaodi").
+        Once the user logs in or uses the service of "Miaodi", it is deemed that the user has understood and expressly
+        agreed to the contents of this agreement,
+        and this agreement immediately has legal effect between the user and this "Miaodi".\n
+I. Agreement body \n
+
+This agreement is an agreement between the user and Meow Drop about the user\'s use of the service. \n
+
+About this service \n
+
+The content of this service refers to the related services provided by Meow Drop to its partners and
+        users through this application (the "Service").
+
+For users using this service, "Miaodi" will continuously enrich the terminals, forms, etc.
+        of users using this service.
+
+Licensed scope:\n
+-(1) "Miaodi" grants the user a personal, non-transferable and non-exclusive license to use this application. \n
+-(2) All other intellectual property rights that are not expressly authorized in this section and other terms
+        of this agreement are still reserved by Miaodi.
+        "Miaodi" does not constitute a waiver of this right if it fails to exercise any of the foregoing rights. \n
+
+Third, account login\n
+
+In order to use this application, users may need to enter personal information for login and use.
+        The user is fully aware that the account provided to Miaodi is limited to my own use, otherwise,
+        the user may cause infringement to the user or others.
+        The user promises and agrees that using the same device, the same ID number or account to use the services
+        under this agreement is deemed to be the user\'s own behavior.
+        Users should properly keep their own equipment, identity documents
+        and account password information, and carefully hand over to others to use or use other people\'s equipment,
+        identity documents or account information.
+        If the user violates this agreement and causes losses to the user or others,
+        Miaodi shall not Will not bear any legal responsibility.
+        If the user causes losses to Miaodi, he shall bear all the losses suffered by Miaodi.\n
+
+Fourth, the use of applications\n
+
+If a user obtains this application or an installer with the same name from an application that is not a "Miaodi" partner
+        or a non- "Miaodi" partner,
+        "Miaodi" cannot guarantee the normal use of the application,
+        And is not responsible for the losses caused to users. \n
+
+Five, application updates \n
+
+In order to improve the user experience and improve the service content,
+        Miaodi will continuously strive to provide users with application updates
+        (these updates may take the form of application replacement, modification, functional enhancement, version upgrades, etc.).\n
+
+In order to improve the user experience and ensure the security of the service and the consistency of its functions,
+        Miaodi has the right to update the application without any special notice to the user,
+        or to change or restrict some of the effects of the application. \n
+
+Protection of personal information of users \n
+
+The protection of user\'s personal information is a basic principle of Miaodi.
+        Miaodi will take reasonable measures to protect users\' personal information.
+        Except as provided by laws and regulations and authorized by the user,
+        Miaodi will not disclose or disclose the user\'s personal information to any third party without the user\'s
+        permission. \n
+
+Generally, users can browse and modify the information they submit at any time,
+        but due to security and identification considerations,
+        users may not be able to modify the initial registration information
+        and other verification information provided during registration. \n
+
+7. Intellectual Property Statement \n
+
+Miaodi is the intellectual property right holder of this application. Intellectual property rights such as copyrights,
+        trademarks, patents, trade secrets of this application,
+        and all information content related to this application
+        (including but not limited to text, pictures, audio, video, graphics,
+        interface design, layout framework, related Data or electronic documents, etc.)
+        are protected by the laws and regulations of the People\'s Republic of China
+        and the corresponding international treaties.
+        Miaodi enjoys the above-mentioned relevant intellectual property rights in accordance with the law,
+        except for the rights that the relevant right holders should enjoy in accordance with the law. \n
+
+Without the written consent of Miaodi or related rights holders, users may not, for any commercial or non-commercial purpose,
+        independently or license any third party to implement, utilize, or transfer the above intellectual property rights. \n
+
+Terminal security responsibility \n
+
+Users understand and agree that this application or service, like most Internet applications and services,
+        may be affected by many factors (including but not limited to user reasons, network service quality, social environment, etc.);
+        it may also be affected by various (Including but not limited to illegal use of user data
+        by others to conduct real-life harassment;
+        other applications downloaded or installed by users or other websites visited may contain viruses,
+        Trojan horses or other malicious programs, threatening the user\'s terminal The security of information and data,
+        which in turn affects the normal use of the application, the service, etc.).
+        Therefore, users should strengthen the awareness of information security and personal information protection,
+        and pay attention to password protection to avoid loss. When the above situation occurs,
+        "Miaodi" will try to cooperate with the relevant parties as soon as possible to repair it in time,
+        but the loss caused to the user by "Miaodi" is exempted to the extent permitted by law. \n
+
+Users are not allowed to create, publish, use,
+        or spread malicious programs used to steal "Miaodi" accounts and other people\'s personal information and property. \n
+
+Maintaining the security and normal use of applications is the joint responsibility of Miaodi and users.
+        Miaodi will reasonably and prudently take necessary technical
+        measures to protect user terminal information and data in accordance with industry standards. \n
+
+To the extent permitted by law, Miaodi is not responsible for service interruption or obstruction caused by: \n
+-(1) Damaged by computer viruses, Trojan horses or other malicious programs or hackers. \n
+-(2) The computer software, system, hardware, and communication lines of the user or Meow Drop have failed. \n
+-(3) Improper user operation. \n
+-(4) The user uses the service in a manner not authorized by Miaodi. \n
+-(5) Other situations that Miaodi cannot control or reasonably foresee. \n
+
+Nine, force majeure and reasonable exemption \n
+
+"Force majeure" means an objective situation
+        that occurred after the signing of this agreement and
+        that the affected party cannot foresee, cannot avoid,
+        and cannot overcome. Such events include,
+        but are not limited to, floods, fires, droughts, typhoons,
+        earthquakes and other natural disasters, strikes, riots, riots and wars,
+        and acts or omissions of government departments, adjustments in laws,
+        regulations or policies, changes in data sources (including but not limited to
+        (Limited to changes in its service content and form), domestic data channel paralysis,
+        hacking attacks, computer virus intrusion, new virus outbreaks,
+        network interruptions due to telecommunication operator problems,
+        server inaccessibility, power outages, system failures, transmission lines,
+        communication failures, etc. "Miaodi" beyond their control.
+        Failure to perform or complete performance of this agreement due to
+        force majeure is not considered a breach of contract, and no liability for breach of contract shall be assumed. \ n
+
+X. Others \n
+
+The use of this application or the service by the user shall be deemed that the user has read and agreed to be bound by this agreement.
+        Miaodi has the right to modify the terms of this agreement when necessary.
+        Users can check the relevant agreement terms in this application and the latest version of this service.
+        After the terms of this agreement are changed,
+        if the user continues to log in, use this application, this service,
+        it is deemed that the user has accepted the revised agreement.
+        If the user does not accept the modified agreement, they should stop using the application. \n
+
+The establishment, entry into force, performance, interpretation and dispute resolution of this Agreement
+        shall be governed by the laws of the People\'s Republic of China (excluding conflict of laws). \n
+
+If there is any dispute or dispute between the user and Miaodi, it shall be settled through friendly negotiation first;
+        if the negotiation fails, the user agrees to submit the dispute or dispute to the
+        jurisdiction of the people\'s court where the defendant
+        is located. \n
+
+The headings of all the terms of this agreement are for convenience only.
+        They have no actual meaning and cannot be used as a basis for interpreting the meaning of this agreement.
+        5. No matter what the terms of this agreement are partially invalid or unenforceable,
+        the remaining terms are still valid and binding on both parties.\n</string>
+    <string name="choose_background">Choose Background</string>
+    <string name="clear_background">Clear Background</string>
+    <string name="Write">Write</string>
+    <string name="OCR">OCR</string>
+    <string name="Todo">Todo</string>
+    <string name="menu_item_tag">Tag</string>
+    <string name="hello">Hello,</string>
+    <string name="you_had_done_every_thing">You had done every thing :)</string>
+    <string name="you_have">You have</string>
+    <string name="evens_to_do">evens need to do!</string>
+    <string name="havent_todo">You haven\'t write any todo :)</string>
+    <string name="choose_tag">Choose the book</string>
+    <string name="your_current_book">Your current book is:</string>
+    <string name="new_book">New book</string>
+    <string name="setChar">setChar</string>
+    <string name="normal">Normal</string>
+    <string name="Character">Character</string>
+    <string name="current_book">Current book:</string>
+    <string name="choose_chara">Change Character</string>
+    <string name="your_current_Chara">Current_char</string>
+    <string name="set_char">Set Character</string>
+    <string name="new_char">new Character</string>
+    <string name="setChar_tips">if you add a num and # in the begin(such as：10#First Character),you can set the priority of the character，the number bigger，character lean more forward!</string>
+    <string name="pref_array_item_purple">Purple</string>
+    <string name="motto">Record your record</string>
+    <string name="Tips">Tips</string>
+    <string name="crop">please choose the way of Crop</string>
+    <string name="uCrop">App</string>
+    <string name="System">System</string>
+    <string name="pref_key_ttf">ttf</string>
+    <string name="pref_title_ttf">Set Custom .ttf</string>
+    <string name="undefined_the_ttf">undefined the .ttf</string>
+    <string name="use_ttf">You can define your ttf by choose the file</string>
+    <string name="delete">delete</string>
+    <string name="Warn_delete_book">Your book has character never delete, please try again after delete them all!</string>
+    <string name="author_info">Author:Jalor\nE-mail:2224825716@qq.com\nQQ:2224825716\nWeChat:SunshineCompany2224\nCollage:USC</string>
+    <string name="Cant_delete">You can\'t delete this Book, cause it is the default book</string>
+    <string name="SavePicture">Save to Album</string>
+    <string name="use_ttf_fail">Use custom ttf fail</string>
+    <string name="deleteFile_warning">Please delete in the file manager</string>
+    <string name="customSave">Custom-Save</string>
+    <string name="AppSave">App-Save</string>
+    <string name="saveFileTips">Please choose your save method\nPs:If version above AndroidQ please choose [Custom-Save]</string>
+    <string name="saveSuccess">Save success! The path of file: Storage\MarkdownL</string>
+    <string name="BookAdd">Please fill your new Book name!\nYou will add a new Book！Enjoy yourself！</string>
+    <string name="DefinedTTF">Please choose your Alphabet file(.ttf OR .TTF)</string>
+    <string name="review">Resume the Normal Book</string>
+    <string name="activate">Have activate</string>
+    <string name="Punch">Punch Every-Day</string>
+    <string name="titi">Punch</string>
+    <string name="reminder">set flag, and remember to finish every day</string>
+    <string name="Activate_constitution">Senor activate constitution</string>
+    <string name="titi_success">Punch success</string>
+    <string name="you_have_titi">You have punched today</string>
+    <string name="have_copy">have copy</string>
+    <string name="titi_fial">Punch fail! please check network</string>
+    <string name="Text_number">The number of page</string>
+    <string name="Punch_day">You have punch </string>
+    <string name="day"> day continuously</string>
+    <string name="the_time_last_punch">The time last punch: </string>
+    <string name="click_change">Click the title can change the book</string>
+    <string name="flag">My Flag</string>
+    <string name="passegeID_title">Enter the passegeID</string>
+    <string name="passageID_content">Accept the passge that friend share with you!</string>
+    <string name="copy_done">have copy to your ClipData!</string>
+    <string name="normal_sign">Sign Up</string>
+    <string name="signUp_Success">SignUp Successfully</string>
+    <string name="ps_login">Ps：If you never sign up before,please input your Username and password in the field, then click the sign up button</string>
+    <string name="reload_activate">set successfully，restart to activate</string>
+    <string name="set_webdav">Set my WebDav</string>
+    <string name="webdav">use WebDav to sync firstly</string>
+    <string name="deeptext">Deep text</string>
+    <string name="webdav_path_tips">Please make sure your the last of your WebDav path have the \'/\'</string>
+    <string name="connect_successfully">Connect successfully</string>
+    <string name="connect_fail">Fail to connect</string>
+    <string name="connect_wrong">Found your WebDav is Empty which maybe connect is wrong</string>
+    <string name="webdav_name">User name</string>
+    <string name="webdav_pass">Password</string>
+    <string name="webdav_url">the net of WebDav</string>
+    <string name="webdav_submit">Submit</string>
+    <string name="toText">save to .txt</string>
+    <string name="pref_title_css">Custom the Markdown style</string>
+    <string name="use_css">Custom the css file</string>
+    <string name="DefinedCSS">Choose the css</string>
+    <string name="undefined_the_css">undefined the css</string>
+    <string name="share_ID_tips">I share a page with you，hurry up to look 👉 https://sunshinesudio.club:8012/share/page?code=</string>
+    <string name="share_page_id">share_page</string>
+    <string name="todo_only">Todo Only</string>
+    <string name="Note_only">Writing Only</string>
+    <string name="Content_textSize">Content-textSize</string>
+    <string name="Title_textSize">Title-textSize</string>
+    <string name="fast_record">Clip record</string>
+    <string name="clip_off">If open,App can use your clip to load</string>
+    <string name="clip_on">Using,App can use your clip to load</string>
+    <string name="White_text">White text</string>
+    <string name="use_edit_bg">Also use this bg as the editing bg</string>
+    <string name="white_text_tips">Choose the white text as the color og editing</string>
+    <string name="clip_to_dialog">Clip record tips</string>
+    <string name="clip_dialog_off">If on, Once use the clip to load show the tips</string>
+    <string name="clip_dialog_on">If off, When use the clip to load never show the tips</string>
+    <string name="tips">Tips</string>
+    <string name="check_clip_content">Checking your clip stack：\n</string>
+    <string name="writing">writing</string>
+    <string name="need_PIN">If off, Enter the application without the password</string>
+    <string name="pin_wrong">PIN error</string>
+    <string name="pin_content">Set PIN</string>
+    <string name="pin_lock">PIN lock</string>
+    <string name="set_PIN_tips">If you haven\'t set PIN, tha PIN can activate. Besides, No more than 6 numbers</string>
+    <string name="off_pin_tips">If off, Enter the application needed the password</string>
+    <string name="cancel_to_Qdelete">Cancel the quick delete</string>
+    <string name="yOn2open_Qdalete">Do you want to open the quick delete？</string>
+    <string name="past_vip">VIP is past due</string>
+    <string name="activate_forever">Permanent activation</string>
+    <string name="expire">expire</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="chane_priority">Change the quickBar position,the number bigger the more priority</string>
+    <string name="pre_first">Preview Markdown first</string>
+    <string name="set_sync">Set the sync-condition</string>
+    <string name="page_sync_condition">The sync condition is:\n</string>
+    <string name="auto_sync">Auto Sync</string>
+    <string name="change2sync">To Sync</string>
+    <string name="change2noSync">To out of sync</string>
+    <string name="nosync">out of sync</string>
+    <string name="Priority">Priority</string>
+    <string name="Description">Description</string>
+    <string name="quick_content">Content</string>
+    <string name="cursor_site">The site of cursor</string>
+    <string name="Update_User_tips">Please login again</string>
+    <string name="pref_title_hello">Close the Welcome Tips</string>
+    <string name="priority">Priority</string>
+    <string name="pref_title_autoLoad">Auto Load from the Cloud</string>
+    <string name="menu_item_load_to">Load to 「Miaodi」</string>
+    <string name="load2App_Success">Load to App successfully</string>
+    <string name="AutoLoad_tips">Auto load the Data to local form cloud. Miaodi cloud is default. If you use the WebDav, WebDav is the default.</string>
+    <string name="edit">Edit</string>
+    <string name="new_page">New page</string>
+    <string name="file_read">Read the file</string>
+    <string name="syncScoll">Scroll auto sync</string>
+    <string name="half">item transparent</string>
+    <string name="pref_array_item_brown">Brown</string>
+    <string name="pref_title_senior">Senior service</string>
+    <string name="pref_title_multiDevice">Multi-Device</string>
+    <string name="change_success">Change successfully</string>
+    <string name="russian">Russian</string>
+    <string name="search_content">Content retrieval</string>
+    <string name="search_content_tips">Enter search content</string>
+    <string name="search_loacl_tips">Retrieve🙈</string>
+    <string name="sample">Hello, I\'m Miaodi. A Markdown text editor.\n
+
+Glad to meet you in my life.\n
+
+I was born in 2019 and is a post-10.\n
+
+Miaodi are small, but we are also working hard to improve ourselves, just to give you a better experience.\n
+
+Here you can do a lot of custom things to make me look better. Such as custom fonts, custom backgrounds, custom CSS styles, and so on, all just for me to make you feel more comfortable.\n
+
+From today when I know you, I am willing to cry with you, laugh with you, and go with you to see the sweetness and bitterness of this world.\n
+
+With love, everything becomes beautiful.\n</string>
+    <string name="sample_name">Hello, this is Miaodi</string>
+    <string name="Todo_sample">This is a Todo</string>
+    <string name="lineSpace">Line-Space</string>
+    <string name="letterSpace">Letter-Space</string>
+    <string name="read_file">View article</string>
+    <string name="setFlagTips">Click on the bottom right corner to add daily goals :)</string>
+    <string name="change_char">Update directory</string>
+    <string name="change_book_name">Change the book name</string>
+    <string name="delete_cloud_fail">Delete failed, please make sure the network is unblocked!</string>
+    <string name="delete_fail_webdav">Delete failed, please make sure the network is unblocked! And your Webdav is configured correctly</string>
+    <string name="delete_cloud_too">Delete cloud backups at the same time</string>
+    <string name="have_punch">Punched</string>
+    <string name="havent_punch">Unchecked</string>
+    <string name="saveAS">Save as</string>
+    <string name="page_set">Page Settings</string>
+    <string name="page_tool">Tool</string>
+    <string name="select_all_and_copy">Select and copy</string>
+    <string name="search_and_replace">search and replace</string>
+    <string name="pref_array_item_origin">Orange</string>
+    <string name="Focus_mode">Focus mode</string>
+    <string name="Focus_mode_tips">The line being edited remains in color, while the other lines are grayed out</string>
+    <string name="key_tips">Before customizing the key, please make sure to decrypt all articles, otherwise the encrypted articles will not be able to be decrypted normally.</string>
+    <string name="pdf">Save as PDF (print)</string>
+    <string name="titleNull">Title is empty, please enter and try again</string>
+    <string name="writeMode">Writing mode</string>
+    <string name="writeMode_tips">Enter two lines, auto-indent, center the article title</string>
+    <string name="CreateTimeDesc">Sort by creation time</string>
+    <string name="closeAnim">Weaken animation</string>
+    <string name="word_warn">The word count exceeds the 60w limit, which may cause irreversible damage to App application data. Please ensure that other articles have been backed up.</string>
+    <string name="notification_quick_write">Notification bar shortcut record</string>
+    <string name="quick_write_tips">Click on the shortcut record to cancel it in the settings</string>
+    <string name="help_tips">You can see how to use the app here and the latest information about us</string>
+    <string name="desc_tips">After opening, the articles will be sorted in reverse order of creation time.</string>
+    <string name="about_tips">Information about the app version</string>
+    <string name="Cloud_tips">View and manage articles on cloud services</string>
+    <string name="Multi_Device_tips">Can be used on multiple devices (Android&amp;iOS&amp;PC) after opening</string>
+    <string name="notifi_recored_tips">Every time the app is opened, a notification will be created in the notification bar for quick recording of inspiration</string>
+    <string name="prefirst_tips">Open the edited article for preview by default</string>
+    <string name="sync_scroll_tips">After editing the Markdown text, swipe left to see a preview of the corresponding position</string>
+    <string name="close_anim_tips">After opening the item, open the edit page in one go, no animation</string>
+    <string name="close_hello_tips">After turning on the item, the greeting statement on the head will disappear</string>
+    <string name="custom_bg_tips">Make custom edit page and home page backgrounds</string>
+    <string name="fragment_edit_quickbar">Quick Bar</string>
+    <string name="fragment_edit_editsettings">Editor settings</string>
+    <string name="backup">Back up</string>
+    <string name="pref_array_item_white">White</string>
+    <string name="LoginorRegister">Login/Register</string>
+    <string name="loadfile">Importing files</string>
+    <string name="loadfile_tips">You need to put the files in "Android / data / cn.sunshinesudio.libv / files / Load /", and then click this option. Imported files will be deleted</string>
+    <string name="loadfile_ensure">You have confirmed that "Android / data / cn.sunshinesudio.libv / files / Load /" already has your file to be imported</string>
+    <string name="permission_calendar">The following permissions are required: 1. Obtain the storage and read permission of the phone\'s calendar (for todo reminders)</string>
+    <string name="permission_save">The following permissions are required: 1. Obtain the storage read permission of the mobile phone (for Markdown, txt file storage)</string>
+    <string name="refuse_tips">You have refused the required permission!</string>
+    <string name="backUp2local">Backup to local</string>
+    <string name="backUp2loaclTips">Back up to the 「Android/data/cn.sunshinesudio.libv/files/」path, please transfer in time after the backup is completed.</string>
+    <string name="BackUpSuccess">Successful backup</string>
+    <string name="repeat_remide">Remind daily</string>
+    <string name="Todo_arrange">Task scheduling</string>
+    <string name="books_shelf">Record-Bookshelf</string>
+    <string name="record">record</string>
+    <string name="todo">Todo</string>
+    <string name="me">Me</string>
+    <string name="loading">Loading</string>
+    <string name="lockSlide">Change Mode</string>
+    <string name="slide">Slide Mode</string>
+    <string name="lock">Lock Mode</string>
+    <string name="punching">Punching</string>
+    <string name="login_again">Please login again</string>
+    <string name="followSystem">Follow the system</string>
+    <string name="encode">Encrypt</string>
+    <string name="cloud_and_local">This page form cloud and local</string>
+    <string name="system_remind">Complete daily task reminder⏰</string>
+    <string name="system_remind_content">Dear, remember to complete today\'s task! You are so cute when you work hard</string>
+    <string name="add_todo">Add new Todo</string>
+    <string name="find">Find</string>
+    <string name="cant_save">:Fail to save your data</string>
+    <string name="back">back</string>
+    <string name="inviteCode">inviteCode</string>
+    <string name="normal_icon">default icon</string>
+    <string name="second_icon">normal icon</string>
+    <string name="third_icon">previous icon</string>
+    <string name="creating_share">creating the share link</string>
+    <string name="forget_pwd">forget password?</string>
+    <string name="clear_flag_success">move the sync flag successfully</string>
+    <string name="activate_tips">Input your activation code</string>
+    <string name="activate_code">use activation code to activate Miaodi</string>
+    <string name="not_produce">Un used</string>
+    <string name="activate_code_use_tips">you can use the activate code to activate Miaodi</string>
+    <string name="produce_tips">produce the invited code</string>
+    <string name="punch_calendar">Punch calendar</string>
+    <string name="restart_app">Please restart App</string>
+    <string name="quick_bar_add_tips">小tips：\n若想输入快捷内容20，\n则第一行填写2，即光标会出现在第2个字符后。\n第三行则是填写描述语句，为一两个字符，用于用户识别。\n第四行为符号排列优先级。</string>
+    <string name="error_title">Something went wrong!</string>
+    <string name="error_occurred">An error occurred. We\'re deeply sorry.</string>
+    <string name="error_details">Error details:</string>
+    <string name="unknown_exception">Unknown exception</string>
+    <string name="try_restart_app">Restart app</string>
+    <string name="close_app">Close app</string>
+</resources>

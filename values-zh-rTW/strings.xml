@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">喵滴</string>
+    <string name="drawer_item_settings">設置</string>
+    <!-- cancel and ok -->
+    <string name="cancel">取消</string>
+    <string name="ok">確定</string>
+    <string name="no">算了</string>
+    <!-- show options -->
+    <string name="menu_item_display_option">查看選項</string>
+    <string name="choice_item_file_ext">文件後綴</string>
+    <string name="choice_item_file_size">文件大小</string>
+
+    <!-- sort options -->
+    <string name="menu_item_sort">排序</string>
+    <string name="choice_item_create_time_sort">按創建時間</string>
+    <string name="choice_item_modify_time_sort">按修改時間</string>
+    <string name="choice_item_title_sort">按標題</string>
+
+
+
+    <!-- file list fragment -->
+    <string name="toast_message_sdcard_unavailable">SD card不可用</string>
+    <string name="list_empty">沒有找到任何文件\n點擊右下角按鈕新建文件</string>
+
+    <!-- menu -->
+    <string name="menu_item_search">搜索</string>
+
+    <!-- search hint -->
+    <string name="search_hint">搜索文件</string>
+
+    <!-- action mode menu -->
+    <string name="action_mode_menu_item_select_all">全選</string>
+    <string name="action_mode_menu_item_delete">刪除</string>
+    <string name="dialog_message_delete_files_confirm">要刪除選中的文件嗎？</string>
+    <!-- file list fragment -->
+
+
+    <!-- edit fragment -->
+    <!-- menu text -->
+    <string name="menu_item_undo">撤銷</string>
+    <string name="menu_item_redo">恢復</string>
+    <string name="menu_item_preview">預覽</string>
+    <string name="menu_item_save">保存</string>
+    <string name="menu_item_rename">重命名</string>
+    <string name="menu_item_delete">刪除</string>
+    <string name="menu_item_clear_all">清除所有</string>
+    <string name="menu_item_docs">Markdown 語法</string>
+    <string name="menu_item_statistics">字符數量統計</string>
+    <string name="menu_item_edit">編輯</string>
+
+    <string name="toast_message_deleted">已刪除</string>
+    <string name="toast_message_delete_error">文件刪除失敗</string>
+    <string name="toast_message_cleared">內容已清除</string>
+
+    <!-- edit fragment toolbar menu item dialog -->
+    <!-- save file -->
+    <string name="dialog_title_save_file">保存文件</string>
+    <string name="dialog_et_hint_file_name">文件名</string>
+    <string name="dialog_tv_file_extension">.md</string>
+    <string name="dialog_btn_save">保存</string>
+
+    <!-- rename file -->
+    <string name="dialog_title_rename_file">重命名</string>
+    <string name="dialog_et_hint_new_file_name">新的文件名</string>
+    <string name="dialog_btn_rename">重命名</string>
+
+    <!-- clear all -->
+    <string name="toast_content_empty">內容為空</string>
+    <string name="dialog_message_clear_all">確定要清除所有內容嗎？</string>
+
+    <!-- markdown docs fragment toolbar title -->
+    <string name="docs_fragment_tb_title">Markdown 語法手冊</string>
+
+    <!-- statistics -->
+    <string name="dialog_title_statistics">統計信息</string>
+    <string name="dialog_tv_bold_text">總字符數</string>
+    <string name="dialog_tv_char_count">10</string>
+    <string name="dialog_tv_char_unit">字</string>
+
+    <!-- editor toolbar dialog -->
+    <string name="dialog_btn_insert">插入</string>
+
+    <!-- insert link -->
+    <string name="dialog_title_insert_link">插入鏈接</string>
+    <string name="dialog_et_hint_link_display_text">顯示文本（默認：Link）</string>
+    <string name="dialog_et_hint_link_content">鏈接</string>
+
+    <!-- insert image -->
+    <string name="dialog_item_text_local_image">本地圖片</string>
+    <string name="dialog_item_text_internet_image">網絡圖片</string>
+    <string name="dialog_title_insert_image">插入圖片</string>
+    <string name="dialog_et_hint_image_display_text">顯示文本（默認：Image）</string>
+    <string name="dialog_et_hint_image_uri">圖片鏈接</string>
+
+    <!-- insert block code -->
+    <string name="editor_dialog_title_insert_block_code">插入代碼塊</string>
+    <string name="dialog_et_hint_language_name">編程語言名稱</string>
+
+    <!-- dialog toast -->
+    <string name="toast_saved">已保存</string>
+    <string name="toast_does_not_select">沒有選擇圖片</string>
+    <string name="toast_file_name_can_not_empty">文件名不能為空</string>
+    <string name="toast_file_name_exists">文件名已存在，請重新輸入</string>
+    <!-- edit fragment -->
+
+
+    <!-- preference -->
+
+    <!-- preference key -->
+    <string name="pref_key_language">language</string>
+    <string name="pref_key_custom_editor">custom_editor</string>
+    <string name="pref_key_sync">sync</string>
+    <string name="pref_key_network">network</string>
+    <string name="pref_key_feedback">feedback</string>
+    <string name="pref_key_bug_report">bug_report</string>
+    <string name="pref_key_rating">rating</string>
+    <string name="pref_key_check_update">check_update</string>
+    <string name="pref_key_about">about</string>
+    <string name="pref_key_theme">theme</string>
+    <string name="pref_key_Darktheme">DrakOrNot</string>
+    <string name="perf_key_user_out">out_my_Account</string>
+    <string name="pref_key_yun">yun</string>
+    <string name="pref_key_help">help</string>
+    <string name="pref_key_skip">skip</string>
+    <string name="pref_key_safe_custom">safe_custom</string>
+    <string name="pref_key_safe_auto">safe_auto</string>
+    <string name="pref_key_pic">pic</string>
+    <string name="pref_key_bg">edit_bg_img</string>
+    <string name="pref_key_fingerprint">fingerprint</string>
+    <string name="pref_key_update">update</string>
+    <string name="pref_key_webdav">webdav</string>
+    <string name="pref_key_safe">safe</string>
+    <string name="pref_key_privacy">privacy</string>
+    <string name="pref_key_agreement">agreement</string>
+    <string name="pref_key_firstPage">firstPage</string>
+    <!--preference title and summary-->
+    <string name="pref_title_firstPage">首頁選擇</string>
+    <string name="pref_title_privacy">隱私政策</string>
+    <string name="category_title_display">顯示</string>
+    <string name="category_title_editor">編輯器</string>
+    <string name="category_title_storage_sync">同步</string>
+    <string name="category_title_feedback">使用反饋</string>
+    <string name="category_title_others">其他</string>
+    <string name="category_title_safe">安全</string>
+    <string name="pref_summary_default">默認</string>
+    <string name="pref_title_language">語言</string>
+    <string name="pref_summary_language">跟隨系統</string>
+    <string name="pref_title_custom_editor">自定義工作欄</string>
+    <string name="pref_title_sync">同步</string>
+    <string name="pref_summary_sync">自動同步</string>
+    <string name="pref_title_wifi_sync">僅在WIFI下同步</string>
+    <string name="pref_summary_wifi_sync">使用WIFI</string>
+    <string name="pref_summary_4g_sync">使用4G/3G/2G</string>
+    <string name="pref_title_feedback">意見反饋</string>
+    <string name="pref_title_bug_report">錯誤報告</string>
+    <string name="pref_title_rate">應用評分</string>
+    <string name="pref_title_check_update">檢查更新</string>
+    <string name="pref_summary_current_version">当前版本v1.0</string>
+    <string name="pref_title_about">關於</string>
+    <string name="issue_page">no</string>
+    <string name="pref_title_change_theme">切換主題</string>
+    <string name="pref_title_webdav">設置我的Webdav</string>
+    <string name="pref_title_encryption">自定義密鈅</string>
+    <string name="pref_title_bg">設置主頁頭部背景</string>
+    <string name="pref_title_skip">快速啟動</string>
+    <string name="pref_title_pic">圖片上傳</string>
+    <string name="category_title_yun">高級服務</string>
+    <string name="pref_title_yun">雲服務</string>
+    <!-- list preference item text -->
+    <string name="pref_array_item_auto">跟隨系統</string>
+    <string name="pref_array_item_english">英文</string>
+    <string name="pref_array_item_chinese_s">簡體中文</string>
+    <string name="pref_array_item_chinese_t">繁體中文</string>
+    <string name="pref_array_item_default">默認</string>
+    <string name="pref_array_item_black">高端黑</string>
+    <string name="pref_array_item_green">自然綠</string>
+    <string name="pref_array_item_yellow">哈哈黃</string>
+    <string name="pref_array_item_pink">少女粉</string>
+    <string name="pref_array_item_red">烈焰紅</string>
+    <string name="pref_array_item_blue">深藍</string>
+    <!--about fragment-->
+    <string name="app_describe">記錄我的記錄\n喵滴，我的生活記錄者</string>
+    <string name="app_version_text">當前版本</string>
+    <string name="app_version_number">1.0</string>
+    <string name="contact_me">關注我們</string>
+    <string name="bottom_text">©2014–2021 Libv All rights reserved</string>
+    <!-- about fragment bottom sheet menu -->
+    <string name="menu_item_title_email">Email</string>
+    <string name="menu_item_title_github">GitHub</string>
+    <string name="menu_item_title_weibo">微博</string>
+    <!-- preference -->
+
+    <!-- MainPage -->
+    <string name="tab_1">記錄</string>
+    <string name="tab_2">筆記星球</string>
+    <string name="tab_3">雲服務</string>
+    <string name="tab_4">設置</string>
+
+    <!-- Login -->
+    <string name="User">賬號</string>
+    <string name="LoginOrOut">登錄</string>
+    <string name="Login">登錄</string>
+    <string name="qqLogin">QQ登錄(推薦使用)</string>
+    <string name="change_user_data">修改賬號資料</string>
+    <string name="user_exit">退出當前賬號</string>
+
+    <!--Preference-->
+    <string name="menu_item_setting">關於MarkDownL</string>
+    <string name="Theme">主題</string>
+    <string name="DarkMode">夜間模式</string>
+
+    <!--menu-->
+    <string name="menu_item_upload">上傳雲端</string>
+    <string name="menu_item_download">下載</string>
+    <string name="menu_item_update">編輯</string>
+    <string name="menu_item_share">另存為至圖庫</string>
+    <string name="menu_item_save_int">保存到本地</string>
+    <string name="menu_item_upload_int">覆蓋雲端原文件</string>
+    <string name="public_note">分享到筆記星球</string>
+    <string name="mark_ground_cancel">取消分享</string>
+    <string name="mark_ground_title">共享的筆記</string>
+    <string name="md">另存為.md</string>
+
+    <!--test content-->
+    <string name="test_long_title">這是喵滴的標題，沒錯，只是用來測試噠，不要緊張</string>
+    <string name="test_long_content">這是喵滴App,你好，歡迎使用。很高興能認識你，希望你會喜歡我哦！愛你喲麽麽噠！我是一只小喵滴，有顏值，有實力。不怕苦，不怕累，吃苦耐勞第一位。我有什麽缺點都可以改進，就怕主人不要我！</string>
+    <string name="send">發送</string>
+    <string name="safe_text">文本加密</string>
+    <string name="category_title_help">使用幫助</string>
+    <string name="help">瞭解「喵滴」</string>
+    <string name="auto_decode">自動解密</string>
+    <string name="html">另存為Html</string>
+    <string name="static_shortcut_long_label_1">快速記錄文本</string>
+    <string name="static_shortcut_disabled_message">未知錯誤</string>
+    <string name="static_shortcut_short_label_1">編輯文本</string>
+    <string name="settings_activate_service">已激活</string>
+    <string name="haved_logined">用戶信息</string>
+    <string name="text_encrypt_description">輸出儲存在設備的md文件將經過加密</string>
+    <string name="text_encrypt_use_method">加密後的文本可以在編輯界面用[翻譯]的按鈕解密</string>
+    <string name="Update_App">參加最新體驗版本</string>
+    <string name="decode_description">自動解密md文件的密文[如没有加密的文本會出現解密後空白的情況！]</string>
+    <string name="decode_used_method">進入編輯加密的文件時自動解密</string>
+    <string name="Click_write">點擊輸入記錄</string>
+    <string name="process">加載中</string>
+    <string name="warn">警告</string>
+    <string name="cant_recover">一旦删除將無法恢復！真的要刪除嗎？</string>
+    <string name="sure">我意已决，確定！</string>
+    <string name="ClicktoTitle">點擊輸入標題</string>
+    <string name="LabFunctions">實驗室功能</string>
+    <string name="advance_tips">記得支付時附上您的L—code哦！激活存在延遲(不超過24小時)，若超過24小時未激活請聯系作者</string>
+    <string name="Email_please">请安装郵箱</string>
+    <string name="paying_tips">注意，請在支付時，填寫上你的L碼：</string>
+    <string name="Yun_tips">您還沒開通雲服務</string>
+    <string name="Upload_success">上傳成功</string>
+    <string name="Check_net">請檢查你的網絡</string>
+    <string name="decode_error">解密内容後為空或無法解密！</string>
+    <string name="Upload_tips">筆記要有內容才能上傳雲端哦！</string>
+    <string name="word_deadline">筆記已經超過5万字的限制！</string>
+    <string name="Login_please">請先登錄</string>
+    <string name="Working">請耐心等待</string>
+    <string name="Unlock_advance">解鎖高級版</string>
+    <string name="AliPay">支付寶支付</string>
+    <string name="WechatPay">微信支付</string>
+    <string name="hold_on">先熟悉一下App</string>
+    <string name="WechatPay_tips">點擊確定按鈕後會跳轉微信掃描二維碼界面:\n1. 點擊右上角的菜單按鈕\n2. 点击\'從相冊選取二維碼\'\n 3. 選擇第一張二維碼圖片即可</string>
+    <string name="try_again">請聯網，並重新打開本頁面</string>
+    <string name="None_message">沒有信息了</string>
+    <string name="Click_to_refresh">已经登录？點擊刷新</string>
+    <string name="Login_success">登陸成功</string>
+    <string name="Login_failed">登陸失敗</string>
+    <string name="Email">用戶名</string>
+    <string name="Passwords">密碼</string>
+    <string name="Changing">正在修改中，請等待</string>
+    <string name="user_name">設置或修改你的用户名</string>
+    <string name="user_email">設置或修改你的郵箱</string>
+    <string name="password">設置或修改你的密碼</string>
+    <string name="tips_unite_id">Ps:你的用户名不可與其他用户相同，否則修改失败\n可以單獨修改一項，如只修改用户名、只修改郵箱</string>
+    <string name="Change_data">修改資料</string>
+    <string name="check_fingerprint">指紋驗證</string>
+    <string name="need_fingerprint">進入App需要指紋驗證</string>
+    <string name="no_need_fingerprint">任何人可訪問App</string>
+    <string name="tips_the_rest_times">剩餘機會</string>
+    <string name="fail">失敗，請稍候重試！</string>
+    <string name="setTag">設置文章所屬書籍</string>
+    <string name="dialog_tag">書籍</string>
+    <string name="tag_tips">書籍名稱不能為空</string>
+    <string name="tips_off_lighting">未開啟快速啟動，開啟後減少啟動的耗時</string>
+    <string name="tips_on_lighting">已幫您減少啟動應用所需時間</string>
+    <string name="old_password">請輸入你的舊密碼</string>
+    <string name="Change_password">修改密碼</string>
+    <string name="Your_data">你的信息</string>
+    <string name="toggle_drawer_open">Open Drawer</string>
+    <string name="toggle_drawer_close">Close Drawer</string>
+    <string name="User_info">用戶信息</string>
+    <string name="pic">圖片</string>
+    <string name="privacy">隐私政策</string>
+    <string name="privacyContent">*「喵滴」（以下簡稱“我”）雖是一款小清新應用。但我也十分注重保證隱私安全。為此我早在1.0版本階段就已加入了「加密」功能，並且在2.0.19版本加入了「指紋訪問」功能。\n* 這一切的動機，都是為了保證您的隱私安全。
+在此我承諾，我不會在未告知您的情況下，使用你的隱私（包含「雲服務」且不僅限於「雲服務」）。並且我所提供的加密功能是沒有後門的，解密的唯一方法是使用密鈅。
+</string>
+    <string name="input_fingerprint">請驗證你的指紋</string>
+    <string name="Fail_to_sync">自動同步失敗!</string>
+    <string name="login_null_info">賬號或密碼不得爲空</string>
+    <string name="beginning_password">你的初始化密碼为123456，你可以通過密碼和郵箱登陸「喵的筆記」！</string>
+    <string name="refrsh_finish">刷新完成!</string>
+    <string name="loading_finish">加載完成</string>
+    <string name="fail_to_load">加載失敗, 尝试重新加载</string>
+    <string name="fail_exist">圖片不存在，請重試</string>
+    <string name="delete_success">刪除成功!</string>
+    <string name="download_success">下载完成</string>
+    <string name="undefined_the_key">未定義密鈅</string>
+    <string name="defined_the_key">已定義密鈅!</string>
+    <string name="fail_to_market">請安裝應用商店!</string>
+    <!--webdav-->
+    <string name="install_the_aliPay">請安裝支付寶！</string>
+    <string name="total">全部</string>
+    <string name="normal">默認</string>
+    <string name="note_is_exist">文章已經存在！</string>
+    <string name="toDo">Todo</string>
+    <string name="input_your_todo">寫下你待完成的事宜</string>
+    <string name="time_set">時間選擇</string>
+    <string name="havent_active">未激活，点击此处了解高级会员</string>
+    <string name="pref_title_agreement">用户协议</string>
+    <string name="userAgreement">
+        用戶在使用「喵滴」（即，以下統稱“「喵滴」”）提供的各項服務之前，應仔細閱讀本《用戶協議》（以下簡稱“本協議”）。
+        用戶一旦登錄或使用「喵滴」的服務，即視為用戶已瞭解並明示同意本協議各各項內容，本協議立即在用戶與本「喵滴」之間產生法律效力。\n
+一、協議主体\n
+
+本協議是用戶與「喵滴」關於用戶使用本服務所訂立的協議。\n
+
+二、關於本服務\n
+
+本服務內容是指「喵滴」通過本應用程序向其合作伙伴及用戶提供的相關服務（簡稱“本服務”）。
+
+對用戶使用的本服務，「喵滴」會不斷豐富用戶使用本服務的終端、形式等。
+
+許可的範圍：\n
+-（1）「喵滴」授予用戶一項個人的、不可轉讓及非排他性的許可，以使用本應用程序。\n
+-（2）本條及本協議其他條款未明示授權的其他一切知識產權權利仍由「喵滴」保留。「喵滴」如果未行使前述任何權利，並不構成對該權利的放棄。\n
+
+三、賬號登錄\n
+
+為使用本應用程序用戶可能需要輸入個人信息進行登錄與使用。 用戶清楚知曉，其向「喵滴」提供的賬戶僅限本人使用，否則，用戶可能會對用戶或他人造成侵權。用戶承諾並同意，使用同壹設備、同壹身份證號或賬號使用本協議項下服務的，均視為用戶本人的行為。用戶應妥善保管自身設備、身份證件及賬號密碼信息，審慎交由他人使用或使用他人設備、身份證件或賬戶信息，如用戶違反本約定給用戶或他人造成損失的，「喵滴」不應也不會承擔任何法律責任。用戶若因此給「喵滴」造成損失的，應承擔「喵滴」所遭受的全部損失。\n
+
+四、應用程序的使用\n
+
+如果用戶從非「喵滴」合作夥伴的應用程序或非「喵滴」合作夥伴處獲取本應用程序或與本應用程序名稱相同的安裝程序，「喵滴」無法保證該應用程序能夠正常使用，並對因此給用戶造成的損失不予負責。\n
+
+五、應用程序的更新\n
+
+為了增進用戶體驗、完善服務內容，「喵滴」將不斷努力為用戶時時提供應用程序更新（這些更新可能會采取應用程序替換、修改、功能強化、版本升級等形式）。\n
+
+為了改善用戶體驗，並保證服務的安全性和功能的壹致性，「喵滴」有權不經向用戶特別通知而對應用程序進行更新，或者對應用程序的部分功能效果進行改變或限制。\n
+
+六、用戶个人信息保护\n
+
+保護用戶個人信息是「喵滴」的壹項基本原則，「喵滴」將會采取合理的措施保護用戶的個人信息。除法律法規規定及用戶授權的情形外，未經用戶許可「喵滴」不會向任何第三方公開、透露用戶個人信息。\n
+
+壹般情況下，用戶可隨時瀏覽、修改自己提交的信息，但出於安全性和身份識別的考慮，用戶可能無法修改註冊時提供的初始註冊信息及其他驗證信息。\n
+
+七、知識產權聲明\n
+
+「喵滴」是本應用程序的知識產權權利人。本應用程序的著作權、商標權、專利權、商業秘密等知識產權，以及與本應用程序相關的所有信息內容（包括但不限於文字、圖片、音頻、視頻、圖表、界面設計、版面框架、有關數據或電子文檔等）均受中華人民共和國法律法規和相應的國際條約保護，「喵滴」依法享有上述相關知識產權，但相關權利人依照法律規定應享有的權利除外。\n
+
+未經「喵滴」或相關權利人書面同意，用戶不得為任何商業或非商業目的自行或許可任何第三方實施、利用、轉讓上述知識產權。\n
+
+八、終端安全責任\n
+
+用戶理解並同意，本應用程序或本服務同大多數互聯網應用程序、服務壹樣，可能會受多種因素影響（包括但不限於用戶原因、網絡服務質量、社會環境等）；也可能會受各種安全問題的侵擾（包括但不限於他人非法利用用戶資料，進行現實中的騷擾；用戶下載安裝的其他應用程序或訪問的其他網站中可能含有病毒、木馬程序或其他惡意程序，威脅用戶終端的信息和數據的安全，繼而影響本應用程序、本服務的正常使用等）。因此，用戶應加強信息安全及個人信息的保護意識，註意密碼保護，以免遭受損失。出現上述情況時「喵滴」將努力在第壹時間與相關方配合，及時進行修復，但是由此給用戶造成的損失「喵滴」在法律允許的範圍內免責。\n
+
+用戶不得制作、發布、使用、傳播用於竊取「喵滴」賬號及他人個人信息、財產的惡意程序。\n
+
+維護應用程序安全與正常使用是「喵滴」和用戶的共同責任，「喵滴」將按照行業標準合理審慎地采取必要技術措施保護用戶的終端信息和數據安全。\n
+
+在法律允許的範圍內，「喵滴」對以下情形導致的服務中斷或受阻不承擔責任：\n
+-（1）受到計算機病毒、木馬或其他惡意程序、黑客攻擊的破壞。\n
+-（2）用戶或「喵滴」的電腦軟件、系統、硬件和通信線路出現故障。\n
+-（3）用戶操作不當。\n
+-（4）用戶通過非「喵滴」授權的方式使用本服務。\n
+-（5）其他「喵滴」無法控制或合理預見的情形。\n
+
+九、不可抗力及合理免責\n
+
+“不可抗力”是指在本協議簽訂後發生的、受影響壹方無法預見、無法避免並無法克服的客觀情況。此等事件包括但不限於水災、火災、旱災、臺風、地震及其它自然災害、罷工、騷動、暴亂及戰爭以及政府部門的作為或不作為、法律法規或政策調整、數據來源變更(包括但不限於其服務內容及形式的變更)、國內數據渠道癱瘓、黑客攻擊、計算機病毒侵入、新型病毒爆發、因電信運營商問題導致網絡中斷服務器不可訪問、停電、系統故障、傳輸線路、通信故障等「喵滴」無法控制的因素。因受不可抗力影響而不能履行或不能完全履行本協議的不視為違約，不應承擔相應違約責任 。\n
+
+十、其他\n
+
+用戶使用本應用程序或本服務即視為用戶已閱讀並同意受本協議的約束。「喵滴」有權在必要時修改本協議條款。用戶可以在本應用程序、本服務的最新版本中查閱相關協議條款。本協議條款變更後，如果用戶繼續登錄、使用本應用程序、本服務，即視為用戶已接受修改後的協議。如果用戶不接受修改後的協議，應當停止使用本應用程序。\n
+
+本協議的成立、生效、履行、解釋及糾紛解決，適用中華人民共和國大陸地區法律（不包括沖突法）。\n
+
+若用戶和「喵滴」之間發生任何糾紛或爭議，首先應友好協商解決；協商不成的，用戶同意將糾紛或爭議提交被告方所在地人民法院管轄。\n
+
+本協議所有條款的標題僅為閱讀方便，本身並無實際涵義，不能作為本協議涵義解釋的依據。5. 本協議條款無論因何種原因部分無效或不可執行，其余條款仍有效，對雙方具有約束力。\n</string>
+    <string name="choose_background">選擇主頁面背景</string>
+    <string name="clear_background">清除背景</string>
+    <string name="Write">文章</string>
+    <string name="OCR">文字識別</string>
+    <string name="Todo">Todo</string>
+    <string name="menu_item_tag">Tag</string>
+    <string name="hello">您好,</string>
+    <string name="you_had_done_every_thing">恭喜你已完成所有事情 :)</string>
+    <string name="you_have">您有</string>
+    <string name="evens_to_do">項todo未完成!</string>
+    <string name="havent_todo">你還沒有任何的todo哦 :)</string>
+    <string name="choose_tag">請選擇你的書本</string>
+    <string name="your_current_book">你當前的書本:</string>
+    <string name="new_book">新書本</string>
+    <string name="setChar">設置章節</string>
+    <string name="Character">章節</string>
+    <string name="current_book">當前書本爲:</string>
+    <string name="choose_chara">更改當前文章章節</string>
+    <string name="your_current_Chara">當前章節</string>
+    <string name="set_char">設置章節</string>
+    <string name="new_char">新章節</string>
+    <string name="setChar_tips">若在章節名稱前加壹個數字和#(如：10#第壹章)，即可設置章節顯示在目錄的優先級，數字越大，章節排得越前</string>
+    <string name="pref_array_item_purple">基佬紫</string>
+    <string name="motto">記錄你的記錄</string>
+    <string name="Tips">提示</string>
+    <string name="crop">請選擇你的裁剪方式</string>
+    <string name="uCrop">自帶</string>
+    <string name="System">系統</string>
+    <string name="pref_key_ttf">custom_ttf</string>
+    <string name="pref_title_ttf">自定義字體</string>
+    <string name="undefined_the_ttf">已取消自定義字體</string>
+    <string name="use_ttf">你可以選擇ttf文件来設置自定義的字體</string>
+    <string name="delete">刪除</string>
+    <string name="Warn_delete_book">此書本下還有目錄未刪除，請刪除後重試</string>
+    <string name="author_info">作者:Jalor\n郵箱:2224825716@qq.com\nQQ:2224825716\n微信:SunshineCompany2224\n學校:南華大學</string>
+    <string name="Cant_delete">默認書籍刪除後，壹些文章將無法存到默認書籍，請盡快恢復！</string>
+    <string name="SavePicture">已保存至圖庫</string>
+    <string name="use_ttf_fail">使用自定義字體失敗</string>
+    <string name="deleteFile_warning">請自行在文件夾中刪除</string>
+    <string name="customSave">自定義保存</string>
+    <string name="AppSave">應用文件夾保存</string>
+    <string name="saveFileTips">請選擇保存方式\nPs:Android10及以上版本請使用自定義保存</string>
+    <string name="saveSuccess">保存成功,路徑：內部儲存/MarkdownL/</string>
+    <string name="BookAdd">請輸入書名！你將添加一本全新的書籍，寫作愉快！</string>
+    <string name="DefinedTTF">請選擇你的字體文件(.ttf或.TTF)</string>
+    <string name="review">恢復默認書本</string>
+    <string name="activate">已激活</string>
+    <string name="Punch">每日打卡</string>
+    <string name="titi">打卡</string>
+    <string name="reminder">設置目標，也記得完成每日的目標哦</string>
+    <string name="Activate_constitution">高級會員激活狀態</string>
+    <string name="titi_success">打卡成功</string>
+    <string name="you_have_titi">你今天已經打過卡了</string>
+    <string name="have_copy">已復制</string>
+    <string name="titi_fial">打卡失敗，請檢查網絡</string>
+    <string name="Text_number">碼字數</string>
+    <string name="Punch_day">已經堅持連續打卡</string>
+    <string name="day">天</string>
+    <string name="the_time_last_punch">上次打卡時間:</string>
+    <string name="click_change">點擊切換書本</string>
+    <string name="flag">我的每日目標</string>
+    <string name="passegeID_title">輸入文章編號</string>
+    <string name="passageID_content">接收朋友分享給你的文章</string>
+    <string name="copy_done">已經拷貝到你的粘貼板</string>
+    <string name="normal_sign">註冊</string>
+    <string name="signUp_Success">註冊成功</string>
+    <string name="ps_login">Ps:若妳從來沒有使用過「喵滴」，請輸入妳想要設定的用戶名和密碼，然後點擊註冊</string>
+    <string name="reload_activate">設置成功，重啟激活</string>
+    <string name="set_webdav">配置我的WebDav</string>
+    <string name="webdav">優先使用WebDav進行備份</string>
+    <string name="deeptext">深
+深色字體</string>
+    <string name="webdav_path_tips">請確保你的WebDAV網址的結尾有"/"這個符號</string>
+    <string name="connect_successfully">鏈接成功</string>
+    <string name="connect_fail">鏈接失敗</string>
+    <string name="connect_wrong">檢測到妳的雲盤文件為空，可能鏈接錯誤，若妳的雲盤的確文件為空，請忽略！</string>
+    <string name="webdav_name">你的用户名</string>
+    <string name="webdav_pass">你的密碼</string>
+    <string name="webdav_url">你的服務器地址</string>
+    <string name="webdav_submit">確認連接</string>
+    <string name="toText">另存為.txt</string>
+    <string name="pref_title_css">自定義Markdown樣式</string>
+    <string name="use_css">可自定義CSS文件</string>
+    <string name="DefinedCSS">請選擇CSS文件</string>
+    <string name="undefined_the_css">取消自定義CSS</string>
+    <string name="share_ID_tips">小伙伴你好呀👋,我分享了一篇文章给你! 点击即可查看  👉https://sunshinesudio.club:8012/share/page?code=</string>
+    <string name="share_page_id">分享文章</string>
+    <string name="todo_only">僅 Todo</string>
+    <string name="Note_only">僅文章</string>
+    <string name="Content_textSize">文章字體內容</string>
+    <string name="Title_textSize">标题字体內容</string>
+    <string name="fast_record">剪貼板記錄</string>
+    <string name="clip_off">開啟後，App可讀取剪貼板進行文本導入</string>
+    <string name="clip_on">已開啟，App可讀取剪貼板進行文本導入</string>
+    <string name="White_text">白色字體</string>
+    <string name="use_edit_bg">將此也做為編輯頁面的背景</string>
+    <string name="white_text_tips">編輯頁面的字體顏色選擇為白色</string>
+    <string name="clip_to_dialog">剪貼板導入詢問</string>
+    <string name="clip_dialog_off">開啟後，每次從剪貼板導入期前會進行詢問</string>
+    <string name="clip_dialog_on">關閉後，每次從剪貼板導入期前不會進行詢問</string>
+    <string name="tips">提示</string>
+    <string name="check_clip_content">檢測到有復制內容：\n</string>
+    <string name="writing">記錄</string>
+    <string name="need_PIN">關閉後,不需要密碼即可解鎖</string>
+    <string name="pin_wrong">PIN錯誤</string>
+    <string name="pin_content">設置PIN密碼</string>
+    <string name="pin_lock">PIN解鎖</string>
+    <string name="set_PIN_tips">若妳沒有設置，則PIN設置無效。此外，密碼內容最多不得超過6位數字</string>
+    <string name="off_pin_tips">若開啟，則進入App需要密碼</string>
+    <string name="cancel_to_Qdelete">關閉長按快速刪除</string>
+    <string name="yOn2open_Qdalete">是否開啟長按刪除？</string>
+    <string name="past_vip">VIP已過期，請重新激活</string>
+    <string name="activate_forever">永久激活</string>
+    <string name="expire">到期</string>
+    <string name="encrypt">解密</string>
+    <string name="chane_priority">妳將改變該快捷鍵的順序，數字越大，排得越前</string>
+    <string name="pre_first">優先預覽文章</string>
+    <string name="set_sync">設置文章同步狀態</string>
+    <string name="page_sync_condition">當前文章同步狀態為\n</string>
+    <string name="auto_sync">自動同步</string>
+    <string name="change2sync">改為同步</string>
+    <string name="change2noSync">改為不同步</string>
+    <string name="nosync">不同步</string>
+    <string name="Priority">排列值大小</string>
+    <string name="Description">描述內容</string>
+    <string name="quick_content">快捷內容</string>
+    <string name="cursor_site">輸入光標停留點的位置</string>
+    <string name="Update_User_tips">妳已更新App版本，請重新登錄壹次</string>
+    <string name="pref_title_hello">關閉頭部歡迎語</string>
+    <string name="priority">優先級(數字越大越優先)</string>
+    <string name="pref_title_autoLoad">自動從雲拉取</string>
+    <string name="menu_item_load_to">導入App</string>
+    <string name="load2App_Success">導入成功</string>
+    <string name="AutoLoad_tips">及時同步雲端到本地。默認使用喵滴的雲服務。若啟動了WebDav，則使用WebDAV</string>
+    <string name="edit">編輯</string>
+    <string name="new_page">新文章</string>
+    <string name="file_read">查看文件</string>
+    <string name="syncScoll">同步滑動</string>
+    <string name="half">文章以及ToDo略縮條半透明</string>
+    <string name="pref_array_item_brown">撞色棕</string>
+    <string name="pref_title_senior">高級會員服務</string>
+    <string name="pref_title_multiDevice">多設備</string>
+    <string name="change_success">修改成功</string>
+    <string name="russian">俄文</string>
+    <string name="search_content">內容檢索</string>
+    <string name="search_content_tips">輸入檢索內容</string>
+    <string name="search_loacl_tips">內容檢索🙈</string>
+    <string name="sample">妳好，我是喵滴。壹個Markdown文本編輯器。\n
+        很高興在我的生命中能遇見妳。  我從2019年誕生，是壹個10後。\n
+        喵滴很小，但也很用心地在完善自己，只為給妳壹個更好的體驗。\n
+        在這裏，妳可以做很多自定義的東西讓我變得更好看。如自定義字體、自定義背景、自定義CSS樣式等等，都只為了我可以讓妳感到更舒心。\n
+        從認識妳的今天起，我願意陪妳哭，陪妳笑，陪妳壹起去看見這人世間的酸甜苦辣。\n
+        有愛，壹切變會美好。\n</string>
+    <string name="sample_name">妳好，這裏是喵滴</string>
+    <string name="Todo_sample">這是個Todo清單</string>
+    <string name="lineSpace">文本行距</string>
+    <string name="letterSpace">文本間距</string>
+    <string name="read_file">查看文章</string>
+    <string name="setFlagTips">點擊右下角添加每日目標:)</string>
+    <string name="change_char">更新目錄</string>
+    <string name="change_book_name">修改書名</string>
+    <string name="delete_cloud_fail">刪除失敗，請確保網絡通暢！</string>
+    <string name="delete_fail_webdav">刪除失敗，請確保網絡通暢！以及你的Webdav配置正確</string>
+    <string name="delete_cloud_too">同時刪除雲端的備份</string>
+    <string name="have_punch">已打卡</string>
+    <string name="havent_punch">未打卡</string>
+    <string name="saveAS">另存為</string>
+    <string name="page_set">文章設置</string>
+    <string name="page_tool">工具</string>
+    <string name="select_all_and_copy">全選並複制</string>
+    <string name="search_and_replace">查找並替換</string>
+    <string name="pref_array_item_origin">叶晟橙</string>
+    <string name="Focus_mode">專注模式</string>
+    <string name="Focus_mode_tips">正在編輯的那一行保留顏色，而其他行的字體呈灰色</string>
+    <string name="key_tips">自定義密鑰之前，請確保把所有文章都解密，否則已經加密了的文章將無法正常解密</string>
+    <string name="pdf">另存為PDF(打印)</string>
+    <string name="titleNull">標題為空，請輸入後重試</string>
+    <string name="writeMode">寫作模式</string>
+    <string name="writeMode_tips">回車換兩行、自動縮進、文章標題居中</string>
+    <string name="CreateTimeDesc">創建時間排序</string>
+    <string name="closeAnim">減弱動畫效果</string>
+    <string name="word_warn">字數超過60w限制，可能對App應用數據造成不可逆的損害，請確保其他文章已做好備份</string>
+    <string name="notification_quick_write">通知欄快捷記錄</string>
+    <string name="quick_write_tips">點擊快捷記錄,在設置中可取消</string>
+    <string name="help_tips">可以在這裡查看如何使用應用以及關於我們的最新信息</string>
+    <string name="desc_tips">開啟後將按創建時間倒序來對文章進行排序</string>
+    <string name="about_tips">關於應用版本等信息</string>
+    <string name="Cloud_tips">查看以及管理雲服務上的文章</string>
+    <string name="Multi_Device_tips">開啟後可在多台設備(Android&amp;iOS&amp;PC)上進行使用</string>
+    <string name="notifi_recored_tips">開啟後每次App打開將在通知欄創建一條通知用於快速記錄靈感</string>
+    <string name="prefirst_tips">打開已經編輯好的文章默認進行預覽</string>
+    <string name="sync_scroll_tips">編輯完Markdown文本後左劃即可看到相應位置的預覽</string>
+    <string name="close_anim_tips">開啟後該項後,打開編輯頁一氣呵成，沒有動畫</string>
+    <string name="close_hello_tips">開啟後該項後,頭部的打招呼語句將消失</string>
+    <string name="custom_bg_tips">進行自定義編輯頁和主頁背景</string>
+    <string name="fragment_edit_quickbar">快捷欄</string>
+    <string name="fragment_edit_editsettings">編輯器設置</string>
+    <string name="backup">備份</string>
+    <string name="pref_array_item_white">貓咪白</string>
+    <string name="LoginorRegister">登錄/註冊</string>
+    <string name="loadfile">導入文件</string>
+    <string name="loadfile_tips">需要您把文件先放到「Android/data/cn.sunshinesudio.libv/files/Load/」中,再點擊此選項。已導入的文件會進行刪除</string>
+    <string name="loadfile_ensure">你已確定「Android/data/cn.sunshinesudio.libv/files/Load/」已有你的需導入的文件</string>
+    <string name="permission_calendar">需要以下權限: 1.獲得手機的日曆的儲存讀取權限(用於todo提醒)</string>
+    <string name="permission_save">需要以下權限: 1.獲得手機的儲存讀取權限(用於Markdown、txt文件儲存)</string>
+    <string name="refuse_tips">您拒絕了需要的相關權限!</string>
+    <string name="backUp2local">備份到本地</string>
+    <string name="backUp2loaclTips">備份到「Android/data/cn.sunshinesudio.libv/files/」路徑下，備份完成後請及時轉移。</string>
+    <string name="BackUpSuccess">備份成功</string>
+    <string name="repeat_remide">重复提醒</string>
+    <string name="Todo_arrange">任務安排</string>
+    <string name="books_shelf">記錄-書架</string>
+    <string name="record">記錄</string>
+    <string name="todo">Todo</string>
+    <string name="me">我</string>
+    <string name="loading">加載中</string>
+    <string name="lockSlide">切換狀態</string>
+    <string name="slide">滑動狀態</string>
+    <string name="lock">鎖定狀態</string>
+    <string name="punching">正在為您打卡中</string>
+    <string name="login_again">請重新登錄</string>
+    <string name="followSystem">跟随系统</string>
+    <string name="encode">加密</string>
+    <string name="cloud_and_local">云备份与本地的此文章</string>
+    <string name="system_remind">完成每日任務提醒⏰</string>
+    <string name="system_remind_content">小伙伴記得完成今天的任務哦！努力著的你真可愛</string>
+    <string name="add_todo">添加Todo</string>
+    <string name="find">查找</string>
+    <string name="cant_save">:数据未保存成功</string>
+    <string name="back">返回上一层</string>
+    <string name="inviteCode">邀请码</string>
+    <string name="normal_icon">卖萌图</string>
+    <string name="second_icon">盼望图</string>
+    <string name="third_icon">侧身图</string>
+    <string name="creating_share">正在创建分享</string>
+    <string name="forget_pwd">忘记密码?</string>
+    <string name="clear_flag_success">清除同步标志成功</string>
+    <string name="activate_tips">输入你获得的激活码</string>
+    <string name="activate_code">激活码激活</string>
+    <string name="not_produce">未生成</string>
+    <string name="activate_code_use_tips">可使用邀请-激活码/购买的激活码激活本产品</string>
+    <string name="produce_tips">生成邀请-激活码</string>
+    <string name="punch_calendar">打卡日历</string>
+    <string name="restart_app">重启App设置生效</string>
+    <string name="quick_bar_add_tips">小tips：\n若想输入快捷内容20，\n则第一行填写2，即光标会出现在第2个字符后。\n第三行则是填写描述语句，为一两个字符，用于用户识别。\n第四行为符号排列优先级。</string>
+    <string name="error_title">Something went wrong!</string>
+    <string name="error_occurred">An error occurred. We\'re deeply sorry.</string>
+    <string name="error_details">Error details:</string>
+    <string name="unknown_exception">Unknown exception</string>
+    <string name="try_restart_app">Restart app</string>
+    <string name="close_app">Close app</string>
+</resources>

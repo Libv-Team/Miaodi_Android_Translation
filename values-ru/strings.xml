@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Activate_constitution">Статус активации премиум-участника</string>
+    <string name="AliPay">Alipay платеж</string>
+    <string name="AppSave">Сохранить в папку приложения</string>
+    <string name="AutoLoad_tips">Синхронизация с облаком. Облачный сервис MiaD используется по умолчанию. Если WebDav включен, используеться WebDav</string>
+    <string name="BookAdd">Введите название! Вы добавите новую книгу и получите удовольствие от ее написания!</string>
+    <string name="Cant_delete">После удаления книги по умолчанию некоторые заметки не будут сохранены в книге по умолчанию, восстановите как можно скорее!</string>
+    <string name="Change_data">Изменить информацию</string>
+    <string name="Change_password">Сменить пароль</string>
+    <string name="Changing">Модификация, подождите</string>
+    <string name="Character">Каталог</string>
+    <string name="Check_net">Проверьте вашу сеть</string>
+    <string name="Click_to_refresh">Вошли в систему? Нажмите обновить</string>
+    <string name="Click_write">"Пишите..._✍ "</string>
+    <string name="ClicktoTitle">"Заголовок.. "</string>
+    <string name="Cloud_tips">Просмотр и управление заметками в облачных сервисах</string>
+    <string name="Content_textSize">Шрифт заметки</string>
+    <string name="CreateTimeDesc">Сортировать по времени создания в 1ю очередь</string>
+    <string name="DarkMode">Ночь</string>
+    <string name="DefinedCSS">Выберите файл CSS</string>
+    <string name="DefinedTTF">Выберите файл шрифта (.ttf или .TTF)</string>
+    <string name="Description">Описание</string>
+    <string name="Email">имя пользователя</string>
+    <string name="Email_please">Установите email</string>
+    <string name="Fail_to_sync">Авто синхронизация не удалась!</string>
+    <string name="Focus_mode">Режим фокусировки</string>
+    <string name="Focus_mode_tips">Редактируемый сегмент сохраняет свой цвет, в то время как другие сегменты отображаются серым цветом.</string>
+    <string name="LabFunctions">Лабораторные функции</string>
+    <string name="Login">"Войти "</string>
+    <string name="LoginOrOut">"Войти "</string>
+    <string name="Login_failed">Ошибка входа</string>
+    <string name="Login_please">Сначала войдите</string>
+    <string name="Login_success">Успешный вход</string>
+    <string name="Multi_Device_tips">"Может использоваться на нескольких устройствах (Android&amp;iOS&amp;PC) "</string>
+    <string name="None_message">Нет больше информации</string>
+    <string name="Note_only">Только Заметка</string>
+    <string name="OCR">Распознавание текста</string>
+    <string name="Passwords">Пароль</string>
+    <string name="Priority">Значение ранга</string>
+    <string name="Punch">Ежедневная регистрация</string>
+    <string name="Punch_day">Has been adhere to the continuous punch</string>
+    <string name="SavePicture">Сохранено в галерее</string>
+    <string name="System">Система</string>
+    <string name="Text_number">Кол-во кодовых слов</string>
+    <string name="Theme">Тема</string>
+    <string name="Tips">Подсказка</string>
+    <string name="Title_textSize">Шрифт заголовка</string>
+    <string name="Todo">Todo</string>
+    <string name="Todo_sample">Список Todo</string>
+    <string name="Unlock_advance">Разблокировать/возобновить премиум-членство</string>
+    <string name="Update_App">Присоединяйтесь к последней пробной версии</string>
+    <string name="Update_User_tips">Вы обновили версию приложения, войдите снова</string>
+    <string name="Upload_success">Загружено успешно</string>
+    <string name="Upload_tips">Заметки должны иметь контент для загрузки в облако!</string>
+    <string name="User">Аккаунт</string>
+    <string name="User_info">Инфо о пользователе</string>
+    <string name="Warn_delete_book">"В этой книге все еще есть каталоги,  удалите их и попробуйте снова"</string>
+    <string name="WechatPay">WeChat оплата</string>
+    <string name="WechatPay_tips">"Нажав кнопку OK, вы перейдете к интерфейсу QR-кода сканирования WeChat:
+1. Нажмите кнопку меню в правом верхнем углу
+2. Нажмите «Выбрать QR-код из альбома»
+ 3. Выберите первое изображение QR-кода"</string>
+    <string name="White_text">Белый шрифт</string>
+    <string name="Working">"Подождите... "</string>
+    <string name="Write">Статья</string>
+    <string name="Your_data">Ваше сообщение</string>
+    <string name="Yun_tips">Вы не активировали облачный сервис</string>
+    <string name="about_tips">Инфо о версии приложения</string>
+    <string name="action_mode_menu_item_delete">Удалить</string>
+    <string name="action_mode_menu_item_select_all">Выбрать все</string>
+    <string name="activate">Активирован</string>
+    <string name="activate_forever">Постоянная активация</string>
+    <string name="advance_tips">Не забудьте приложить свой L-код при оплате! Существует задержка активации (не более 24 часов), если активация не произошла более 24 часов, пожалуйста, свяжитесь с автором</string>
+    <string name="app_describe">"Пишите свои заметки в
+MiaD"</string>
+    <string name="app_name">MiaD</string>
+    <string name="app_version_number">1.0</string>
+    <string name="app_version_text">Текущая версия</string>
+    <string name="author_info">"Автор: Jalor
+Email: 2224825716@qq.com
+QQ: 2224825716
+WeChat: SunshineCompany2224
+Школа: Южно-Китайский Университет"</string>
+    <string name="auto_decode">Авто расшифровка</string>
+    <string name="auto_sync">Авто синхронизация</string>
+    <string name="beginning_password">Ваш начальный пароль 123456. Вы можете войти в «MiaD» через свой пароль и email!</string>
+   <string name="bottom_text">©2014–2021 Libv Все права защищены</string>
+    <string name="cancel">Отмена</string>
+    <string name="cancel_to_Qdelete">Долгое нажатие для удаления</string>
+    <string name="cant_recover">" Удалить?"</string>
+    <string name="category_title_display">Дисплей</string>
+    <string name="category_title_editor">Редактор</string>
+    <string name="category_title_feedback">Обратная связь</string>
+    <string name="category_title_help">Помощь</string>
+    <string name="category_title_others">Другое</string>
+    <string name="category_title_safe">Безопасность</string>
+    <string name="category_title_storage_sync">Синхронизировать</string>
+    <string name="category_title_yun">Расширенные услуги</string>
+    <string name="chane_priority">Измените порядок сочетаний клавиш: чем выше число, тем выше приоритет.</string>
+    <string name="change2noSync">" Не синхронизировать"</string>
+    <string name="change2sync">Изменить на Авто синхронизацию</string>
+    <string name="change_book_name">Изменить название книги</string>
+    <string name="change_char">Обновить каталог</string>
+    <string name="change_success">Изменено успешно</string>
+    <string name="change_user_data">Изменить информацию учетной записи</string>
+    <string name="check_clip_content">Обнаружены дубликаты:</string>
+    <string name="check_fingerprint">Отпечаток пальцев</string>
+    <string name="choice_item_create_time_sort">По времени создания</string>
+    <string name="choice_item_file_ext">Суффикс файла</string>
+    <string name="choice_item_file_size">Размер файла</string>
+    <string name="choice_item_modify_time_sort">По времени модификации</string>
+    <string name="choice_item_title_sort">По названию</string>
+    <string name="choose_background">Фон главной страницы</string>
+    <string name="choose_chara">"Изменить  каталог заметок"</string>
+    <string name="choose_tag">Выберите вашу книгу</string>
+    <string name="clear_background">Очистить фон</string>
+    <string name="click_change">Нажмите, для переключения книг</string>
+    <string name="clip_dialog_off">После открытия каждый раз перед периодом импорта из буфера обмена</string>
+    <string name="clip_dialog_on">После закрытия не будет выполнено никакого запроса до периода импорта из буфера обмена.</string>
+    <string name="clip_off">После запуска, приложение может прочитать буфер обмена для импорта текста</string>
+    <string name="clip_on">Включено: приложение может читать буфер обмена для импорта текста</string>
+    <string name="clip_to_dialog">Запрос на импорт буфера обмена</string>
+    <string name="closeAnim">Анимация</string>
+    <string name="close_anim_tips">После открытия элемента, откройте страницу редактирования за один раз, без анимации</string>
+    <string name="close_hello_tips">После включения, приветствие на главной исчезнет</string>
+    <string name="connect_fail">Ошибка связи</string>
+    <string name="connect_successfully">Ссылка прошла успешно</string>
+    <string name="connect_wrong">"Обнаружено, что файл вашего облачного диска пуст, возможно, он связан неверно. Если файл вашего облачного диска действительно пустой,  игнорируйте его!"</string>
+    <string name="contact_me">Следуйте за нами</string>
+    <string name="copy_done">Скопировано в буфер обмена</string>
+    <string name="crop">Выберите метод обрезки</string>
+    <string name="current_book">"Текущая  книга:"</string>
+    <string name="cursor_site">Введите позицию курсора</string>
+    <string name="customSave">Сохранить в:</string>
+    <string name="custom_bg_tips">Пользовательские страницы редактирования и фон домашней страницы</string>
+    <string name="day">День</string>
+    <string name="decode_description">Автоматически расшифровывать зашифрованный текст md-файла [если зашифрованный текст отсутствует, после дешифрования он будет пустым! ]</string>
+    <string name="decode_error">Расшифрованный контент пуст или не может быть расшифрован!</string>
+    <string name="decode_used_method">Автоматическое дешифрование при входе в редактирование зашифрованного файла</string>
+    <string name="deeptext">Темный шрифт</string>
+    <string name="defined_the_key">Ключ определен!</string>
+    <string name="delete">Удалить</string>
+    <string name="deleteFile_warning">Удалите его в папке самостоятельно</string>
+    <string name="delete_cloud_fail">Удалить не удалось, убедитесь, что сеть доступна!</string>
+    <string name="delete_cloud_too">Удалить одновременно с облака</string>
+    <string name="delete_fail_webdav">Удалить не удалось, убедитесь, что сеть доступна и ваш Webdav настроен правильно</string>
+    <string name="delete_success">Удалено успешно!</string>
+    <string name="desc_tips">После открытия заметки будут отсортированы в обратном порядке времени создания.</string>
+    <string name="dialog_btn_insert">Вставить</string>
+    <string name="dialog_btn_rename">Переименовать</string>
+    <string name="dialog_btn_save">Сохранить</string>
+    <string name="dialog_et_hint_file_name">Имя файла</string>
+    <string name="dialog_et_hint_image_display_text">Показать текст (по умолчанию: изображение)</string>
+    <string name="dialog_et_hint_image_uri">Ссылка на изображение</string>
+    <string name="dialog_et_hint_language_name">Имя языка программирования</string>
+    <string name="dialog_et_hint_link_content">Ссылка</string>
+    <string name="dialog_et_hint_link_display_text">Показать текст (по умолчанию: ссылка)</string>
+    <string name="dialog_et_hint_new_file_name">Новое имя файла</string>
+    <string name="dialog_item_text_internet_image">Изображение сети</string>
+    <string name="dialog_item_text_local_image">Локальные изображения</string>
+    <string name="dialog_message_clear_all">Очистить все ?</string>
+    <string name="dialog_message_delete_files_confirm">Удалить выбранный файл?</string>
+    <string name="dialog_tag">Notebook</string>
+    <string name="dialog_title_insert_image">Вставить изображение</string>
+    <string name="dialog_title_insert_link">Вставить ссылку</string>
+    <string name="dialog_title_rename_file">Переименовать</string>
+    <string name="dialog_title_save_file">Сохранить файл</string>
+    <string name="dialog_title_statistics">"Статистика "</string>
+    <string name="dialog_tv_bold_text">Весь текст</string>
+    <string name="dialog_tv_char_count">10</string>
+    <string name="dialog_tv_char_unit">...</string>
+    <string name="dialog_tv_file_extension">.md</string>
+    <string name="docs_fragment_tb_title">Руководство по Markdown</string>
+    <string name="download_success">Загрузка успешна</string>
+    <string name="drawer_item_settings">Настройки</string>
+    <string name="edit">Новая заметка</string>
+    <string name="editor_dialog_title_insert_block_code">Вставить блок кода</string>
+    <string name="encrypt">Дешифрование</string>
+    <string name="evens_to_do">Элемент todo не завершен!</string>
+    <string name="expire">Срок действия</string>
+    <string name="fail">Не удалось, повторите попытку позже!</string>
+    <string name="fail_exist">Изображение не существует, попробуйте еще раз</string>
+    <string name="fail_to_load">Загрузка не удалась, попробуйте перезагрузить</string>
+    <string name="fail_to_market">Установите магазин приложений!</string>
+    <string name="fast_record">Запись в буфер обмена</string>
+    <string name="file_read">Посмотреть файл</string>
+    <string name="flag">Моя цель</string>
+    <string name="half">Статья и todo слегка сжаты, полупрозрачны.</string>
+    <string name="have_copy">Скопировано</string>
+    <string name="have_punch">Он имеет удар</string>
+    <string name="haved_logined">Инфо о пользователе</string>
+    <string name="havent_active">Не активирован</string>
+    <string name="havent_punch">Нет перфоратор</string>
+    <string name="havent_todo">У вас еще нет задач :)</string>
+    <string name="hello">Привет,</string>
+    <string name="help">Помощь \"MiaD\"</string>
+    <string name="help_tips">Вы можете увидеть, как использовать Meow Drops и самую свежую информацию о Meow Drops здесь.</string>
+    <string name="hold_on">Ознакомьтесь с приложением</string>
+    <string name="html">Сохранить как HTML</string>
+    <string name="input_fingerprint">Отпечаток пальца</string>
+    <string name="input_your_todo">Запишите, что вам нужно сделать</string>
+    <string name="install_the_aliPay">Установите Alipay!</string>
+    <string name="issue_page">no</string>
+    <string name="key_tips">Перед настройкой ключа обязательно расшифруйте все статьи, иначе зашифрованные статьи не смогут нормально расшифровываться.</string>
+    <string name="letterSpace">Межсимвольный интервал</string>
+    <string name="lineSpace">Межстрочный интервал</string>
+    <string name="list_empty">"Файлы не найдены
+Нажмите кнопку в правом нижнем углу, чтобы создать новый файл"</string>
+    <string name="load2App_Success">Импортировано успешно</string>
+    <string name="loading_finish">Загрузка завершена</string>
+    <string name="login_null_info">Аккаунт или пароль не могут быть пустыми</string>
+    <string name="mark_ground_cancel">Отмена обмена</string>
+    <string name="mark_ground_title">Общие заметки</string>
+    <string name="md">Сохранить как .md</string>
+    <string name="menu_item_clear_all">Очистить все</string>
+    <string name="menu_item_delete">Удалить</string>
+    <string name="menu_item_display_option">Посмотреть варианты</string>
+    <string name="menu_item_docs">Синтаксис Markdown</string>
+    <string name="menu_item_download">Скачать</string>
+    <string name="menu_item_edit">Редактировать</string>
+    <string name="menu_item_load_to">Представляем \"MiaD\"</string>
+    <string name="menu_item_preview">Пред-просмотр</string>
+    <string name="menu_item_redo">Восстановить</string>
+    <string name="menu_item_rename">Переименовать</string>
+    <string name="menu_item_save">Сохранить</string>
+    <string name="menu_item_save_int">Сохранить в локальном</string>
+    <string name="menu_item_search">Поиск</string>
+    <string name="menu_item_setting">О MarkDownL</string>
+    <string name="menu_item_share">Сохранить как изображение</string>
+    <string name="menu_item_sort">Сортировка</string>
+    <string name="menu_item_statistics">Кол-во символов</string>
+    <string name="menu_item_tag">Тег</string>
+    <string name="menu_item_title_email">Email</string>
+    <string name="menu_item_title_github">GitHub</string>
+    <string name="menu_item_title_weibo">BiHiroshi</string>
+    <string name="menu_item_undo">Отменить</string>
+    <string name="menu_item_update">Редактировать</string>
+    <string name="menu_item_upload">Загрузка в облако</string>
+    <string name="menu_item_upload_int">Перезаписать облачные файлы</string>
+    <string name="motto">Пишите_✍</string>
+    <string name="need_PIN">Пароль не требуется для входа в приложение</string>
+    <string name="need_fingerprint">Включено: проверка подлинности отпечатка пальца требуется для входа в приложение</string>
+    <string name="new_book">Новая книга</string>
+    <string name="new_char">Новый каталог</string>
+    <string name="new_page">Новая заметка</string>
+    <string name="no">Отмена</string>
+    <string name="no_need_fingerprint">Не включено, каждый может получить доступ к приложению</string>
+    <string name="normal">По умолчанию</string>
+    <string name="normal_sign">Зарегистрироваться</string>
+    <string name="nosync">Не синхронизировать</string>
+    <string name="note_is_exist">Статья уже существует!</string>
+    <string name="notifi_recored_tips">Каждый раз, когда приложение открывается, в панели уведомлений будет создаваться уведомление для быстрой записи</string>
+    <string name="notification_quick_write">Ярлык на панели уведомлений</string>
+    <string name="off_pin_tips">Если включено, пароль необходим для входа в приложение</string>
+    <string name="ok">Ок</string>
+    <string name="old_password">Введите ваш старый пароль</string>
+    <string name="page_set">Настройки заметки</string>
+    <string name="page_sync_condition">"Статус синхронизации: "</string>
+    <string name="page_tool">Инструменты</string>
+    <string name="passageID_content">Получать сообщения от друзей</string>
+    <string name="passegeID_title">Введите номер заметки</string>
+    <string name="password">Установка/изменение пароля</string>
+    <string name="past_vip">VIP истек, активируйте</string>
+    <string name="paying_tips">"Обратите внимание,  заполните свой код L при оплате:"</string>
+    <string name="pdf">Сохранить как PDF (распечатать)</string>
+    <string name="perf_key_user_out">out_my_Account</string>
+    <string name="pic">Изображение</string>
+    <string name="pin_content">Установить пароль PIN</string>
+    <string name="pin_lock">PIN-код разблокировка</string>
+    <string name="pin_wrong">Ошибка PIN</string>
+    <string name="pre_first">Открывать статьи в режиме Markdown</string>
+    <string name="pref_array_item_auto">Следовать системе</string>
+    <string name="pref_array_item_black">Черная</string>
+    <string name="pref_array_item_blue">Жёлтая</string>
+    <string name="pref_array_item_brown">Коричневая</string>
+    <string name="pref_array_item_chinese_s">Упрощенный китайский</string>
+    <string name="pref_array_item_chinese_t">Традиционный китайский</string>
+    <string name="pref_array_item_default">По умолчанию</string>
+    <string name="pref_array_item_english">Английский</string>
+    <string name="pref_array_item_green">Зеленая</string>
+    <string name="pref_array_item_origin">Голубая</string>
+    <string name="pref_array_item_pink">Розовая</string>
+    <string name="pref_array_item_purple">Фиолетовая</string>
+    <string name="pref_array_item_red">Красная</string>
+    <string name="pref_array_item_yellow">Синяя</string>
+    <string name="pref_key_Darktheme">DrakOrNot</string>
+    <string name="pref_key_about">about</string>
+    <string name="pref_key_agreement">agreement</string>
+    <string name="pref_key_bg">edit_bg_img</string>
+    <string name="pref_key_bug_report">bug_report</string>
+    <string name="pref_key_check_update">check_update</string>
+    <string name="pref_key_custom_editor">custom_editor</string>
+    <string name="pref_key_feedback">feedback</string>
+    <string name="pref_key_fingerprint">fingerprint</string>
+    <string name="pref_key_firstPage">firstPage</string>
+    <string name="pref_key_help">help</string>
+    <string name="pref_key_language">language</string>
+    <string name="pref_key_network">network</string>
+    <string name="pref_key_pic">pic</string>
+    <string name="pref_key_privacy">privacy</string>
+    <string name="pref_key_rating">rating</string>
+    <string name="pref_key_safe">safe</string>
+    <string name="pref_key_safe_auto">safe_auto</string>
+    <string name="pref_key_safe_custom">safe_custom</string>
+    <string name="pref_key_skip">skip</string>
+    <string name="pref_key_sync">sync</string>
+    <string name="pref_key_theme">theme</string>
+    <string name="pref_key_ttf">custom_ttf</string>
+    <string name="pref_key_update">update</string>
+    <string name="pref_key_webdav">webdav</string>
+    <string name="pref_key_yun">yun</string>
+    <string name="pref_summary_4g_sync">Использовать 4G/3G/2G</string>
+    <string name="pref_summary_current_version">Текущая версия v1.0</string>
+    <string name="pref_summary_default">По умолчанию</string>
+    <string name="pref_summary_language">Следовать системе</string>
+    <string name="pref_summary_sync">Авто синхронизация</string>
+    <string name="pref_summary_wifi_sync">Использовать WIFI</string>
+    <string name="pref_title_about">Инфо</string>
+    <string name="pref_title_agreement">Пользовательское соглашение</string>
+    <string name="pref_title_autoLoad">Авто синхронизация с облаком</string>
+    <string name="pref_title_bg">Фон главной страницы</string>
+    <string name="pref_title_bug_report">Отчет об ошибке</string>
+    <string name="pref_title_change_theme">Темы</string>
+    <string name="pref_title_check_update">Проверка наличия обновлений</string>
+    <string name="pref_title_css">Пользовательский стиль Markdown</string>
+    <string name="pref_title_custom_editor">Настройка панели инструментов</string>
+    <string name="pref_title_encryption">Пользовательский ключ</string>
+    <string name="pref_title_feedback">Обратная связь</string>
+    <string name="pref_title_firstPage">Выбор главной страницы</string>
+    <string name="pref_title_hello">Вкл/Выкл приветствие</string>
+    <string name="pref_title_language">Язык</string>
+    <string name="pref_title_multiDevice">Несколько устройств</string>
+    <string name="pref_title_pic">Загрузка изображения</string>
+    <string name="pref_title_privacy">Политика конфиденциальности</string>
+    <string name="pref_title_rate">Рейтинг приложения</string>
+    <string name="pref_title_senior">Премиум-сервис</string>
+    <string name="pref_title_skip">Быстрый запуск</string>
+    <string name="pref_title_sync">Синхронизировать</string>
+    <string name="pref_title_ttf">Пользовательский шрифт</string>
+    <string name="pref_title_webdav">"Настройка  Webdav"</string>
+    <string name="pref_title_wifi_sync">Синхронизация только по WIFI</string>
+    <string name="pref_title_yun">Облачный сервис</string>
+    <string name="prefirst_tips">Открыть отредактированную заметку для пред-просмотра по умолчанию</string>
+    <string name="priority">Приоритет (чем больше число, тем выше приоритет)</string>
+    <string name="privacy">Политика конфиденциальности</string>
+    <string name="privacyContent">"* «Meow notes»  - это небольшое свежее приложение. Я уделяю большое внимание обеспечению конфиденциальности. По этой причине я добавил функцию «шифрования» еще в версии 1.0 и добавил функцию «доступа по отпечаткам пальцев» в версии 2.0.19.
+* Все мотивы для обеспечения вашей конфиденциальности. Настоящим обещаю, что не буду использовать вашу конфиденциальность (включая «облачные сервисы» и не только «облачные сервисы») без уведомления вас. И предоставленная мною функция шифрования не имеет бэкдора, и единственный способ расшифровать это использовать ключ."</string>
+    <string name="process">Загрузка</string>
+    <string name="ps_login">Ps: Если вы никогда не использовали MiaD, введите имя пользователя и пароль, которые вы хотите установить, а затем нажмите Регистрация</string>
+    <string name="public_note">Поделиться с Notes Planet</string>
+    <string name="qqLogin">QQ логин (рекомендуется)</string>
+    <string name="quick_content">Быстрый контент</string>
+    <string name="quick_write_tips">Нажмите на ярлык записи, чтобы отменить ее в настройках</string>
+    <string name="read_file">Посмотреть статью</string>
+    <string name="refrsh_finish">Обновление завершено!</string>
+    <string name="reload_activate">Установка успешна, перезапустите активацию</string>
+    <string name="reminder">Ставьте цели и не забывайте выполнять ежедневные задачи</string>
+    <string name="review">Восстановить книги по умолчанию</string>
+    <string name="russian">Русский</string>
+    <string name="safe_text">Шифрование текста</string>
+    <string name="sample">"Привет, я MiaD. Ваш записыватель жизни.
+
+Рад познакомиться с вами в моей жизни.
+
+Я родился в 2019 году и после 10 лет.
+
+MiaD маленькие, но они также прилагают все усилия, чтобы улучшить себя, просто чтобы дать вам лучший опыт.
+
+Здесь вы можете сделать много нестандартных вещей, чтобы я выглядел лучше. Такие как пользовательские шрифты, пользовательские фоны, пользовательские стили CSS и т. д., Только для меня, чтобы вы чувствовали себя более комфортно.
+
+С сегодняшнего дня, когда я знаю тебя, я готов плакать с тобой, смеяться над тобой и идти с тобой, чтобы увидеть сладкий и горький мир этого человека.
+
+С любовью все становится прекрасным."</string>
+    <string name="sample_name">"Здравствуйте, это MiaD :) "</string>
+    <string name="saveAS">Сохранить как</string>
+    <string name="saveFileTips">"Выберите метод сохранения
+Ps: Android10 и выше,  используйте пользовательское сохранение"</string>
+    <string name="saveSuccess">Сохранено успешно, путь: внутреннее хранилище/MarkdownL/</string>
+    <string name="search_and_replace">Найти и заменить</string>
+    <string name="search_content">Поиск контента</string>
+    <string name="search_content_tips">Введите поисковый контент</string>
+    <string name="search_hint">Поиск файла</string>
+    <string name="search_loacl_tips">Поиск🙈</string>
+    <string name="select_all_and_copy">Выберите все и скопируйте</string>
+    <string name="send">Отправить</string>
+    <string name="setChar">Настройка каталога</string>
+    <string name="setChar_tips">Заполните имя каталога :)</string>
+    <string name="setFlagTips">Нажмите на правый нижний угол, чтобы добавить ежедневные цели :)</string>
+    <string name="setTag">Книга к которой принадлежит заметка</string>
+    <string name="set_PIN_tips">Если вы не установите его, настройка PIN будет недействительной. Кроме того, содержание пароля не может превышать 6 цифр</string>
+    <string name="set_char">Настройка каталога</string>
+    <string name="set_sync">"Статус синхронизации "</string>
+    <string name="set_webdav">"Настройте  WebDav"</string>
+    <string name="settings_activate_service">Активирован</string>
+    <string name="share_ID_tips">I share a page with you，hurry up to look 👉 https://sunshinesudio.club:8012/share/page?code=</string>
+    <string name="share_page_id">Поделиться статьей</string>
+    <string name="signUp_Success">Успешно зарегистрирован</string>
+    <string name="static_shortcut_disabled_message">Неизвестная ошибка</string>
+    <string name="static_shortcut_long_label_1">Быстрая запись текста</string>
+    <string name="static_shortcut_short_label_1">Новая заметка</string>
+    <string name="sure">Ок</string>
+    <string name="syncScoll">Синхронный свайп</string>
+    <string name="sync_scroll_tips">После редактирования текста Markdown проведите пальцем влево, чтобы увидеть пред-просмотр соответствующей позиции.</string>
+    <string name="tab_1">Заметки</string>
+    <string name="tab_2">Notes planet</string>
+    <string name="tab_3">Облачный сервис</string>
+    <string name="tab_4">Настройки</string>
+    <string name="tag_tips">Название журнала не может быть пустым</string>
+    <string name="test_long_content">Это приложение Meow Drop. Здравствуйте, добро пожаловать в использование. Рад знакомству, надеюсь, я вам нравлюсь! Люблю тебя так сильно! Я немного мяукаю, у меня есть номинал и сила. Не бояться страданий, не бояться усталости, и тяжелой работы в первую очередь. Я могу исправить любые недостатки!</string>
+    <string name="test_long_title">Это название MiaD, да, просто для тестирования, не нервничай</string>
+    <string name="text_encrypt_description">Выходной файл md, хранящийся на устройстве, будет зашифрован</string>
+    <string name="text_encrypt_use_method">Зашифрованный текст может быть расшифрован с помощью кнопки [Translate] в интерфейсе редактирования.</string>
+    <string name="the_time_last_punch">Время последней регистрации:</string>
+    <string name="time_set">Выбор времени</string>
+    <string name="tips">Подсказка</string>
+    <string name="tips_off_lighting">Быстрый запуск не включен, что сокращает время запуска после запуска</string>
+    <string name="tips_on_lighting">Помогло вам сократить время, необходимое для запуска приложения</string>
+    <string name="tips_the_rest_times">Оставшаяся возможность</string>
+    <string name="tips_unite_id">"Ps: Имя пользователя не может быть таким же, как у других пользователей, иначе модификация не удастся.
+Каждый элемент может быть изменен отдельно, например, только имя пользователя и почтовый ящик. "</string>
+    <string name="titi">Проверить в</string>
+    <string name="titi_fial">Регистрация не удалась, проверьте сеть</string>
+    <string name="titi_success">Успешная проверка</string>
+    <string name="titleNull">Название пустое, введите и попробуйте снова</string>
+    <string name="toDo">Todo</string>
+    <string name="toText">Сохранить как .txt</string>
+    <string name="toast_content_empty">Пусто</string>
+    <string name="toast_does_not_select">Не выбрано ни одного изображения</string>
+    <string name="toast_file_name_can_not_empty">Имя файла не может быть пустым</string>
+    <string name="toast_file_name_exists">Имя файла уже существует, введите заново</string>
+    <string name="toast_message_cleared">Содержание очищено</string>
+    <string name="toast_message_delete_error">Ошибка удаления файла</string>
+    <string name="toast_message_deleted">Удалено</string>
+    <string name="toast_message_sdcard_unavailable">SD-карта недоступна</string>
+    <string name="toast_saved">Сохранено</string>
+    <string name="todo_only">Только Todo</string>
+    <string name="toggle_drawer_close">Close Drawer</string>
+    <string name="toggle_drawer_open">Open Drawer</string>
+    <string name="total">Все</string>
+    <string name="try_again">Зайдите в онлайн и снова откройте эту страницу</string>
+    <string name="uCrop">Обрезать</string>
+    <string name="undefined_the_css">Отменить пользовательский CSS</string>
+    <string name="undefined_the_key">Неопределенный ключ</string>
+    <string name="undefined_the_ttf">Пользовательский шрифт отменен</string>
+    <string name="use_css">Настраиваемый файл CSS</string>
+    <string name="use_edit_bg">Так же использовать как фон страницы редактирования</string>
+    <string name="use_ttf">Вы можете выбрать файл ttf для установки собственного шрифта</string>
+    <string name="use_ttf_fail">Использовать пользовательские шрифты не удается</string>
+    <string name="userAgreement">"Пользователи должны внимательно прочитать настоящее Пользовательское соглашение (в дальнейшем именуемое «настоящим Соглашением»), прежде чем использовать услуги, предоставляемые «Meow Notes» (т.е. далее совместно именуемые «Meow Notes»). Как только пользователи войдут в систему или используют «Meow Notes»  Услуга «Meow Notes», считается, что пользователь понял и явно согласился с содержанием этого соглашения, и это соглашение немедленно имеет юридическую силу между пользователем и этим «Meow Notes».
+  I. Орган по согласованию
+  Это соглашение является соглашением между пользователем и Meow Notes об использовании пользователем сервиса.
+  Об этом сервисе
+  Содержание этого сервиса относится к соответствующим услугам, предоставляемым Meow Notes своим партнерам и пользователям через это приложение (называемое «Сервис»).  Для пользователей, использующих эту услугу, «Meow Notes» будет постоянно обогащать терминалы, формы и т. Д. Пользователей, использующих эту услугу.  Объем лицензии:
+  - (1) «Meow Notes» предоставляет пользователям личную, непередаваемую и неисключительную лицензию на использование этого приложения.
+  - (2) Все другие права на интеллектуальную собственность, которые прямо не разрешены в этом разделе и других условиях настоящего соглашения, по-прежнему сохраняются за Meow Notes.  «Meow Notes» не является отказом от какого-либо из этих прав, если оно не осуществляет любое из вышеуказанных прав.
+  В-третьих, логин
+  Чтобы использовать это приложение, пользователям может потребоваться ввести личную информацию для входа и использования.  Пользователь полностью осознает, что учетная запись, предоставленная Meow Notes, ограничена моим использованием, в противном случае пользователь может нанести ущерб пользователю или другим лицам.  Пользователь обещает и соглашается с тем, что использование одного и того же устройства, одного и того же идентификационного номера или учетной записи для использования услуг по настоящему соглашению считается поведением пользователя.  Пользователи должны надлежащим образом хранить свое собственное оборудование, документы, удостоверяющие личность, и информацию о пароле учетной записи, а также тщательно передавать другим для использования или использования чужого оборудования, документов, удостоверяющих личность, или информацию об учетной записи. Если пользователь нарушает это соглашение и причиняет убытки пользователю или другим лицам, Meow Notes также не должен  Не будет нести никакой юридической ответственности.  Если пользователь причиняет Meow Notes убытки, он несет все потери, понесенные Meowdrop.
+  В-четвертых, использование приложений
+  Если пользователь получает это приложение или установщик с тем же именем из приложения, которое не является партнером «Meow Drop» или не «Meow Notes», «Meow Notes» не может гарантировать нормальное использование приложения,  И не несет ответственности за убытки, причиненные пользователям.
+  Пять, обновления приложений
+  Чтобы улучшить взаимодействие с пользователем и улучшить содержание сервиса, Meow Notes будет постоянно стремиться предоставлять пользователям обновления приложений (эти обновления могут принимать форму замены, модификации, улучшения функциональности, обновления версий и т.д.).
+  Чтобы улучшить взаимодействие с пользователем и обеспечить безопасность сервиса и согласованность его функций, Meow Notes имеет право обновлять приложение без специального уведомления пользователя или изменять или ограничивать влияние некоторых функций приложения.
+  Защита персональных данных пользователей
+  Защита личной информации пользователя является основным принципом Meow Drop. Meow Notes предпримет разумные меры для защиты личной информации пользователя.  За исключением случаев, предусмотренных законами и правилами и разрешенных пользователем, Meow Notes не будет раскрывать или раскрывать личную информацию пользователя третьим лицам без разрешения пользователя.
+  Как правило, пользователи могут просматривать и изменять информацию, которую они представляют, в любое время, но из-за соображений безопасности и идентификации пользователи могут не иметь возможности изменять первоначальную регистрационную информацию и другую проверочную информацию, предоставленную во время регистрации.
+  7. Заявление об интеллектуальной собственности
+  Meow Notes является владельцем прав интеллектуальной собственности этого приложения.  Права интеллектуальной собственности, такие как авторские права, торговые марки, патенты, коммерческие секреты этого приложения и весь информационный контент, связанный с этим приложением (включая, но не ограничиваясь, текст, изображения, аудио, видео, графику, дизайн интерфейса, структуру макета, связанные  Данные, электронные документы и т.д.) Защищены законами и нормативными актами Китайской Народной Республики и соответствующими международными договорами. Meow Drop пользуется вышеупомянутыми смежными правами на интеллектуальную собственность в соответствии с законом, за исключением прав, которыми должны обладать соответствующие правообладатели в соответствии с законом.
+  Без письменного согласия Meow Notes или обладателей смежных прав пользователи не могут, в каких-либо коммерческих или некоммерческих целях, самостоятельно или лицензировать любую третью сторону для реализации, использования или передачи вышеуказанных прав интеллектуальной собственности.
+  Ответственность за безопасность терминала
+  Пользователи понимают и соглашаются с тем, что на это приложение или услугу, как и на большинство интернет-приложений и услуг, могут влиять различные факторы (включая, помимо прочего, пользовательские причины, качество сетевых услуг, социальную среду и т.д.), А также различные  Проблемы безопасности (включая, помимо прочего, незаконное использование пользовательских данных другими лицами для фактического домогательства; другие приложения, загруженные или установленные пользователями, или другие посещенные веб-сайты, могут содержать вирусы, трояны или другие вредоносные программы, угрожающие терминалу пользователя.  Безопасность информации и данных, что, в свою очередь, влияет на нормальное использование приложения, службы и т.д.).  Поэтому пользователям следует повышать осведомленность об информационной безопасности и защите личной информации и обращать внимание на защиту паролем, чтобы избежать потери.  Когда возникает описанная выше ситуация, Meow Notes постарается как можно скорее сотрудничать с соответствующими сторонами, чтобы вовремя исправить ее, но ущерб, причиненный пользователю Meow Notes, будет освобожден в пределах, разрешенных законом.
+  Пользователям не разрешается создавать, публиковать, использовать или распространять вредоносные программы, используемые для кражи учетных записей «Meow Notes» и личной информации и имущества других людей.
+  Обеспечение безопасности приложений и нормального использования является общей обязанностью Meow Notes и пользователей. Meow Notes будет разумно и разумно принимать необходимые технические меры для защиты информации и данных пользовательского терминала в соответствии с отраслевыми стандартами.
+  В той степени, в которой это разрешено законом, Meow Notes не несет ответственности за перерыв в обслуживании или препятствия, вызванные:
+  - (1) Повреждены компьютерными вирусами, троянскими конями или другими вредоносными программами или хакерами.
+  - (2) компьютерное программное обеспечение, система, аппаратное обеспечение и линии связи пользователя или Meow Notes вышли из строя.
+  - (3) Неправильная работа пользователя.
+  - (4) Пользователь использует сервис способом, не авторизованным Meow Notes.
+  - (5) Другие ситуации, которые Meow Notes не может контролировать или разумно предвидеть.
+  Девять, форс-мажор и разумное освобождение
+  «Форс-мажор» означает объективную ситуацию, возникшую после подписания этого соглашения, которую затронутая сторона не может предвидеть, не может избежать и не может преодолеть.  Такие события включают, но не ограничиваются ими, наводнения, пожары, засухи, тайфуны, землетрясения и другие стихийные бедствия, забастовки, беспорядки, беспорядки и войны, а также действия или бездействие государственных ведомств, корректировки законов, положений или политики, изменения в источниках данных (включая, но не  (Ограничено изменениями в содержании и форме услуг), паралич внутренних каналов данных, хакерские атаки, вторжение компьютерных вирусов, новые вирусные эпидемии, сбои в работе сети из-за проблем оператора связи, недоступности серверов, перебоев в подаче электроэнергии, сбоев системы, сбоев системы, линий передачи, сбоев связи и т.д.  «Мяу падает» вне их контроля.  Невыполнение или полное выполнение этого соглашения из-за форс-мажорных обстоятельств не считается нарушением договора и не несет ответственности за нарушение договора.
+  Десять других
+  Использование пользователем этого приложения или услуги считается тем, что пользователь прочитал и согласился с этим соглашением.  Meow Drop имеет право вносить изменения в условия данного соглашения при необходимости.  Пользователи могут проверить соответствующие условия соглашения в этом приложении и последнюю версию этого сервиса.  После изменения условий этого соглашения, если пользователь продолжает входить в систему, использовать это приложение, эту услугу, считается, что пользователь принял пересмотренное соглашение.  Если пользователь не принимает измененное соглашение, он должен прекратить использование приложения.
+  Создание, вступление в силу, исполнение, толкование и разрешение споров по настоящему соглашению регулируются законами Китайской Народной Республики (за исключением коллизионного права).
+  Если есть какой-либо спор или спор между пользователем и «Miaodi», он должен быть сначала урегулирован путем дружественных переговоров, а если переговоры не пройдены, пользователь соглашается передать спор или спор в юрисдикцию народного суда, в котором находится ответчик.
+  Заголовки всех условий этого соглашения приведены только для удобства, они не имеют реального значения и не могут использоваться в качестве основы для толкования смысла этого соглашения.  5. Независимо от того, какие условия этого соглашения являются частично недействительными или не имеющими юридической силы, остальные условия остаются в силе и являются обязательными для обеих сторон."</string>
+    <string name="user_email">Установка/изменение email</string>
+    <string name="user_exit">Выйти из аккаунта</string>
+    <string name="user_name">"Установка/изменение  имени пользователя"</string>
+    <string name="warn">Предупреждение</string>
+    <string name="webdav">Приоритетное использование WebDav для резервного копирования</string>
+    <string name="webdav_name">Ваше имя пользователя</string>
+    <string name="webdav_pass">Ваш пароль</string>
+    <string name="webdav_path_tips">Убедитесь, что ваш URL WebDAV имеет / в конце</string>
+    <string name="webdav_submit">Подтвердите соединение</string>
+    <string name="webdav_url">Адрес вашего сервера</string>
+    <string name="white_text_tips">Изменить цвет шрифта страницы на белый</string>
+    <string name="word_deadline">Примечания превысили лимит в 50000 слов!</string>
+    <string name="word_warn">Кол-во слов превышает предел 60т. , что может привести к необратимому повреждению данных приложения. Убедитесь, что для других статей были созданы резервные копии.</string>
+    <string name="writeMode">Режим письма</string>
+    <string name="writeMode_tips">Авто отступ строк , авто центрированный заголовок заметки</string>
+    <string name="writing">Заметки</string>
+    <string name="yOn2open_Qdalete">Удалить, нажав и удерживая?</string>
+    <string name="you_had_done_every_thing">Вы сделали все :)</string>
+    <string name="you_have">У вас есть</string>
+    <string name="you_have_titi">Вы зарегистрировались сегодня</string>
+    <string name="your_current_Chara">Текущий каталог</string>
+    <string name="your_current_book">Ваша книга:</string>
+    <string name="fragment_edit_quickbar">Панель быстрого доступа</string>
+    <string name="fragment_edit_editsettings">Настройки редактора</string>
+    <string name="backup">Резервное копирование</string>
+    <string name="pref_array_item_white">Белый кот</string>
+    <string name="LoginorRegister">Войти / зарегистрироваться</string>
+    <string name="loadfile">Импортировать файл</string>
+    <string name="loadfile_tips">Вам нужно поместить файлы в 「Android / data / cn.sunshinesudio.libv / files / Load /」, а затем нажать эту опцию. Импортированные файлы будут удалены</string>
+    <string name="loadfile_ensure">Вы подтвердили, что 「Android/data/cn.sunshinesudio.libv/files/Load/」 уже содержит импортируемый файл</string>
+    <string name="permission_calendar">Требуются следующие разрешения: 1. Получить разрешение на хранение и чтение календаря телефона (для напоминаний todo)</string>
+    <string name="permission_save">Требуются следующие разрешения: 1. Получить разрешение на чтение хранилища мобильного телефона (для Markdown, хранилище txt-файлов)</string>
+    <string name="refuse_tips">Вы отказались от необходимого разрешения!</string>
+    <string name="backUp2local">Резервное копирование на локальный</string>
+    <string name="backUp2loaclTips">Вернитесь к пути 「Android/data/cn.sunshinesudio.libv/files/」, перенесите его вовремя после завершения резервного копирования.</string>
+    <string name="BackUpSuccess">Успешное резервное копирование</string>
+    <string name="repeat_remide">Ежедневное напоминание</string>
+    <string name="Todo_arrange">Планирование задач</string>
+    <string name="books_shelf">книжная полка</string>
+    <string name="record">запись</string>
+    <string name="todo">Todo</string>
+    <string name="me">Я</string>
+    <string name="loading">загрузка</string>
+    <string name="lockSlide">Переключить состояние</string>
+    <string name="slide">Скользящее состояние</string>
+    <string name="lock">Заблокированное состояние</string>
+    <string name="punching">Бить тебя</string>
+    <string name="login_again">Пожалуйста, войдите снова</string>
+    <string name="followSystem">跟随系统</string>
+    <string name="encode">加密</string>
+    <string name="cloud_and_local">云备份与本地的此文章</string>
+    <string name="system_remind">Полное ежедневное напоминание о задании⏰</string>
+    <string name="system_remind_content">Друзья не забудьте завершить сегодняшнее задание! Ты такая клевая</string>
+    <string name="add_todo">添加Todo</string>
+    <string name="find">查找</string>
+    <string name="cant_save">:数据未保存成功</string>
+    <string name="back">返回上一层</string>
+    <string name="inviteCode">邀请码</string>
+    <string name="normal_icon">盼望图</string>
+    <string name="second_icon">卖萌图</string>
+    <string name="third_icon">侧身图</string>
+    <string name="creating_share">正在创建分享</string>
+    <string name="forget_pwd">忘记密码?</string>
+    <string name="clear_flag_success">清除同步标志成功</string>
+    <string name="activate_tips">输入你获得的激活码</string>
+    <string name="activate_code">激活码激活</string>
+    <string name="not_produce">未生成</string>
+    <string name="activate_code_use_tips">可使用邀请-激活码/购买的激活码激活本产品</string>
+    <string name="produce_tips">生成邀请-激活码</string>
+    <string name="punch_calendar">打卡日历</string>
+    <string name="restart_app">重启App设置生效</string>
+    <string name="quick_bar_add_tips">小tips：\n若想输入快捷内容20，\n则第一行填写2，即光标会出现在第2个字符后。\n第三行则是填写描述语句，为一两个字符，用于用户识别。\n第四行为符号排列优先级。</string>
+    <string name="error_title">Something went wrong!</string>
+    <string name="error_occurred">An error occurred. We\'re deeply sorry.</string>
+    <string name="error_details">Error details:</string>
+    <string name="unknown_exception">Unknown exception</string>
+    <string name="try_restart_app">Restart app</string>
+    <string name="close_app">Close app</string>
+</resources>
