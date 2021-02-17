@@ -3,7 +3,7 @@
     <string name="app_name">喵滴</string>
     <string name="cancel">取消</string>
     <string name="ok">確定</string>
-    <string name="no">算了</string>
+    <string name="no">別了</string>
     <string name="menu_item_sort">排序</string>
     <string name="choice_item_create_time_sort">按創建時間</string>
     <string name="choice_item_modify_time_sort">按修改時間</string>
@@ -196,16 +196,16 @@
     <string name="WechatPay_tips">點擊確定按鈕後會跳轉微信掃描二維碼界面:\n1. 點擊右上角的菜單按鈕\n2. 点击\'從相冊選取二維碼\'\n 3. 選擇第一張二維碼圖片即可</string>
     <string name="try_again">請聯網，並重新打開本頁面</string>
     <string name="None_message">沒有信息了</string>
-    <string name="Click_to_refresh">已经登录？點擊刷新</string>
-    <string name="Login_success">登陸成功</string>
-    <string name="Login_failed">登陸失敗</string>
+    <string name="Click_to_refresh">已经登錄？點擊刷新</string>
+    <string name="Login_success">登錄成功</string>
+    <string name="Login_failed">登錄失敗</string>
     <string name="Email">用戶名</string>
     <string name="Passwords">密碼</string>
     <string name="Changing">正在修改中，請等待</string>
     <string name="user_name">設置或修改你的用户名</string>
     <string name="user_email">設置或修改你的郵箱</string>
     <string name="password">設置或修改你的密碼</string>
-    <string name="tips_unite_id">Ps:你的用户名不可與其他用户相同，否則修改失败\n可以單獨修改一項，如只修改用户名、只修改郵箱</string>
+    <string name="tips_unite_id">Ps:你的用戶名不可與其他用户相同，否則修改失败\n可以單獨修改一項，如只修改用戶名、只修改郵箱</string>
     <string name="Change_data">修改資料</string>
     <string name="check_fingerprint">指紋驗證</string>
     <string name="need_fingerprint">進入App需要指紋驗證</string>
@@ -224,7 +224,7 @@
     <string name="toggle_drawer_close">Close Drawer</string>
     <string name="User_info">用戶信息</string>
     <string name="pic">圖片</string>
-    <string name="privacy">隐私政策</string>
+    <string name="privacy">隱私政策</string>
     <string name="privacyContent">*「喵滴」（以下簡稱“我”）雖是一款小清新應用。但我也十分注重保證隱私安全。為此我早在1.0版本階段就已加入了「加密」功能，並且在2.0.19版本加入了「指紋訪問」功能。\n* 這一切的動機，都是為了保證您的隱私安全。
 在此我承諾，我不會在未告知您的情況下，使用你的隱私（包含「雲服務」且不僅限於「雲服務」）。並且我所提供的加密功能是沒有後門的，解密的唯一方法是使用密鈅。
 </string>
@@ -237,7 +237,7 @@
     <string name="fail_to_load">加載失敗, 尝试重新加载</string>
     <string name="fail_exist">圖片不存在，請重試</string>
     <string name="delete_success">刪除成功!</string>
-    <string name="download_success">下载完成</string>
+    <string name="download_success">下載完成</string>
     <string name="undefined_the_key">未定義密鈅</string>
     <string name="defined_the_key">已定義密鈅!</string>
     <string name="fail_to_market">請安裝應用商店!</string>
@@ -392,13 +392,12 @@
     <string name="reload_activate">設置成功，重啟激活</string>
     <string name="set_webdav">配置我的WebDav</string>
     <string name="webdav">優先使用WebDav進行備份</string>
-    <string name="deeptext">深
-深色字體</string>
+    <string name="deeptext">深色字體</string>
     <string name="webdav_path_tips">請確保你的WebDAV網址的結尾有"/"這個符號</string>
     <string name="connect_successfully">鏈接成功</string>
     <string name="connect_fail">鏈接失敗</string>
     <string name="connect_wrong">檢測到妳的雲盤文件為空，可能鏈接錯誤，若妳的雲盤的確文件為空，請忽略！</string>
-    <string name="webdav_name">你的用户名</string>
+    <string name="webdav_name">你的用戶名</string>
     <string name="webdav_pass">你的密碼</string>
     <string name="webdav_url">你的服務器地址</string>
     <string name="webdav_submit">確認連接</string>
@@ -531,7 +530,7 @@
     <string name="backUp2local">備份到本地</string>
     <string name="backUp2loaclTips">備份到「Android/data/cn.sunshinesudio.libv/files/」路徑下，備份完成後請及時轉移。</string>
     <string name="BackUpSuccess">備份成功</string>
-    <string name="repeat_remide">重复提醒</string>
+    <string name="repeat_remide">重複提醒</string>
     <string name="Todo_arrange">任務安排</string>
     <string name="books_shelf">記錄-書架</string>
     <string name="record">記錄</string>
@@ -543,21 +542,21 @@
     <string name="lock">鎖定狀態</string>
     <string name="punching">正在為您打卡中</string>
     <string name="login_again">請重新登錄</string>
-    <string name="followSystem">跟随系统</string>
+    <string name="followSystem">跟隨系统</string>
     <string name="encode">加密</string>
-    <string name="cloud_and_local">云备份与本地的此文章</string>
+    <string name="cloud_and_local">雲備份与本地的此文章</string>
     <string name="system_remind">完成每日任務提醒⏰</string>
     <string name="system_remind_content">小伙伴記得完成今天的任務哦！努力著的你真可愛</string>
     <string name="add_todo">添加Todo</string>
     <string name="find">查找</string>
-    <string name="cant_save">:数据未保存成功</string>
-    <string name="back">返回上一层</string>
-    <string name="inviteCode">邀请码</string>
-    <string name="normal_icon">卖萌图</string>
+    <string name="cant_save">:數據未保存成功</string>
+    <string name="back">返回上一層</string>
+    <string name="inviteCode">邀請碼</string>
+    <string name="normal_icon">買萌图</string>
     <string name="second_icon">盼望图</string>
-    <string name="third_icon">侧身图</string>
-    <string name="creating_share">正在创建分享</string>
-    <string name="forget_pwd">忘记密码?</string>
+    <string name="third_icon">側身图</string>
+    <string name="creating_share">正在創建分享</string>
+    <string name="forget_pwd">忘記密碼?</string>
     <string name="clear_flag_success">清除同步标志成功</string>
     <string name="activate_tips">输入你获得的激活码</string>
     <string name="activate_code">激活码激活</string>
