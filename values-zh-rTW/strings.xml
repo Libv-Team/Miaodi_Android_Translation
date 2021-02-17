@@ -615,4 +615,5 @@
     <string name="activate_abortively">激活失败</string>
     <string name="drawer_item_settings">设置</string>
     <string name="editor_dialog_title_insert_block_code">代码插入</string>
+    <string name="wysiwyg_mode">所见即所得模式</string>
 </resources>
