@@ -568,7 +568,7 @@ With love, everything becomes beautiful.\n</string>
     <string name="letterSpace">Letter-Space</string>
     <string name="read_file">View article</string>
     <string name="setFlagTips">Click on the bottom right corner to add daily goals :)</string>
-    <string name="change_char">Update directory</string>
+    <string name="change_char">Change or Delete the character</string>
     <string name="change_book_name">Change the book name</string>
     <string name="delete_cloud_fail">Delete failed, please make sure the network is unblocked!</string>
     <string name="delete_fail_webdav">Delete failed, please make sure the network is unblocked! And your Webdav is configured correctly</string>
@@ -613,7 +613,7 @@ With love, everything becomes beautiful.\n</string>
     <string name="loadfile_tips">You need to put the files in "Android / data / cn.sunshinesudio.libv / files / Load /", and then click this option. Imported files will be deleted</string>
     <string name="loadfile_ensure">You have confirmed that "Android / data / cn.sunshinesudio.libv / files / Load /" already has your file to be imported</string>
     <string name="permission_calendar">The following permissions are required: 1. Obtain the storage and read permission of the phone\'s calendar (for todo reminders)</string>
-    <string name="permission_save">The following permissions are required: 1. Obtain the storage read permission of the mobile phone (for Markdown, txt file storage)</string>
+    <string name="permission_save">Hello, my friends, "Miaodi" needs the following permissions: 1. Obtain storage and read permissions on the phone for timely backup of article data and file export and save</string>
     <string name="refuse_tips">You have refused the required permission!</string>
     <string name="backUp2local">Backup to local</string>
     <string name="backUp2loaclTips">Back up to the 「Android/data/cn.sunshinesudio.libv/files/」path, please transfer in time after the backup is completed.</string>
@@ -703,4 +703,19 @@ With love, everything becomes beautiful.\n</string>
     <string name="drawer_item_settings">Settings</string>
     <string name="editor_dialog_title_insert_block_code">Code Inserting</string>
     <string name="wysiwyg_mode">WYSIWYG Mode</string>
+    <string name="wait">Please Wait a min</string>
+    <string name="tips_choose_chara">All Characters</string>
+    <string name="account_error">An Error appear in your account and you need to login again</string>
+    <string name="tips_pirate">Warning:You are using pirate</string>
+    <string name="recover_page_data">Restore article data before uninstall</string>
+    <string name="tips_recover_page_data">The backup data is under the system folder /Download/miaodi/BackUp/</string>
+    <string name="force_save">Save Pages data</string>
+    <string name="change_to">change to</string>
+    <string name="quick_settings">Settings</string>
+    <string name="flag_block_title">Text board settings</string>
+    <string name="flag_block_tips">Your editing text will be displayed in the desktop widget</string>
+    <string name="input_your_flag_block">Write your text</string>
+    <string name="edit_flag_block">Edit Text board</string>
+    <string name="flag_block">Text board</string>
+    <string name="punch_comment">打卡记录</string>
 </resources>

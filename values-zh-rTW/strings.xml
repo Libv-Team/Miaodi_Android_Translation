@@ -480,7 +480,7 @@
     <string name="letterSpace">文本間距</string>
     <string name="read_file">查看文章</string>
     <string name="setFlagTips">點擊右下角添加每日目標:)</string>
-    <string name="change_char">更新目錄</string>
+    <string name="change_char">更改或刪除章節</string>
     <string name="change_book_name">修改書名</string>
     <string name="delete_cloud_fail">刪除失敗，請確保網絡通暢！</string>
     <string name="delete_fail_webdav">刪除失敗，請確保網絡通暢！以及你的Webdav配置正確</string>
@@ -525,7 +525,7 @@
     <string name="loadfile_tips">需要您把文件先放到「Android/data/cn.sunshinesudio.libv/files/Load/」中,再點擊此選項。已導入的文件會進行刪除</string>
     <string name="loadfile_ensure">你已確定「Android/data/cn.sunshinesudio.libv/files/Load/」已有你的需導入的文件</string>
     <string name="permission_calendar">需要以下權限: 1.獲得手機的日曆的儲存讀取權限(用於todo提醒)</string>
-    <string name="permission_save">需要以下權限: 1.獲得手機的儲存讀取權限(用於Markdown、txt文件儲存)</string>
+    <string name="permission_save">小伙伴你好，喵滴需要以下權限: 1.獲得手機的儲存讀取權限，以用於文章數據的及時備份和文件導出保存</string>
     <string name="refuse_tips">您拒絕了需要的相關權限!</string>
     <string name="backUp2local">備份到本地</string>
     <string name="backUp2loaclTips">備份到「Android/data/cn.sunshinesudio.libv/files/」路徑下，備份完成後請及時轉移。</string>
@@ -615,4 +615,19 @@
     <string name="drawer_item_settings">設置</string>
     <string name="editor_dialog_title_insert_block_code">代碼插入</string>
     <string name="wysiwyg_mode">所见即所得模式</string>
+    <string name="wait">請等等</string>
+    <string name="tips_choose_chara">全部章節</string>
+    <string name="account_error">賬號異常，已退出賬號</string>
+    <string name="tips_pirate">👻請注意，小伙伴你使用的是盜版喵滴</string>
+    <string name="recover_page_data">恢復卸載前文章數據</string>
+    <string name="tips_recover_page_data">備份數據在系統文件夾/Download/miaodi/BackUp/下</string>
+    <string name="force_save">備份文章數據</string>
+    <string name="change_to">更改為</string>
+    <string name="quick_settings">快捷設置</string>
+    <string name="flag_block_title">文字小板設置</string>
+    <string name="flag_block_tips">在桌面小部件中會顯示你的文字，可以在這裡寫下目標等</string>
+    <string name="input_your_flag_block">寫下你的文字</string>
+    <string name="edit_flag_block">編輯文字小板</string>
+    <string name="flag_block">文字小板</string>
+    <string name="punch_comment">打卡记录</string>
 </resources>

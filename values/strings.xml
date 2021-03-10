@@ -169,12 +169,12 @@
     <string name="text_encrypt_description">输出储存在设备的md文件将经过加密</string>
     <string name="text_encrypt_use_method">加密后的文本可以在编辑界面用[翻译]的按钮解密</string>
     <string name="Update_App">参加最新体验版本</string>
-    <string name="decode_description">自动解密md文件的密文[如没有加密的文本会出现解密后空白的情况！]</string>
+    <string name="decode_description">自动解密md文件的密文[如没有加密的文本会出现解密后空白的情况]</string>
     <string name="decode_used_method">进入编辑加密的文件时自动解密</string>
     <string name="Click_write">点击输入记录</string>
     <string name="process">加载中</string>
     <string name="warn">警告</string>
-    <string name="cant_recover">一旦删除将无法恢复！真的要删除吗？</string>
+    <string name="cant_recover">一旦删除将无法恢复，真的要删除吗？</string>
     <string name="sure">我确定</string>
     <string name="ClicktoTitle">点击输入标题</string>
     <string name="LabFunctions">实验室功能</string>
@@ -184,9 +184,9 @@
     <string name="Yun_tips">您还没开通云服务</string>
     <string name="Upload_success">上传成功</string>
     <string name="Check_net">请检查你的网络</string>
-    <string name="decode_error">解密内容后为空或无法解密！</string>
-    <string name="Upload_tips">笔记要有内容才能上传云端哦！</string>
-    <string name="word_deadline">笔记已经超过5万字的限制！</string>
+    <string name="decode_error">解密内容后为空或无法解密</string>
+    <string name="Upload_tips">笔记需有内容才能上传云端</string>
+    <string name="word_deadline">笔记已经超过5万字的限制</string>
     <string name="Login_please">请先登录</string>
     <string name="Working">请耐心等待</string>
     <string name="Unlock_advance">解锁或续费高级会员</string>
@@ -211,7 +211,7 @@
     <string name="need_fingerprint">已开启，进入App需要指纹验证</string>
     <string name="no_need_fingerprint">未开启，现在任何人可访问App</string>
     <string name="tips_the_rest_times">剩余机会</string>
-    <string name="fail">失败，请稍后重试！</string>
+    <string name="fail">失败，请稍后重试</string>
     <string name="setTag">移动文章至新书本</string>
     <string name="dialog_tag">书本</string>
     <string name="tag_tips">书本本名称不能为空</string>
@@ -229,23 +229,23 @@
 在此我承诺，我不会在未告知您的情况下，使用你的隐私（包含「云服务」且不仅限于「云服务」）。并且我所提供的加密功能是没有后门的，解密的唯一方法是使用密钥。
 </string>
     <string name="input_fingerprint">请验证你的指纹</string>
-    <string name="Fail_to_sync">自动同步失败!</string>
+    <string name="Fail_to_sync">自动同步失败</string>
     <string name="login_null_info">账号或密码不得为空</string>
     <string name="beginning_password">你的初始化密码为123456，你可以通过密码和邮箱登陆「喵的笔记」！</string>
-    <string name="refrsh_finish">刷新完成!</string>
+    <string name="refrsh_finish">刷新完成</string>
     <string name="loading_finish">加载完成</string>
     <string name="fail_to_load">加载失败, 尝试重新加载</string>
     <string name="fail_exist">图片不存在，请重试</string>
-    <string name="delete_success">删除成功!</string>
+    <string name="delete_success">删除成功</string>
     <string name="download_success">下载成功</string>
     <string name="undefined_the_key">未定义密钥</string>
-    <string name="defined_the_key">已定义密钥!</string>
-    <string name="fail_to_market">请安装应用商店!</string>
+    <string name="defined_the_key">已定义密钥</string>
+    <string name="fail_to_market">请安装应用商店</string>
     <!--webdav-->
-    <string name="install_the_aliPay">请安装支付宝！</string>
+    <string name="install_the_aliPay">请安装支付宝</string>
     <string name="total">全部</string>
     <string name="normal">默认</string>
-    <string name="note_is_exist">文章已经存在！</string>
+    <string name="note_is_exist">文章已经存在</string>
     <string name="toDo">Todo</string>
     <string name="input_your_todo">写下你待完成的事宜</string>
     <string name="time_set">时间选择</string>
@@ -331,7 +331,7 @@
     <string name="hello">您好,</string>
     <string name="you_had_done_every_thing">恭喜你已完成所有事情 :)</string>
     <string name="you_have">您有</string>
-    <string name="evens_to_do">项todo未完成!</string>
+    <string name="evens_to_do">项todo未完成</string>
     <string name="havent_todo">你还没有任何的todo哦 :)</string>
     <string name="choose_tag">请选择要移动至的书本</string>
     <string name="your_current_book">你当前的书本:</string>
@@ -357,7 +357,7 @@
     <string name="delete">删除</string>
     <string name="Warn_delete_book">此书本下还有章节未删除，请删除后重试</string>
     <string name="author_info">开发团队:Libv\n邮箱:libv@miaodiapp.com\nQQ:2224825716\n微信:SunshineCompany2224\n学校:南华大学-计算机学院</string>
-    <string name="Cant_delete">默认书本删除后，一些文章将无法存到默认书本，请尽快恢复！</string>
+    <string name="Cant_delete">默认书本删除后，一些文章将无法存到默认书本，请尽快恢复</string>
     <string name="SavePicture">已保存至图库</string>
     <string name="use_ttf_fail">使用自定义字体失败</string>
     <string name="deleteFile_warning">请自行在文件夹中删除</string>
@@ -365,7 +365,7 @@
     <string name="AppSave">应用文件夹保存</string>
     <string name="saveFileTips">请选择保存方式\nPs:Android10及以上版本请使用自定义保存</string>
     <string name="saveSuccess">保存成功,路径：内部存储/MarkdownL/</string>
-    <string name="BookAdd">请输入书名！你将添加一本全新的书籍，写作愉快！</string>
+    <string name="BookAdd">请输入书名，你将添加一本全新的书籍，写作愉快:)</string>
     <string name="DefinedTTF">请选择你的字体文件(.ttf或.TTF)</string>
     <string name="review">恢复默认书本</string>
     <string name="activate">已激活</string>
@@ -396,7 +396,7 @@
     <string name="webdav_path_tips">请确保你的WebDAV网址的结尾有"/"这个符号</string>
     <string name="connect_successfully">链接成功</string>
     <string name="connect_fail">链接失败</string>
-    <string name="connect_wrong">检测到你的云盘文件为空，可能链接错误，若你的云盘的确文件为空，请忽略！</string>
+    <string name="connect_wrong">检测到你的云盘文件为空，可能链接错误，若你的云盘的确文件为空，请忽略</string>
     <string name="webdav_name">你的用户名</string>
     <string name="webdav_pass">你的密码</string>
     <string name="webdav_url">你的服务器地址</string>
@@ -486,10 +486,10 @@
     <string name="letterSpace">文本间距</string>
     <string name="read_file">查看文章</string>
     <string name="setFlagTips">点击右下角添加每日目标:)</string>
-    <string name="change_char">更新章节</string>
+    <string name="change_char">更新或删除章节</string>
     <string name="change_book_name">修改书名</string>
-    <string name="delete_cloud_fail">删除失败，请确保网络通畅！</string>
-    <string name="delete_fail_webdav">删除失败，请确保网络通畅！以及你的Webdav配置正确</string>
+    <string name="delete_cloud_fail">删除失败，请确保网络通畅</string>
+    <string name="delete_fail_webdav">删除失败，请确保网络通畅，以及你的Webdav配置正确</string>
     <string name="delete_cloud_too">同时删除云端的备份</string>
     <string name="have_punch">已打卡</string>
     <string name="havent_punch">未打卡</string>
@@ -530,8 +530,8 @@
     <string name="loadfile_tips">按提示把文件夹(文件夹中的文件夹不进行读取)先放到相应位置，数据导入后在默认书本的默认章节下</string>
     <string name="loadfile_ensure">你已确定「Android/data/cn.sunshinesudio.libv/files/Load/」已有你的需导入的文件</string>
     <string name="permission_calendar">需要以下权限: 1.获得手机的日历的储存读取权限(用于todo提醒)</string>
-    <string name="permission_save">需要以下权限: 1.获得手机的储存读取权限(用于Markdown、txt文件储存)</string>
-    <string name="refuse_tips">您拒绝了需要的相关权限!</string>
+    <string name="permission_save">小伙伴你好，喵滴需要以下权限: 1.获得手机的储存读取权限，以用于文章数据的及时备份和文件导出保存</string>
+    <string name="refuse_tips">您拒绝了需要的相关权限</string>
     <string name="backUp2local">备份到本地</string>
     <string name="backUp2loaclTips">备份到「Downloads/miaodi/」路径下。需要储存权限。</string>
     <string name="BackUpSuccess">备份成功</string>
@@ -551,7 +551,7 @@
     <string name="encode">加密</string>
     <string name="cloud_and_local">云备份与本地的此文章</string>
     <string name="system_remind">完成每日任务提醒⏰</string>
-    <string name="system_remind_content">小伙伴记得完成今天的任务哦！努力着的你真可爱</string>
+    <string name="system_remind_content">小伙伴记得完成今天的任务哦，努力着的你真可爱</string>
     <string name="add_todo">添加Todo</string>
     <string name="find">查找</string>
     <string name="cant_save">:数据未保存成功</string>
@@ -620,4 +620,19 @@
     <string name="drawer_item_settings">设置</string>
     <string name="editor_dialog_title_insert_block_code">代码插入</string>
     <string name="wysiwyg_mode">所见即所得模式</string>
+    <string name="wait">你的操作太快了，请等等</string>
+    <string name="tips_choose_chara">全部章节(未选择章节)</string>
+    <string name="account_error">账号异常，已退出账号</string>
+    <string name="tips_pirate">👻请注意，小伙伴你使用的是盗版喵滴</string>
+    <string name="recover_page_data">恢复卸载前文章数据</string>
+    <string name="tips_recover_page_data">备份数据在系统文件夹 /Download/miaodi/BackUp/ 下</string>
+    <string name="force_save">备份文章数据</string>
+    <string name="change_to">更改为</string>
+    <string name="quick_settings">快捷设置</string>
+    <string name="flag_block_title">文字小板设置</string>
+    <string name="flag_block_tips">在桌面小部件中会显示你的文字，可以在这里写下目标等</string>
+    <string name="input_your_flag_block">写下你的文字</string>
+    <string name="edit_flag_block">编辑文字小板</string>
+    <string name="flag_block">文字小板</string>
+    <string name="punch_comment">打卡记录</string>
 </resources>
