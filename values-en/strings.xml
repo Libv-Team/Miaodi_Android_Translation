@@ -6,13 +6,12 @@
     <string name="menu_item_sort">Sort by</string>
     <string name="choice_item_create_time_sort">Creation time</string>
     <string name="choice_item_modify_time_sort">Last modify</string>
-    <string name="choice_item_title_sort">Title</string>
     <string name="list_empty">Did not find any file, click the button to create a new file.</string>
     <string name="menu_item_search">Search</string>
     <string name="search_hint">Search files</string>
     <string name="action_mode_menu_item_select_all">Select all</string>
     <string name="action_mode_menu_item_delete">Delete</string>
-    <string name="dialog_message_delete_files_confirm">Do you want to delete the selected file?</string>
+    <string name="dialog_message_delete_files_confirm">Do you want to delete the selected file</string>
     <string name="menu_item_undo">Undo</string>
     <string name="menu_item_redo">Redo</string>
     <string name="menu_item_preview">Preview</string>
@@ -33,7 +32,7 @@
     <string name="dialog_title_rename_file">Rename</string>
     <string name="dialog_btn_rename">Rename</string>
     <string name="toast_content_empty">Content is empty</string>
-    <string name="dialog_message_clear_all">Are you sure to clear all?</string>
+    <string name="dialog_message_clear_all">Are you sure to clear all</string>
     <string name="dialog_title_statistics">Statistics</string>
     <string name="dialog_tv_bold_text">Characters count</string>
     <string name="dialog_tv_char_count">10</string>
@@ -109,19 +108,13 @@
     <string name="app_version_number">1.0</string>
     <string name="contact_me">Follow us</string>
     <string name="bottom_text">©2014–2021 Libv All rights reserved</string>
-    <string name="menu_item_title_email">Email</string>
-    <string name="menu_item_title_github">GitHub</string>
-    <string name="menu_item_title_weibo">WeiBo</string>
     <string name="test_long_title">这是一个标题，一个非常长的标题，长到看不到尽头，真的特别长，后面的根本看不到，后面还有很多内容你根本就看不到的，不信再看</string>
     <string name="test_long_content">这是一段文章摘要，一段非常长的文章摘要，一样是长到没有尽头，到底是有多长呢，你继续往后看就知道有多长了，我不知道写什么了，就这样看看可不可以吧，要是不可以那就再长一点</string>
     <string name="send">Send</string>
     <string name="menu_item_setting">About Miaodi</string>
     <string name="Login">Login</string>
-    <string name="qqLogin">Login by QQ（Recommend）</string>
     <string name="tab_1">Writing</string>
-    <string name="tab_2">Note Star</string>
     <string name="tab_3">Cloud Service</string>
-    <string name="tab_4">Settings</string>
     <string name="menu_item_upload">Upload to Cloud</string>
     <string name="menu_item_download">Download</string>
     <string name="User">Account</string>
@@ -160,16 +153,13 @@
     <string name="Click_write">Click here to write</string>
     <string name="process">Loading</string>
     <string name="warn">Warn！</string>
-    <string name="cant_recover">Once delete you can\'t recover this file！Do you continue？</string>
-    <string name="sure">Sure！</string>
+    <string name="cant_recover">Once delete you can\'t recover this file, Do you continue</string>
     <string name="no">No</string>
     <string name="change_user_data">Change my data</string>
     <string name="user_exit">Exit my account</string>
     <string name="ClicktoTitle">Click here to write your title</string>
     <string name="LabFunctions">Lab Funsctions</string>
-    <string name="advance_tips">Please attach your L-code when you pay, if you haven\'t get the senior after 24hours, please communicate with us by e-mail</string>
     <string name="Email_please">Please install E-mail</string>
-    <string name="paying_tips">Thanks for your support！Attention，when you are paying for us please write down your Lcode：</string>
     <string name="Yun_tips">You haven\'t active this Advance service</string>
     <string name="Upload_success">Upload success!</string>
     <string name="Check_net">Please check your network</string>
@@ -179,11 +169,6 @@
     <string name="Login_please">Login please!</string>
     <string name="Working">Working,please wait a minute!</string>
     <string name="Unlock_advance">Unlock the advance service</string>
-    <string name="AliPay">AliPay</string>
-    <string name="WechatPay">WechatPay</string>
-    <string name="hold_on">Wait a minute</string>
-    <string name="WechatPay_tips">You need to open the Wecht,\n
-        and open to scan the QrCode(select from the gallery)</string>
     <string name="try_again">Please restart MarkDownL</string>
     <string name="None_message">Message is null</string>
     <string name="Click_to_refresh">Click here to refresh</string>
@@ -232,16 +217,15 @@
     <string name="Fail_to_sync">Fail to auto sync ：</string>
     <string name="login_null_info">Account or Password can\'t be null</string>
     <string name="beginning_password">Your beginning password is 123456！You can use the password and email to login MarkdownL</string>
-    <string name="refrsh_finish">Refresh finish!</string>
+    <string name="refrsh_finish">Refresh finish</string>
     <string name="loading_finish">Loading finish</string>
     <string name="fail_to_load">Fail to load, Try to reload</string>
-    <string name="fail_exist">The pic doesn\'t exist!</string>
-    <string name="delete_success">Delete success!</string>
-    <string name="download_success">Download Success</string>
+    <string name="fail_exist">The pic doesn\'t exist</string>
+    <string name="delete_success">Delete successfully</string>
+    <string name="download_success">Download successfully</string>
     <string name="undefined_the_key">undefined the key</string>
-    <string name="defined_the_key">defined the key!</string>
-    <string name="fail_to_market">Please install the App market!</string>
-    <string name="install_the_aliPay">Please install the AliPay</string>
+    <string name="defined_the_key">had defined the key</string>
+    <string name="fail_to_market">Please install the App market</string>
     <string name="total">Total</string>
     <string name="note_is_exist">Note is exist</string>
     <string name="toDo">Todo</string>
@@ -409,22 +393,17 @@ The headings of all the terms of this agreement are for convenience only.
     <string name="Todo">Todo</string>
     <string name="menu_item_tag">Tag</string>
     <string name="hello">Hello,</string>
-    <string name="you_had_done_every_thing">You had done every thing :)</string>
     <string name="you_have">You have</string>
-    <string name="evens_to_do">evens need to do!</string>
-    <string name="havent_todo">You haven\'t write any todo :)</string>
     <string name="choose_tag">Choose the book</string>
-    <string name="your_current_book">Your current book is:</string>
     <string name="new_book">New book</string>
     <string name="setChar">setChar</string>
     <string name="normal">Normal</string>
     <string name="Character">Character</string>
     <string name="current_book">Current book:</string>
     <string name="choose_chara">Change Character</string>
-    <string name="your_current_Chara">Current_char</string>
     <string name="set_char">Set Character</string>
     <string name="new_char">new Character</string>
-    <string name="setChar_tips">if you add a num and # in the begin(such as：10#First Character),you can set the priority of the character，the number bigger，character lean more forward!</string>
+    <string name="setChar_tips">Please fill in your chapter name :)</string>
     <string name="pref_array_item_purple">Purple</string>
     <string name="motto">Record your record</string>
     <string name="Tips">Tips</string>
@@ -433,7 +412,7 @@ The headings of all the terms of this agreement are for convenience only.
     <string name="System">System</string>
     <string name="pref_key_ttf">ttf</string>
     <string name="pref_title_ttf">Set Custom .ttf</string>
-    <string name="undefined_the_ttf">undefined the .ttf</string>
+    <string name="undefined_the_ttf">Undefined the .ttf</string>
     <string name="use_ttf">You can define your ttf by choose the file</string>
     <string name="delete">delete</string>
     <string name="Warn_delete_book">Your book has character never delete, please try again after delete them all!</string>
@@ -445,7 +424,7 @@ The headings of all the terms of this agreement are for convenience only.
     <string name="customSave">Custom-Save</string>
     <string name="AppSave">App-Save</string>
     <string name="saveFileTips">Please choose your save method\nPs:If version above AndroidQ please choose [Custom-Save]</string>
-    <string name="saveSuccess">Save success! The path of file: Storage\MarkdownL</string>
+    <string name="saveSuccess">Save success, the path of file: Storage\\MarkdownL</string>
     <string name="BookAdd">Please fill your new Book name!\nYou will add a new Book！Enjoy yourself！</string>
     <string name="DefinedTTF">Please choose your Alphabet file(.ttf OR .TTF)</string>
     <string name="review">Resume the Normal Book</string>
@@ -457,7 +436,7 @@ The headings of all the terms of this agreement are for convenience only.
     <string name="titi_success">Punch success</string>
     <string name="you_have_titi">You have punched today</string>
     <string name="have_copy">have copy</string>
-    <string name="titi_fial">Punch fail! please check network</string>
+    <string name="titi_fial">Punch fail, Please check network</string>
     <string name="Text_number">The number of page</string>
     <string name="Punch_day">You have punch </string>
     <string name="day"> day continuously</string>
@@ -480,15 +459,15 @@ The headings of all the terms of this agreement are for convenience only.
     <string name="connect_wrong">Found your WebDav is Empty which maybe connect is wrong</string>
     <string name="webdav_name">User name</string>
     <string name="webdav_pass">Password</string>
-    <string name="webdav_url">the net of WebDav</string>
+    <string name="webdav_url">The address of WebDav Server</string>
     <string name="webdav_submit">Submit</string>
-    <string name="toText">save to .txt</string>
+    <string name="toText">Save as .txt</string>
     <string name="pref_title_css">Custom the Markdown style</string>
     <string name="use_css">Custom the css file</string>
     <string name="DefinedCSS">Choose the css</string>
     <string name="undefined_the_css">undefined the css</string>
     <string name="share_ID_tips">I share a page with you，hurry up to look 👉 https://sunshinesudio.club:8012/share/page?code=</string>
-    <string name="share_page_id">share_page</string>
+    <string name="share_page_id">Share Page</string>
     <string name="todo_only">Todo Only</string>
     <string name="Note_only">Writing Only</string>
     <string name="Content_textSize">Content-textSize</string>
@@ -512,7 +491,7 @@ The headings of all the terms of this agreement are for convenience only.
     <string name="set_PIN_tips">If you haven\'t set PIN, tha PIN can activate. Besides, No more than 6 numbers</string>
     <string name="off_pin_tips">If off, Enter the application needed the password</string>
     <string name="cancel_to_Qdelete">Cancel the quick delete</string>
-    <string name="yOn2open_Qdalete">Do you want to open the quick delete？</string>
+    <string name="yOn2open_Qdalete">Do you want to open the quick delete</string>
     <string name="past_vip">VIP is past due</string>
     <string name="activate_forever">Permanent activation</string>
     <string name="expire">expire</string>
@@ -549,19 +528,6 @@ The headings of all the terms of this agreement are for convenience only.
     <string name="search_content">Content retrieval</string>
     <string name="search_content_tips">Enter search content</string>
     <string name="search_loacl_tips">Retrieve🙈</string>
-    <string name="sample">Hello, I\'m Miaodi. A Markdown text editor.\n
-
-Glad to meet you in my life.\n
-
-I was born in 2019 and is a post-10.\n
-
-Miaodi are small, but we are also working hard to improve ourselves, just to give you a better experience.\n
-
-Here you can do a lot of custom things to make me look better. Such as custom fonts, custom backgrounds, custom CSS styles, and so on, all just for me to make you feel more comfortable.\n
-
-From today when I know you, I am willing to cry with you, laugh with you, and go with you to see the sweetness and bitterness of this world.\n
-
-With love, everything becomes beautiful.\n</string>
     <string name="sample_name">Hello, this is Miaodi</string>
     <string name="Todo_sample">This is a Todo</string>
     <string name="lineSpace">Line-Space</string>
@@ -631,7 +597,7 @@ With love, everything becomes beautiful.\n</string>
     <string name="punching">Punching</string>
     <string name="login_again">Please login again</string>
     <string name="followSystem">Follow the system</string>
-    <string name="encode">Encrypt</string>
+    <string name="encode">Decrypt</string>
     <string name="cloud_and_local">This page form cloud and local</string>
     <string name="system_remind">Complete daily task reminder⏰</string>
     <string name="system_remind_content">Dear, remember to complete today\'s task! You are so cute when you work hard</string>
@@ -679,7 +645,7 @@ With love, everything becomes beautiful.\n</string>
     <string name="load_successfully">Load successfully</string>
     <string name="load_abortively">Load abortively</string>
     <string name="activate_successfully">Activated successfully</string>
-    <string name="writing_finish">Writing Finish</string>
+    <string name="writing_finish">Loading Finish</string>
     <string name="choose_book">Choose book</string>
     <string name="choose_showing_chara">Choose character</string>
     <string name="sure_to_replace">sure to replace</string>
@@ -717,5 +683,20 @@ With love, everything becomes beautiful.\n</string>
     <string name="input_your_flag_block">Write your text</string>
     <string name="edit_flag_block">Edit Text board</string>
     <string name="flag_block">Text board</string>
-    <string name="punch_comment">打卡记录</string>
+    <string name="punch_comment">Punch Record</string>
+    <string name="add_flag">Add Flag</string>
+    <string name="more">More</string>
+    <string name="move_to">Move to</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="external_file">External file</string>
+    <string name="use_default_wall">Use Default Wall</string>
+    <string name="toast_message_local_deleted">Local article deleted successfully</string>
+    <string name="toast_message_webdav_deleted">WebDav cloud articles were deleted successfully at the same time</string>
+    <string name="toast_message_cloud_deleted">At the same time, delete the Miaodi cloud article backup successfully</string>
+    <string name="all_local_delete">The local data of the selected article has been deleted</string>
+    <string name="delete_page_statistic">Number of articles deleted this time</string>
+    <string name="title">Title</string>
+    <string name="WebDavUploadErrorTips">WebDav backup: please make sure your title contains only text</string>
+    <string name="sure">Sure</string>
+    <string name="sample"># What I want to say to my friends  Hello duck, I am Meowdi App, your life recorder. In this complex and fast-paced world, Miaodi hopes that his friends can have time every day to record their heart, in the most primitive way --- words.  Miaodi was born in 2020. It is a 20-year-old. It is very young and has a lot of imperfections. However, it has been perfecting itself very carefully, just to give you a better experience.  Here, Miaodi will treat each paragraph of your text in the most careful way, and the content you wrote will almost never be lost, **even if you power off the device instantly, unless you actively delete it**. In addition, we have specially configured a writing mode for you who like to write. The clear paragraphs will make your writing more comfortable. You can also use the focus mode to devote yourself to your writing. In terms of cloud backup of the article, we provide two choices of Webdav and Miaodi cloud services, so that you can switch devices anytime, anywhere, and follow your records. We also provide a three-level classification of books-chapters-articles, where you can mobilize your own articles as you like, without restriction.  Miaodi not only optimizes writing, but also provides a lot of custom functions. You can use a lot of custom functions for you to use. Such as **custom fonts**, **custom backgrounds**, **custom CSS styles**, **custom shortcut input**, etc., these are all freely available for use, just to let small partners It feels more comfortable to use.  Meowdi also provides a system-level Todo reminder service, so that you no longer miss an important thing, and your time is back in your hands. Supplemented by the daily check-in function, the joy of completing each day\'s Flag can be accumulated, and if there is aspiration, things come true.  With love, everything will be beautiful.  > More detailed instructions: https://www.miaodiapp.com/help.html  Miaodi team  official website: https://www.miaodiapp.com 2021</string>
 </resources>

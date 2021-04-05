@@ -7,13 +7,12 @@
     <string name="menu_item_sort">排序</string>
     <string name="choice_item_create_time_sort">按創建時間</string>
     <string name="choice_item_modify_time_sort">按修改時間</string>
-    <string name="choice_item_title_sort">按標題</string>
     <string name="list_empty">沒有找到任何文件\n點擊右下角按鈕新建文件</string>
     <string name="menu_item_search">搜索</string>
     <string name="search_hint">搜索文件</string>
     <string name="action_mode_menu_item_select_all">全選</string>
     <string name="action_mode_menu_item_delete">刪除</string>
-    <string name="dialog_message_delete_files_confirm">要刪除選中的文件嗎？</string>
+    <string name="dialog_message_delete_files_confirm">要刪除選中的文件嗎</string>
     <string name="menu_item_undo">撤銷</string>
     <string name="menu_item_redo">恢復</string>
     <string name="menu_item_preview">預覽</string>
@@ -34,7 +33,7 @@
     <string name="dialog_title_rename_file">重命名</string>
     <string name="dialog_btn_rename">重命名</string>
     <string name="toast_content_empty">內容為空</string>
-    <string name="dialog_message_clear_all">確定要清除所有內容嗎？</string>
+    <string name="dialog_message_clear_all">確定要清除所有內容嗎</string>
     <string name="dialog_title_statistics">統計信息</string>
     <string name="dialog_tv_bold_text">總字符數</string>
     <string name="dialog_tv_char_count">10</string>
@@ -127,20 +126,14 @@
     <string name="app_version_number">1.0</string>
     <string name="contact_me">關注我們</string>
     <string name="bottom_text">©2014–2021 Libv All rights reserved</string>
-    <string name="menu_item_title_email">Email</string>
-    <string name="menu_item_title_github">GitHub</string>
-    <string name="menu_item_title_weibo">微博</string>
     <string name="tab_1">記錄</string>
-    <string name="tab_2">筆記星球</string>
     <string name="tab_3">雲服務</string>
-    <string name="tab_4">設置</string>
     <string name="User">賬號</string>
     <string name="LoginOrOut">登錄</string>
     <string name="Login">登錄</string>
-    <string name="qqLogin">QQ登錄(推薦使用)</string>
     <string name="change_user_data">修改賬號資料</string>
     <string name="user_exit">退出當前賬號</string>
-    <string name="menu_item_setting">關於MarkDownL</string>
+    <string name="menu_item_setting">關於喵滴</string>
     <string name="Theme">主題</string>
     <string name="DarkMode">夜間模式</string>
     <string name="menu_item_upload">上傳雲端</string>
@@ -175,12 +168,10 @@
     <string name="process">加載中</string>
     <string name="warn">警告</string>
     <string name="cant_recover">一旦删除將無法恢復！真的要刪除嗎？</string>
-    <string name="sure">我意已决，確定！</string>
+    <string name="sure">確定</string>
     <string name="ClicktoTitle">點擊輸入標題</string>
     <string name="LabFunctions">實驗室功能</string>
-    <string name="advance_tips">記得支付時附上您的L—code哦！激活存在延遲(不超過24小時)，若超過24小時未激活請聯系作者</string>
     <string name="Email_please">请安装郵箱</string>
-    <string name="paying_tips">注意，請在支付時，填寫上你的L碼：</string>
     <string name="Yun_tips">您還沒開通雲服務</string>
     <string name="Upload_success">上傳成功</string>
     <string name="Check_net">請檢查你的網絡</string>
@@ -190,10 +181,6 @@
     <string name="Login_please">請先登錄</string>
     <string name="Working">請耐心等待</string>
     <string name="Unlock_advance">解鎖高級版</string>
-    <string name="AliPay">支付寶支付</string>
-    <string name="WechatPay">微信支付</string>
-    <string name="hold_on">先熟悉一下App</string>
-    <string name="WechatPay_tips">點擊確定按鈕後會跳轉微信掃描二維碼界面:\n1. 點擊右上角的菜單按鈕\n2. 点击\'從相冊選取二維碼\'\n 3. 選擇第一張二維碼圖片即可</string>
     <string name="try_again">請聯網，並重新打開本頁面</string>
     <string name="None_message">沒有信息了</string>
     <string name="Click_to_refresh">已经登錄？點擊刷新</string>
@@ -242,7 +229,6 @@
     <string name="defined_the_key">已定義密鈅!</string>
     <string name="fail_to_market">請安裝應用商店!</string>
     <!--webdav-->
-    <string name="install_the_aliPay">請安裝支付寶！</string>
     <string name="total">全部</string>
     <string name="normal">默認</string>
     <string name="note_is_exist">文章已經存在！</string>
@@ -329,21 +315,16 @@
     <string name="Todo">Todo</string>
     <string name="menu_item_tag">Tag</string>
     <string name="hello">您好,</string>
-    <string name="you_had_done_every_thing">恭喜你已完成所有事情 :)</string>
     <string name="you_have">您有</string>
-    <string name="evens_to_do">項todo未完成!</string>
-    <string name="havent_todo">你還沒有任何的todo哦 :)</string>
     <string name="choose_tag">請選擇你的書本</string>
-    <string name="your_current_book">你當前的書本:</string>
     <string name="new_book">新書本</string>
     <string name="setChar">設置章節</string>
     <string name="Character">章節</string>
     <string name="current_book">當前書本爲:</string>
     <string name="choose_chara">更改當前文章章節</string>
-    <string name="your_current_Chara">當前章節</string>
     <string name="set_char">設置章節</string>
     <string name="new_char">新章節</string>
-    <string name="setChar_tips">若在章節名稱前加壹個數字和#(如：10#第壹章)，即可設置章節顯示在目錄的優先級，數字越大，章節排得越前</string>
+    <string name="setChar_tips">請填寫你的章節名稱:)</string>
     <string name="pref_array_item_purple">基佬紫</string>
     <string name="motto">記錄你的記錄</string>
     <string name="Tips">提示</string>
@@ -364,7 +345,7 @@
     <string name="customSave">自定義保存</string>
     <string name="AppSave">應用文件夾保存</string>
     <string name="saveFileTips">請選擇保存方式\nPs:Android10及以上版本請使用自定義保存</string>
-    <string name="saveSuccess">保存成功,路徑：內部儲存/MarkdownL/</string>
+    <string name="saveSuccess">保存成功, 路徑: 「內部儲存/MarkdownL/」</string>
     <string name="BookAdd">請輸入書名！你將添加一本全新的書籍，寫作愉快！</string>
     <string name="DefinedTTF">請選擇你的字體文件(.ttf或.TTF)</string>
     <string name="review">恢復默認書本</string>
@@ -431,11 +412,11 @@
     <string name="set_PIN_tips">若妳沒有設置，則PIN設置無效。此外，密碼內容最多不得超過6位數字</string>
     <string name="off_pin_tips">若開啟，則進入App需要密碼</string>
     <string name="cancel_to_Qdelete">關閉長按快速刪除</string>
-    <string name="yOn2open_Qdalete">是否開啟長按刪除？</string>
+    <string name="yOn2open_Qdalete">是否開啟長按刪除</string>
     <string name="past_vip">VIP已過期，請重新激活</string>
     <string name="activate_forever">永久激活</string>
     <string name="expire">到期</string>
-    <string name="encrypt">解密</string>
+    <string name="encrypt">加密</string>
     <string name="chane_priority">妳將改變該快捷鍵的順序，數字越大，排得越前</string>
     <string name="pre_first">優先預覽文章</string>
     <string name="set_sync">設置文章同步狀態</string>
@@ -468,12 +449,7 @@
     <string name="search_content">內容檢索</string>
     <string name="search_content_tips">輸入檢索內容</string>
     <string name="search_loacl_tips">內容檢索🙈</string>
-    <string name="sample">妳好，我是喵滴。壹個Markdown文本編輯器。\n
-        很高興在我的生命中能遇見妳。  我從2019年誕生，是壹個10後。\n
-        喵滴很小，但也很用心地在完善自己，只為給妳壹個更好的體驗。\n
-        在這裏，妳可以做很多自定義的東西讓我變得更好看。如自定義字體、自定義背景、自定義CSS樣式等等，都只為了我可以讓妳感到更舒心。\n
-        從認識妳的今天起，我願意陪妳哭，陪妳笑，陪妳壹起去看見這人世間的酸甜苦辣。\n
-        有愛，壹切變會美好。\n</string>
+    <string name="sample"># 想對小伙伴說的話   你好鴨，我是喵滴App，你的點滴生活記錄者。   在這個紛繁複雜、節奏極快的世界，喵滴希望小伙伴可以每天都有時間記錄自己的內心，以最原始的方式————文字。  喵滴從2020年誕生，是一個20後，很年輕，有很多不完善，但也一直很用心地在完善自己，只為給您一個更好的體驗。在這裡，喵滴會以最用心的方法去對待您的每一段文字，您寫下的內容幾乎不會丟失，**即使你瞬間將設備斷電，除非您主動地去刪除**。  此外，我們還專門為喜歡寫作的您配置了寫作模式，清晰的段落分明，讓您寫作起來更加的舒心。您還可以輔以專注模式，全身心地投入到您的寫作當中。在文章的雲備份方面，我們提供了Webdav、喵滴雲服務兩種選擇，讓您可以隨時隨地切換設備還可以接著您的記錄。我們還提供了書-章節-文章三級分類，在這裡，您可以把自己的文章的調動，隨心所欲，不受限制。  喵滴不僅僅優化了寫作，更提供了很多的自定義功能。您可以使用很多自定義的功能讓您使用起來。如**自定義字體**、**自定義背景**、**自定義CSS樣式**、**自定義快捷輸入**等等，這些都是免費提供使用，只為了可以讓小伙伴使用起來感到更舒心。喵滴同時還提供了系統級別的Todo提醒的服務，讓您不再錯過任何一件重要的事情，您的時間，重新回歸到您的手裡。輔以每天的打卡功能，讓完成每一天的Flag的喜悅得以累計起來，有志者，事竟成。  有愛，一切變會美好。   > 更多詳細的使用說明:https://www.miaodiapp.com/help.html   喵滴團隊   官網:https://www.miaodiapp.com   2021年</string>
     <string name="sample_name">妳好，這裏是喵滴</string>
     <string name="Todo_sample">這是個Todo清單</string>
     <string name="lineSpace">文本行距</string>
@@ -591,7 +567,7 @@
     <string name="load_successfully">拉取成功</string>
     <string name="load_abortively">拉取失敗</string>
     <string name="activate_successfully">激活成功</string>
-    <string name="writing_finish">WritingFinish</string>
+    <string name="writing_finish">Loading Finish</string>
     <string name="choose_book">選擇書本</string>
     <string name="choose_showing_chara">選擇章节</string>
     <string name="sure_to_replace">確定替換</string>
@@ -629,5 +605,18 @@
     <string name="input_your_flag_block">寫下你的文字</string>
     <string name="edit_flag_block">編輯文字小板</string>
     <string name="flag_block">文字小板</string>
-    <string name="punch_comment">打卡记录</string>
+    <string name="punch_comment">打卡記錄</string>
+    <string name="add_flag">添加目標</string>
+    <string name="more">更多</string>
+    <string name="move_to">"移動至  "</string>
+    <string name="decrypt">解密</string>
+    <string name="external_file">外部文件</string>
+    <string name="use_default_wall">使用默認壁紙</string>
+    <string name="toast_message_local_deleted">本地文章刪除成功</string>
+    <string name="toast_message_webdav_deleted">WebDav雲端文章同時刪除成功</string>
+    <string name="toast_message_cloud_deleted">同時刪除喵滴雲端文章備份成功</string>
+    <string name="all_local_delete">選中文章本地數據刪除完畢</string>
+    <string name="delete_page_statistic">本次刪除的文章數量</string>
+    <string name="title">標題</string>
+    <string name="WebDavUploadErrorTips">WebDav備份:請確保你的標題只含文字</string>
 </resources>

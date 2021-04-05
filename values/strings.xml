@@ -7,13 +7,12 @@
     <string name="menu_item_sort">排序</string>
     <string name="choice_item_create_time_sort">按创建时间</string>
     <string name="choice_item_modify_time_sort">按修改时间</string>
-    <string name="choice_item_title_sort">按标题</string>
     <string name="list_empty">没有找到任何文件\n点击右下角按钮新建文件</string>
     <string name="menu_item_search">搜索</string>
     <string name="search_hint">搜索文件</string>
     <string name="action_mode_menu_item_select_all">全选</string>
     <string name="action_mode_menu_item_delete">删除</string>
-    <string name="dialog_message_delete_files_confirm">要删除选中的文件吗？</string>
+    <string name="dialog_message_delete_files_confirm">要删除选中的文件吗</string>
     <string name="menu_item_undo">撤销</string>
     <string name="menu_item_redo">恢复</string>
     <string name="menu_item_preview">预览</string>
@@ -34,7 +33,7 @@
     <string name="dialog_title_rename_file">重命名</string>
     <string name="dialog_btn_rename">重命名</string>
     <string name="toast_content_empty">内容为空</string>
-    <string name="dialog_message_clear_all">确定要清除所有内容吗？</string>
+    <string name="dialog_message_clear_all">确定要清除所有内容吗</string>
     <string name="dialog_title_statistics">统计信息</string>
     <string name="dialog_tv_bold_text">全文共</string>
     <string name="dialog_tv_char_count">10</string>
@@ -127,20 +126,14 @@
     <string name="app_version_number">1.0</string>
     <string name="contact_me">关注我们</string>
     <string name="bottom_text">©2014–2021 Libv All rights reserved</string>
-    <string name="menu_item_title_email">Email</string>
-    <string name="menu_item_title_github">GitHub</string>
-    <string name="menu_item_title_weibo">微博</string>
     <string name="tab_1">记录</string>
-    <string name="tab_2">笔记星球</string>
     <string name="tab_3">云服务</string>
-    <string name="tab_4">设置</string>
     <string name="User">账号</string>
     <string name="LoginOrOut">登录</string>
     <string name="Login">登录</string>
-    <string name="qqLogin">QQ登录(推荐使用)</string>
     <string name="change_user_data">修改账号资料</string>
     <string name="user_exit">退出当前账号</string>
-    <string name="menu_item_setting">关于MarkDownL</string>
+    <string name="menu_item_setting">关于喵滴</string>
     <string name="Theme">主题</string>
     <string name="DarkMode">夜间模式</string>
     <string name="menu_item_upload">上传云端</string>
@@ -174,13 +167,11 @@
     <string name="Click_write">点击输入记录</string>
     <string name="process">加载中</string>
     <string name="warn">警告</string>
-    <string name="cant_recover">一旦删除将无法恢复，真的要删除吗？</string>
-    <string name="sure">我确定</string>
+    <string name="cant_recover">一旦删除将无法恢复，确认删除吗</string>
+    <string name="sure">确定</string>
     <string name="ClicktoTitle">点击输入标题</string>
     <string name="LabFunctions">实验室功能</string>
-    <string name="advance_tips">记得支付时附上您的L—code哦！激活存在延迟(不超过24小时)，若超过24小时未激活请联系作者</string>
     <string name="Email_please">请安装邮箱</string>
-    <string name="paying_tips">注意，请在支付时，填写上你的L码：</string>
     <string name="Yun_tips">您还没开通云服务</string>
     <string name="Upload_success">上传成功</string>
     <string name="Check_net">请检查你的网络</string>
@@ -190,10 +181,6 @@
     <string name="Login_please">请先登录</string>
     <string name="Working">请耐心等待</string>
     <string name="Unlock_advance">解锁或续费高级会员</string>
-    <string name="AliPay">支付宝支付</string>
-    <string name="WechatPay">微信支付</string>
-    <string name="hold_on">先熟悉一下App</string>
-    <string name="WechatPay_tips">点击确定按钮后会跳转微信扫描二维码界面:\n1. 点击右上角的菜单按钮\n2. 点击\'从相册选取二维码\'\n 3. 选择第一张二维码图片即可</string>
     <string name="try_again">请联网，并重新打开本页面</string>
     <string name="None_message">没有信息了</string>
     <string name="Click_to_refresh">已经登录？点击刷新</string>
@@ -242,7 +229,6 @@
     <string name="defined_the_key">已定义密钥</string>
     <string name="fail_to_market">请安装应用商店</string>
     <!--webdav-->
-    <string name="install_the_aliPay">请安装支付宝</string>
     <string name="total">全部</string>
     <string name="normal">默认</string>
     <string name="note_is_exist">文章已经存在</string>
@@ -329,18 +315,13 @@
     <string name="Todo">Todo</string>
     <string name="menu_item_tag">Tag</string>
     <string name="hello">您好,</string>
-    <string name="you_had_done_every_thing">恭喜你已完成所有事情 :)</string>
     <string name="you_have">您有</string>
-    <string name="evens_to_do">项todo未完成</string>
-    <string name="havent_todo">你还没有任何的todo哦 :)</string>
     <string name="choose_tag">请选择要移动至的书本</string>
-    <string name="your_current_book">你当前的书本:</string>
     <string name="new_book">新书本</string>
     <string name="setChar">设置章节</string>
     <string name="Character">章节</string>
-    <string name="current_book">当前书本为:</string>
+    <string name="current_book">当前书本为: </string>
     <string name="choose_chara">请选择要移动至的章节</string>
-    <string name="your_current_Chara">你当前章节为:</string>
     <string name="set_char">移动文章至新章节</string>
     <string name="new_char">新章节</string>
     <string name="setChar_tips">请填写你的章节名称:)</string>
@@ -364,7 +345,7 @@
     <string name="customSave">自定义保存</string>
     <string name="AppSave">应用文件夹保存</string>
     <string name="saveFileTips">请选择保存方式\nPs:Android10及以上版本请使用自定义保存</string>
-    <string name="saveSuccess">保存成功,路径：内部存储/MarkdownL/</string>
+    <string name="saveSuccess">保存成功, 存储路径:「内部存储/MarkdownL/」</string>
     <string name="BookAdd">请输入书名，你将添加一本全新的书籍，写作愉快:)</string>
     <string name="DefinedTTF">请选择你的字体文件(.ttf或.TTF)</string>
     <string name="review">恢复默认书本</string>
@@ -431,11 +412,11 @@
     <string name="set_PIN_tips">若你没有设置，则PIN设置无效。此外，密码内容最多不得超过6位数字</string>
     <string name="off_pin_tips">若开启，则进入App需要密码</string>
     <string name="cancel_to_Qdelete">关闭长按快速删除</string>
-    <string name="yOn2open_Qdalete">是否开启长按删除？</string>
+    <string name="yOn2open_Qdalete">是否开启长按删除</string>
     <string name="past_vip">VIP已过期，请重新激活</string>
     <string name="activate_forever">永久激活</string>
     <string name="expire">到期</string>
-    <string name="encrypt">解密</string>
+    <string name="encrypt">加密</string>
     <string name="chane_priority">你将改变该快捷键的顺序，数字越大，排得越前</string>
     <string name="pre_first">优先预览文章</string>
     <string name="set_sync">设置文章同步状态</string>
@@ -468,18 +449,7 @@
     <string name="search_content">内容检索</string>
     <string name="search_content_tips">需要检索的内容</string>
     <string name="search_loacl_tips">内容检索🙈</string>
-    <string name="sample"># 想对小伙伴说的话\n\n
-你好鸭，我是喵滴App，你的点滴生活记录者。\n\n
-在这个纷繁复杂、节奏极快的世界，喵滴希望小伙伴可以每天都有时间记录自己的内心，以最原始的方式————文字。 \n\n
-喵滴从2020年诞生，是一个20后，很年轻，有很多不完善，但也一直很用心地在完善自己，只为给您一个更好的体验。\n\n
-在这里，喵滴会以最用心的方法去对待您的每一段文字，您写下的内容几乎不会丢失，**即使你瞬间将设备断电，除非您主动地去删除**。此外，我们还专门为喜欢写作的您配置了写作模式，清晰的段落分明，让您写作起来更加的舒心。您还可以辅以专注模式，全身心地投入到您的写作当中。在文章的云备份方面，我们提供了Webdav、喵滴云服务两种选择，让您可以随时随地切换设备还可以接着您的记录。我们还提供了书-章节-文章三级分类，在这里，您可以把自己的文章的调动，随心所欲，不受限制。\n\n
-喵滴不仅仅优化了写作，更提供了很多的自定义功能。您可以使用很多自定义的功能让您使用起来。如**自定义字体**、**自定义背景**、**自定义CSS样式**、**自定义快捷输入**等等，这些都是免费提供使用，只为了可以让小伙伴使用起来感到更舒心。\n\n
-喵滴同时还提供了系统级别的Todo提醒的服务，让您不再错过任何一件重要的事情，您的时间，重新回归到您的手里。辅以每天的打卡功能，让完成每一天的Flag的喜悦得以累计起来，有志者，事竟成。\n\n
-有爱，一切变会美好。\n\n
-> 更多详细的使用说明:https://www.miaodiapp.com/help.html\n\n
-喵滴团队\n\n
-官网:https://www.miaodiapp.com\n\n
-2021年\n\n</string>
+    <string name="sample">"# 想对小伙伴说的话   你好鸭，我是喵滴App，你的点滴生活记录者。   在这个纷繁复杂、节奏极快的世界，喵滴希望小伙伴可以每天都有时间记录自己的内心，以最原始的方式————文字。    喵滴从2020年诞生，是一个20后，很年轻，有很多不完善，但也一直很用心地在完善自己，只为给您一个更好的体验。   在这里，喵滴会以最用心的方法去对待您的每一段文字，您写下的内容几乎不会丢失，**即使你瞬间将设备断电，除非您主动地去删除**。此外，我们还专门为喜欢写作的您配置了写作模式，清晰的段落分明，让您写作起来更加的舒心。您还可以辅以专注模式，全身心地投入到您的写作当中。在文章的云备份方面，我们提供了Webdav、喵滴云服务两种选择，让您可以随时随地切换设备还可以接着您的记录。我们还提供了书-章节-文章三级分类，在这里，您可以把自己的文章的调动，随心所欲，不受限制。   喵滴不仅仅优化了写作，更提供了很多的自定义功能。您可以使用很多自定义的功能让您使用起来。如**自定义字体**、**自定义背景**、**自定义CSS样式**、**自定义快捷输入**等等，这些都是免费提供使用，只为了可以让小伙伴使用起来感到更舒心。   喵滴同时还提供了系统级别的Todo提醒的服务，让您不再错过任何一件重要的事情，您的时间，重新回归到您的手里。辅以每天的打卡功能，让完成每一天的Flag的喜悦得以累计起来，有志者，事竟成。   有爱，一切变会美好。   > 更多详细的使用说明:https://www.miaodiapp.com/help.html   喵滴团队   官网:https://www.miaodiapp.com   2021年  "</string>
     <string name="sample_name">这里是「喵滴」</string>
     <string name="Todo_sample">这是个Todo清单</string>
     <string name="lineSpace">文本行距</string>
@@ -592,12 +562,12 @@
     <string name="current_state_non_sync">当前状态:未同步</string>
     <string name="current_state_ban_sync">当前状态:禁止同步</string>
     <string name="current_state_had_sync">当前状态:已同步</string>
-    <string name="add_or_edit_todo">Add/Edit Todo</string>
+    <string name="add_or_edit_todo">编辑 Todo</string>
     <string name="load_successfully">拉取成功</string>
     <string name="load_abortively">拉取失败</string>
     <string name="activate_abortively">激活失败</string>
     <string name="activate_successfully">激活成功</string>
-    <string name="writing_finish">WritingFinish</string>
+    <string name="writing_finish">加载完毕</string>
     <string name="choose_book">选择书本</string>
     <string name="choose_showing_chara">选择章节</string>
     <string name="sure_to_replace">确定替换</string>
@@ -635,4 +605,17 @@
     <string name="edit_flag_block">编辑文字小板</string>
     <string name="flag_block">文字小板</string>
     <string name="punch_comment">打卡记录</string>
+    <string name="add_flag">添加目标</string>
+    <string name="more">更多</string>
+    <string name="move_to">移动至</string>
+    <string name="decrypt">解密</string>
+    <string name="external_file">外部文件</string>
+    <string name="use_default_wall">使用默认壁纸</string>
+    <string name="toast_message_local_deleted">本地文章删除成功</string>
+    <string name="toast_message_webdav_deleted">WebDav云端文章同时删除成功</string>
+    <string name="toast_message_cloud_deleted">同时删除喵滴云端文章备份成功</string>
+    <string name="all_local_delete">选中文章本地数据删除完毕</string>
+    <string name="delete_page_statistic">本次删除的文章数量</string>
+    <string name="title">标题</string>
+    <string name="WebDavUploadErrorTips">WebDav备份:请确保你的标题只含文字</string>
 </resources>
